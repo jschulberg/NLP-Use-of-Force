@@ -1,0 +1,1462 @@
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+580.02 
+USE OF FORCE 
+9-18-19 
+
+ 
+PURPOSE 
+ 
+The  purpose  of  this  order  is  to  outline  procedures  for  the  use  and  application  of  force,  as  well  as  the 
+procedures  for  after-force  medical  care  and  for  the  reporting,  investigation  and  review  of  incidents  after  an 
+application of force. 
+ 
+POLICY 
+ 
+The Sacramento Police Department values the sanctity of human life and the freedoms guaranteed by the 
+United States and California constitutions.  An officer shall only use the amount of force that the officer 
+reasonably believes is necessary under the totality of the circumstances.  An officer shall consider the 
+principles of proportionality in looking at the totality of the circumstances by weighing the severity of the 
+offense, the reasonably perceived level of resistance and the need for apprehension prior to the utilization of 
+force.  An officer shall use only the force that is reasonable to effect an arrest, prevent escape, or to overcome 
+resistance.  During these situations, an officer shall continually evaluate their tactics when determining the 
+appropriate use of force response. If necessary, an officer shall render, if properly trained, or otherwise 
+request medical aid as soon as reasonably possible.  
+ 
+An officer shall employ de-escalation and crisis intervention techniques when feasible and when doing so 
+does not increase the risk of harm to officers or others. When making use of force decisions, an officer 
+should be mindful that subjects may be physically or mentally incapable of responding to police 
+commands due to a variety of circumstances including, but not limited to, alcohol or drugs, mental 
+impairment, medical conditions, or language and cultural barriers.   
+ 
+Officers use deadly force only when necessary in defense of human life or serious bodily injury. The 
+decision by an officer to use force shall be evaluated from the perspective of a reasonable officer in the 
+same situation, based on the totality of the circumstances known to or perceived by the officer at the 
+time, rather than with the benefit of hindsight, and that the totality of the circumstances shall account for 
+occasions when officers may be forced to make quick judgments about using force.  The Sacramento 
+Police Department shall evaluate the use of force used by its employees to ensure officers only use force 
+that is lawful and consistent with this policy.   
+ 
+PROCEDURE 
+
+A.  DEFINITIONS 
+
+1.  IMMINENT THREAT - An imminent threat is considered to exist if a suspect has demonstrated actions 
+that  would  lead  one  to  reasonably  believe  that  the  suspect  will  continue  to  pose  a  threat  if  not 
+apprehended without delay.  A person is an imminent threat if the officer reasonably believes that the 
+person  has  the  present  intent,  means,  opportunity  and  ability  to  complete  the  threat  regardless  of 
+whether the threatened action has been initiated. 
+
+2.  FEASIBLE  -  “Feasible”  means  reasonably  capable  of  being  done  or  carried  out  under  the 
+circumstances to successfully achieve the arrest or lawful objective without increasing risk to the officer 
+or another person. 
+
+3.  TOTALITY OF CIRCUMSTANCES – All facts known to the officer at the time, including the conduct of 
+
+the officer and the subject leading up the use of force. 
+
+4.  PROPORTIONALITY  -  When  determining  the  appropriate  level  of  force,  an  officer  shall  balance  the 
+severity of the offense committed, the threat to public safety and the level of force needed to overcome 
+resistance based on the totality of the circumstances known to, or perceived by, the officer at the time. 
+
+GO 580.02 
+Page 1 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+5.  DE-ESCALATION - Employing techniques to stabilize a situation, to decrease the likelihood of the need 
+to use force, and to increase the likelihood of voluntary compliance. De-escalation techniques include, 
+but are not limited to, gathering information about the incident, assessing risks, using crisis intervention 
+techniques,  communicating  and  coordinating  a  response,  and  utilizing  available  resources  (such  as 
+personnel, equipment; usage of time, distance, and cover). 
+
+6.  CRISIS  INTERVENTION  TECHNIQUES  (CIT)  -  A  collaborative  approach  to  safely  and 
+effectively address the needs of people with mental  illnesses, link them to appropriate services, 
+and  divert  them  from  the  criminal  justice  system  if  appropriate.  The  primary  goal  of  CIT  is  to 
+improve  officer  and  mental  health  consumer  safety  while  reducing  injuries  to  officers  and 
+consumers  during  law  enforcement  contacts.  Crisis intervention techniques include using distance, 
+time, verbal tactics, or other tactics to de-escalate a situation. 
+
+7.  LEVELS OF RESISTANCE DEFINITIONS 
+
+a.  COMPLIANT - Subject offers no resistance. 
+b.  PASSIVE NON-COMPLIANCE - Does not respond to verbal commands but also offers no physical 
+
+form of resistance. 
+
+c.  ACTIVE  RESISTANCE  -  Physically  evasive  movements  to  defeat  an  officer’s  attempt  at  control 
+including  bracing,  tensing,  running  away,  verbally  or  physically  signaling  an  intention  to  avoid  or 
+prevent being taken into or retained in custody.  
+
+d.  ASSAULTIVE  -  Aggressive  or  combative;  attempting  to  assault  the  officer  or  another  person, 
+
+verbally or physically displays an intention to assault the officer or another person.  
+
+e.  LIFE-THREATENING  -  Any  action  likely  to  result  in  serious  bodily  injury  or  death  of  the  officer  or 
+
+another person. 
+
+8.  FORCE DEFINITIONS 
+
+a.  REASONABLE  FORCE  -  An  objective  standard  of  force  viewed  from  the  perspective  of  a 
+reasonable  officer,  without  the  benefit  of  20/20  hindsight,  and  based  on  the  totality  of  the 
+circumstances  known  to,  or  perceived  by,  the  officer  at  the  time.  (See  Section  Z-1,  GRAHAM  V. 
+CONNOR) 
+
+b.  REPORTABLE USE OF FORCE - Any use of force (UOF) that causes injury as defined below; any 
+UOF whether or not it results in injury, involving the discharge of a firearm, a canine bite, or use of 
+an impact weapon, chemical agent, carotid restraint control hold, or CED; and any UOF, whether or 
+not it results in injury, that deviates from the techniques taught and the equipment provided by the 
+Department (see in section B.5.). 
+
+c.  LESS  LETHAL  FORCE-  Any  force,  agent,  or  device  that  is  not  reasonably  likely  to  cause  death.  
+Less lethal force options include, but are not limited to, the use of the CED, baton, chemical agents, 
+40mm projectiles, bean bag shotgun rounds, carotid restraint control hold, personal body weapons, 
+and control holds. 
+
+d.  DEADLY FORCE - Any force that poses a substantial risk of causing death or serious bodily injury 
+is  considered  deadly  force.    Deadly  force  may  include,  but  is  not  limited  to,  the  discharge  of  a 
+firearm, an intentional strike to the head with an impact weapon or an impromptu impact weapon. 
+
+9.  INJURY DEFINITIONS 
+
+a.  INJURY - Any visible bodily injury or complaint of bodily injury (non-visible injury). The injury must 
+be reasonably related to the use of force applied. Injury, as defined in this order, does not include 
+the temporary pain associated with the proper application of control holds and/or restraints. 
+
+b.  SERIOUS BODILY INJURY - A serious impairment of physical condition, including but not limited to 
+loss of consciousness, protracted loss or impairment of function of any bodily member or organ, a 
+wound requiring extensive suturing, and serious disfigurement.   
+ 
+
+B.  GENERAL 
+
+1.  All applications of force whether deadly or less lethal are governed by this policy. 
+
+GO 580.02 
+Page 2 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+2.  Force shall be used in compliance with Penal Code Section 835a, which states “Any peace officer who 
+has  reasonable  cause  to  believe  that  the  person  to  be  arrested  has  committed  a  public  offense  may 
+use reasonable force to effect the arrest, to prevent escape or to overcome resistance. A peace officer 
+who  makes  or  attempts  to  make  an  arrest  need  not  retreat  or  desist  from  his  efforts  because  of  the 
+resistance or threatened resistance of the person being arrested; nor shall such officer be deemed an 
+aggressor  or  lose  his  right  to  self-defense  by  the  use  of  reasonable  force  to  effect  the  arrest  or  to 
+prevent escape or to overcome resistance.” 
+
+3.  An  officer  may  use  deadly  force  if,  under  the  circumstances,  the  officer  reasonably  believes  that  the 
+suspect poses an imminent threat of death or serious bodily injury, either to the officer or to others. 
+4.  When  using  force,  an  officer  should  use  techniques  and  equipment  that  are  approved  by  the 
+
+department.  
+
+5.  Circumstances  may  arise  in  which  an  officer  reasonably  believes  that  it  would  be  impractical  or 
+ineffective  to  use  any  of  the  tools,  weapons  or  methods  provided  by  the  Department.  An  officer  may 
+find it more effective or reasonable to improvise their response to rapidly unfolding conditions that they 
+are confronting. In such circumstances, the officer may resort to using reasonable means of force.  The 
+use  of  any  improvised  device  or  method  must  nonetheless  be  reasonable  and  utilized  only  to  the 
+degree that reasonably appears necessary to accomplish a legitimate law enforcement purpose. 
+
+6.  When  feasible  under  the  totality  of  the  circumstances  and  where  it  may  be  accomplished  without 
+
+increasing the risk of harm to officers or others, officers should attempt to de-escalate situations 
+
+7.  When  an  officer  believes  they  are  dealing  with  a  mentally  ill,  developmentally  disabled,  or  an 
+emotionally  disturbed  individual,  the  officer  shall,  if  time  and  circumstances  reasonably  permit,  utilize 
+Crisis Intervention Techniques.   
+
+8.  An officer shall not use deadly force against a person who presents only a danger to themselves and 
+
+does not pose an imminent threat of death or serious bodily injury to another person or officer. 
+
+9.  If feasible, and if doing so would not increase the danger to the officer or others, the officer shall give a 
+
+verbal warning to submit to the authority of the officer before using force. 
+
+10. Refer  to  GO  522.02  Emergency  Care  for  Individuals  Under  Police  Care  or  Control  when  rendering 
+
+emergency medical treatment or summoning medical assistance. 
+ 
+
+C.  CONSIDERATIONS GOVERNING ALL REASONABLE USE OF FORCE 
+
+1.  Any peace officer who has reasonable cause to believe that the person to be arrested has committed a 
+public  offense  may  use  reasonable  force  to  effect  the  arrest,  to  prevent  escape  or  to  overcome 
+resistance. 
+
+2.  A peace officer who makes or attempts to make an arrest need not retreat or desist from his efforts by 
+reason of the resistance or threatened resistance of the person being arrested; nor shall such officer be 
+deemed an aggressor or lose his right to self-defense by the use of reasonable force to effect the arrest 
+or to prevent escape or to overcome resistance. 
+
+3.  The factors used to determine reasonableness shall be consistent with Graham v. Connor (1989) 490 
+U.S.  386.    The  decision  by  a  peace  officer  to  use force  shall  be  evaluated  from  the  perspective  of  a 
+reasonable  officer  in  the  same  situation,  based  on  the  totality  of  the  circumstances  known  to  or 
+perceived by the officer at the time, rather than with the benefit of hindsight, and that the totality of the 
+circumstances shall account for occasions when officers may be forced to make quick judgments about 
+using force. 
+
+4.  In determining the appropriate level of force, officers shall evaluate each situation in light of facts and 
+
+circumstances of each particular case. Those factors may include, but are not limited to: 
+a.  The severity of the crime 
+b.  The level of threat or resistance presented by the subject 
+c.  Whether the subject was posing an imminent threat to officers or a danger to the community 
+d.  The potential for injury to citizens, officers or subjects 
+e.  The risk or apparent attempt by the subject to escape 
+
+GO 580.02 
+Page 3 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+f.  The conduct of the subject being confronted (as reasonably perceived by the officer at the time) 
+g.  The amount of time and any changing circumstances during which the officer had to determine the 
+
+type and amount of force that appeared to be reasonable 
+
+h.  The availability of other resources 
+i.  The training and experience of the officer 
+j.  The proximity or access of weapons to the subject 
+k.  Officer versus subject factors such as age, size, relative strength, skill level, injury/exhaustion and 
+
+number officers versus subjects; and 
+
+l.  The environmental factors and/or other exigent circumstances. 
+m.  Not all of the above factors may be present or relevant in a particular situation, and there may be 
+
+additional factors not listed. 
+
+5.  Law  enforcement  officers  are  authorized  to  use  deadly  force  level  of  force  under  the  following 
+
+circumstances: 
+a.  To protect themselves or others from what is reasonably believed to be an imminent threat of death 
+
+or serious bodily injury; or, 
+
+b.  To  prevent  a  crime  where  the  suspect's  actions  are  reasonably  believed  to  place  person(s)  in 
+
+imminent jeopardy of death or serious bodily injury; or, 
+
+c.  To  prevent  the  escape  of  a  fleeing  suspect  when  the  officer  reasonably  believes  the  escape  will 
+pose a significant threat of death or serious bodily injury to the officer or others if apprehension is 
+delayed.   
+
+ 
+
+D.  PROHIBITED USES OF FORCE 
+1.  Officers shall not use force: 
+
+public or another person. 
+
+a.  Against  individuals  who  are  not  subject  to  arrest  or  detention,  except  to  protect  the  officer,  the 
+
+b.  Against  individuals  who  are  handcuffed  or  otherwise  restrained,  except  where  the  individual  is 
+actively  resisting,  attempting  escape,  or  poses  an  imminent  threat  to  the  officers,  the  public,  or 
+themselves. 
+
+c.  Against individuals for the sole purpose of preventing the exercise of first amendment rights, when 
+
+a legitimate law enforcement purpose does not exist. 
+
+d.  To punish or to retaliate. 
+e.  To stop a subject from swallowing a substance that is already in their mouth. 
+
+ 
+E.  FORCE OPTIONS 
+
+1.  Officers have a variety of force options available to them.  Officers do not need to follow a continuum of 
+force, but shall select the use of force they deem appropriate for the circumstances, ensuring their use 
+of force complies with the  law,  the  provisions  of this  order  and the  any  specific  department  orders  or 
+manuals governing the type of force they select to use.  Officers shall continue to assess their use of 
+force  selection  and either transition  to  a  different  use  of force  or  discontinue a use  of force based on 
+their assessment, ensuring their use of force remains reasonable for the circumstances.   
+
+2.  The following is a list of use of force options.  This is not a complete list of options: 
+
+a.  Carotid Restraint Control Hold  
+b.  Chemical Agents  
+c.  Conductive Energy Devices (CED)  
+d.  Control Holds  
+e.  Discharge of Firearms and Other Deadly Force  
+f. 
+Impact projectiles 
+g.  Impact weapons 
+h.  Personal Body Weapons  
+i.  Pointing of a Firearm at a person 
+
+GO 580.02 
+Page 4 of 17 
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+ 
+
+ 
+
+j.  Takedowns 
+k.  Use of Canine 
+l.  Verbal Commands/Instructions/Command Presence 
+
+3.  The following is a list of department orders and manuals covering specific use of force topics: 
+
+a.  Arrest of Passive Resisters Manual; RM 532.09 
+b.  Baton Manual; RM 580.08 
+c.  Carotid Restraint Control Hold Manual; RM 580.09 
+d.  Chemical Agents Manual; RM 580.07 
+e.  Crowd and Riot Control Manual; RM 532.11 
+f.  Less Lethal Weapons General Order; GO 580.12 
+g.  Search and Handcuff Manual; RM 523.02 
+h.  Use of Canine General Order; GO 580.14  
+i.  Use of a Conductive Energy Device (CED) General Order; GO 580.10 
+
+ 
+
+F.  USE OF A CONDUCTIVE ENERGY DEVICE (CED) 
+
+1.  An officer may deploy and use the CED under the following circumstances: 
+
+a.  To  incapacitate  a  subject  whose  conduct  rises  at  least  to  the  level  of  active  resistance  and  is  an 
+imminent  threat  to  the  officer  or  others.    This  includes  threats  or  pre-indicators  leading  up  to 
+assaultive or resistive behavior. 
+
+b.  To  incapacitate  a  suicidal  subject  who  can’t  be  safely  controlled  through  crisis  intervention 
+
+techniques or other force options. 
+
+2.  Officers shall avoid using the CED for more than a total of three (3) five-second cycles (15 seconds), 
+unless  the  totality  of  the  circumstances  are  such  that  a  reasonable  officer  would  conclude  that  each 
+subsequent  application  of  the  CED,  analyzed  separately,  is  warranted  by  the  imminent  threat  to  the 
+officer or others.  
+
+3.  CED deployment shall cease when the subject no longer represents an imminent threat to the officer or 
+
+4.  The  use  of the  CED  is  considered  a  serious  use  of force.    Each  individual  cycle of  the  CED must  be 
+
+another person. 
+
+reasonable under the circumstances. 
+
+5.  The  CED  should  not  be  used  on  handcuffed  persons  unless  they  are  actively  resisting  or 
+exhibiting active aggression and/or to prevent individuals from harming themselves or others.  
+
+6.  The CED shall be used in accordance with SPD General Order 580.10 
+
+ 
+
+ 
+
+G.  POINTING A FIREARM 
+
+1.  Nothing  in  this  policy  shall  preclude  an  officer  from  drawing  of  a  firearm  when  the  officer  reasonably 
+
+believes it necessary for the safety of the officer or another. 
+
+2.  Detentions  involving  the  pointing  of  a  firearm  at  a  person  shall  be  entered  in  accordance  with  SPD 
+
+General Order 210.09 (RIPA). 
+
+3.  The pointing of a firearm at a person shall be documented in the appropriate report or on the CAD call. 
+
+H.  DISCHARGE OF FIREARMS AND OTHER DEADLY FORCE 
+
+1.  The  use  of  a  firearm  or  other  deadly  force  is  the  most  serious  decision  an  officer  may  make.    In 
+determining  whether  deadly  force  is  necessary,  officers  shall  evaluate  each  situation  considering  the 
+circumstances of each case and shall use other available resources and techniques if reasonably safe 
+and feasible to a reasonable officer. 
+
+2.  An officer may discharge a firearm in the performance of their official duty 
+
+a.  To protect themselves or others from what is reasonably believed to be an imminent threat of death 
+
+or serious bodily injury. 
+
+b.  To  prevent  a  crime  where  the  suspect's  actions  are  reasonably  believed  to  place  person(s)  in 
+
+imminent jeopardy of death or serious bodily injury. 
+
+GO 580.02 
+Page 5 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+c.  To  effect  an  arrest,  prevent  an  escape,  or  recapture  an  escapee  when  the  officer  reasonably 
+believes the suspect to be arrested poses an imminent threat to cause death or serious bodily injury 
+if apprehension is delayed. 
+
+d.  To  stop  a  dangerous  animal  that  poses  an  imminent  risk  of  death  or  serious  bodily  injury  to  a 
+
+person. 
+
+e.  At a firing range, pursuant to all safety rules and regulations. 
+
+3.  Firearms shall not be discharged as a warning. 
+4.  If feasible, and if doing so would not increase the danger to the officer or others, the officer should give 
+
+5.  If feasible, an officer shall take reasonable care when discharging their firearm so as not to jeopardize 
+
+a verbal warning prior to using deadly force. 
+
+the safety of another officer or another person. 
+
+6.  The  decision  by  a  peace  officer  to  use  deadly  force  shall  be  evaluated  from  the  perspective  of  an 
+reasonable  officer  in  the  same  situation,  based  on  the  totality  of  the  circumstances  known  to  or 
+perceived by the officer at the time, rather than with the benefit of hindsight, and that the totality of the 
+circumstances shall account for occasions when officers may be forced to make quick judgments about 
+using force. 
+
+7.  When an employee discharges or attempts to discharge a firearm while on or off duty, intentionally or 
+accidentally,  the  employee  shall  immediately  notify  the  on-duty  watch  commander.  This  does  not 
+include  intentional  discharges  at  a  range  or  for  recreational  purposes  (e.g.,  hunting,  private  target 
+practice, or other similar activities). 
+
+8.  Officers shall comply with GO 522.02 (Emergency Care for Individuals Under Police Care or Control). 
+
+ 
+
+I.  MOVING VEHICLES 
+
+1.  An officer shall make every reasonable effort to move out of the path of an approaching vehicle instead 
+
+of discharging their firearms at the vehicle or its occupants. 
+
+2.  An officer shall make every reasonable effort to not intentionally place themselves in a position where a 
+
+vehicle could be perceived as a threat to the officer. 
+
+3.  Officers  shall  not  discharge  a  firearm  at  or  from  a  moving  vehicle  unless  one  of  the  following 
+
+circumstances exists: 
+a.  Deadly  force,  or  the  imminent  threat  of  deadly  force,  is  being  used  against  an  officer  or  another 
+
+person by means other than the moving vehicle. 
+
+b.  The  driver  is  using  or  is  attempting to  use the  vehicle as a  means to cause  injury  or  death  to the 
+
+officer or another person. 
+
+c.  When the  driver  of  a  vehicle continues to  present  an  ongoing  imminent threat  of  death  or  serious 
+bodily  injury  to  officers  or  another  person  and  deadly  force  is feasible to preserve  the  lives  of the 
+officer or another person. 
+
+4.  In  reviewing  incidents  involving  the  discharging  of  a  firearm  from  a  moving  vehicle  or  at  a  moving 
+vehicle,  the  Department will  consider  the  totality  of the  circumstances,  including  but  not  limited to the 
+whether  the  officer  or  another  person  were  in  imminent  danger  of  death  or  serious  bodily  injury  and 
+whether the officers present employed tactics consistent with the Department’s use of force principles 
+and approved training. 
+
+ 
+
+J.  CAROTID RESTRAINT CONTROL HOLD 
+
+1.  The Carotid Restraint Control Hold offers officers a method for controlling individuals when other force 
+
+options would be inappropriate, not feasible or ineffective under the circumstances.  The purpose of the 
+carotid restraint control hold is to subdue the individual to the point they can be safely controlled and 
+taken into custody.  The successful use of the Carotid Restraint Control Hold is meant to prevent the 
+officer from escalating to deadly force. 
+
+2.  The use of the Carotid Restraint Control Hold may be used when: 
+
+a.  The officer has been trained on the proper use and application of the technique. 
+
+GO 580.02 
+Page 6 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+b.  In compliance with the Carotid Restraint Control Hold Manual (RM#580.09). 
+c.  An individual is assaultive, and the officer reasonably believes that such a hold appears necessary 
+
+to prevent serious bodily injury or death to an officer or other person. 
+ 
+
+K.  MANDATORY REPORTING PROCEDURE 
+
+1.  Reporting Uses of Force 
+
+a.  Employees shall notify the field supervisor anytime they use a reportable use of force.  A reportable 
+
+use of force is any use of force where any of the following apply: 
+(1)  The use of force involves: 
+
+(a)  The discharge of a firearm 
+(b)  A canine bite 
+(c)  The use of an impact weapon 
+(d)  The use of a chemical agent 
+(e)  The use of the Carotid Restraint Control Hold 
+(f)  The use of a CED 
+(g)  Or  any  use  of  force  as  outlined  in  Appendix  #1  with  the  corresponding  reporting 
+
+requirements in Appendix #2 (refer to Appendix #1 and #2 at end of policy). 
+
+(2)  The  use  of  force  deviates  from  the  techniques  taught  or  the  equipment  provided  by  the 
+
+Department (see in section B.5.).  
+
+(3)  The use of force causes injury. 
+
+(a)  For  the  purpose  of  determining  if  a  use  of  force  is  reportable,  an  injury  is  defined  as  any 
+visible  bodily  injury  or  complaint  of  bodily  injury  (non-visible  injury).  The  injury  must  be 
+reasonably  related  to  the  use  of  force  applied.  The  temporary  pain  associated  with  the 
+proper  application  of  control  holds  and/or  restraints  is  not  an  injury  for  purposes  of 
+determining if a use of force is reportable. 
+
+b.  If an officer is in doubt as to whether a use of force is reportable, the officer shall notify their field 
+
+supervisor, who will then be responsible for making the determination. 
+
+c.  After notifying the field supervisor: 
+
+(1)  The officer shall complete the applicable report(s) (crime, casualty, and/or incident). The report 
+shall include a complete description of how and why force was used, as well as a description of 
+injuries that the suspect received or claims to have received. 
+
+(2)  An officer booking an arrested subject shall notify the appropriate jail medical staff employee of 
+
+the injury and type of force used. 
+
+(3)  The  officer  shall  forward  through  the  chain  of  command  to  the  to  the  Professional  Standards 
+Unit  (PSU)  a  competed  City  of  Sacramento  General  Liability  Loss  Report  Non-vehicular  (RM 
+Red Border Form).  
+
+d.  When the  use  of force  has  resulted  in an  injury, an  officer  shall  comply with the  provisions  in GO 
+522.02 Emergency Care for Individuals under Police Care or Control. If the individual is not arrested 
+or  will  be  released  with  a  citation,  an  officer  should  offer  to  call  for  an  ambulance  or  assist  in 
+arranging transportation to an authorized medical facility. 
+
+e.  Whether or not a use of force is reportable under this policy, any use of force used to overcome a 
+combative, physically aggressive, or fleeing subject who has delayed, obstructed, or fought with an 
+officer  shall  be  documented  in  a  crime,  casualty,  or  incident  report.  The  officer’s  field  supervisor 
+shall be notified. Brief resistance to the application of departmentally approved control holds does 
+not require a report. 
+
+2.  Excessive Force 
+
+a.  An officer shall intercede when present and observing another officer using force that is clearly 
+
+beyond that which is necessary, as determined by an reasonable officer under the circumstances, 
+taking into account the possibility that other officers may have additional information regarding the 
+threat posed by a subject. 
+
+GO 580.02 
+Page 7 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+b.  Officers shall report potential excessive force to a superior officer and/or Internal Affairs when 
+
+present and observing another officer using force that the officer believes to be beyond that which is 
+necessary, as determined by an reasonable officer under the circumstances based upon the totality 
+of information actually known to the officer. 
+
+3.  Supervisors’ Responsibilities 
+
+a.  Upon notification of a reportable use of force, the officer’s field supervisor shall: 
+
+b.  Management Level Review 
+
+(1)  Respond  to  the  location  of  the  arrest  to  ensure  that  a  thorough  investigation  takes  place.  A 
+thorough  investigation  into  a  use  of force  by  an officer should include, but is not limited to, an 
+area  canvass  (for  witnesses,  evidence  and  surveillance  video),  witness  statements  (which 
+should  be  obtained  by  a  supervisor  or  officers  not  involved  in  the  use  of  force),  suspect 
+statements,  and  photographs  of  the  scene  and  any  injuries.  If  the  supervisor  is  unable  to 
+respond to the location of the arrest, the supervisor shall note the reasons why on the call. 
+
+(2)  Review the incident with the arresting officer and/or other officers. 
+(3)  Review all recordings (both audio and video) of the event, including In-Car Camera, Body Worn 
+
+Camera video, and any available surveillance video). 
+
+(4)  Assess the appropriateness of the use of force and any charge(s) against the suspect. 
+(5)  Consider arranging for other officers to transport and book the suspect in the event the suspect 
+continues  to  display  hostile,  confrontational,  or  oppositional  behavior  toward  the  arresting 
+officer(s). 
+
+(1)  The  officer’s  field  supervisor  shall  initiate  a  management  level  review  by  making  an  entry  into 
+the Department’s use of force tracking software whenever the following reportable use of force 
+events occur: 
+(a)  Any reportable use of force that results in the suspect requiring a medical clearance (Fit for 
+Incarceration report) prior to booking or, if the suspect is not booked into jail or juvenile hall, 
+any injury that would likely require a Fit for Incarceration report. 
+
+(b)  Any reportable use of force, involving the discharge of a firearm, a canine bite, or the use of 
+
+an impact weapon, chemical agent, carotid restraint control hold, or CED. 
+
+(c)  Any  reportable  use  of  force  that  deviates  from  the  techniques  taught  or  the  equipment 
+
+(d)  Any  use  of  force  the  supervisor  or  watch  commander  determines  should  be  subject  to  a 
+
+provided by the Department. 
+
+management level review. 
+
+(2)  The  field  supervisor  shall  immediately  notify  the  watch  commander  upon  determining  that  a 
+
+management level review is required. 
+
+(3)  The field supervisor shall enter the following information into the tracking software: 
+
+(a)  List of officers involved. 
+(b)  The type of force that was used. 
+(c)  The extent of injuries (if any) to the officer and the suspect. 
+(d)  Whether or not the supervisor responded to the scene and if not, why. 
+(e)  Any administrative actions taken by the supervisor or other personnel. 
+(f)  The  supervisor's  opinion  as  to  whether  the  use  of  force  was  consistent  with  department 
+
+policy. 
+
+(g)  All pertinent documents shall be attached to the entry. 
+
+(4)  Tracking software entries should be completed within 30 days of the incident date.  
+(5)  In cases where a firearm has been discharged or the use of force results in death, the tracking 
+software entry shall be completed by IA/PSU and shall not be completed by the field supervisor. 
+(6)  If  the  use  of  force  was  captured  on  non-departmental  video,  a  copy  of  the  video  shall  be 
+
+(7)  All  uses  of  force  shall  be  categorized  using  the  level  of  force  definitions  as  outlined  by  RIPA.  
+
+forwarded to PSU. 
+
+See Appendix #1. 
+
+GO 580.02 
+Page 8 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+(8)  The watch commander shall review with the field supervisor any uses of force that are subject to 
+management level review. If, after the review, the watch commander determines that the use of 
+force was inconsistent with department policy, the watch commander shall contact the officer’s 
+captain  and  review  the  incident.  If  necessary,  the  captain  will  refer  the  incident  to  Internal 
+Affairs. 
+
+(9)  Use of force deployed by supervisors 
+
+(a)  In  the  event  a  sergeant  uses  force  or  gives  an  officer  a  direct  order  to  deploy  force  that 
+triggers  the  reporting  requirements  set  forth  in  this  order,  the  watch  commander  will  be 
+responsible for identifying the person responsible for complying with this section. 
+
+(b)  In  the  event  a  manager  uses  force  or  gives  an  officer  a  direct  order  to  deploy  force  that 
+triggers the reporting requirements set forth in this order, the manager shall notify their direct 
+superior  and  the  superior  shall  be  responsible  for  identifying  the  person  responsible  for 
+complying with this section. 
+ 
+
+L.  OFFICER INVOLVED SHOOTING RESPONSE AND INVESTIGATION 
+
+1.  Duties of the Initial On-Scene Supervisor 
+In any officer-involved shooting incident, the initial on-scene supervisor or district sergeant shall:  
+
+a.  Respond  immediately,  take  charge,  and  ensure  the  watch  commander  has  been  notified  of  the 
+
+b.  Stabilize  the  situation  and  establish  protection  of  the  crime  scene.  All  personnel  desiring  to  gain 
+
+access to the scene shall be referred to the crime scene recorder. 
+
+c.  Obtain a brief overview of the situation. 
+
+(1)  The  supervisor  shall  attempt  to  gain  an  overview  of  the  situation  by  contacting  non-shooting 
+
+incident.   
+
+officer(s).  
+
+(2)  If  the  supervisor  is  unable  to  gain  an  overview  of  the  situation  from  non-shooting  officers,  the 
+supervisor  shall  obtain  a  public  safety  statement  from  at  least  one  shooting  officer.  The  on-
+scene  supervisor  shall  ensure  shooting  officers  are  only  contacted  once  and  that  additional 
+supervisors do not repeat the request for a public safety statement. 
+
+(3)  Public safety statements are conducted using SPD Card 136. The supervisor will ask the series 
+of  preliminary  questions  contained  on  SPD  Card  136.  While  these  questions  are  intended  to 
+cover most situations, they may not fit every incident. Supervisors may deviate slightly from the 
+questions to match the facts of the incident but should be careful to limit their questions to only 
+obtaining information needed for a public safety statement. The SPD Card 136 questions are: 
+(a)  What was your approximate location(s) when you discharged your firearm? 
+(b)  What was the approximate number of rounds you fired and in what direction? 
+(c)  Do you know if any other officers fired any rounds? 
+(d)  Is it possible the suspect(s) fired rounds at you? If so, from what direction? 
+(e)  Are you aware of any victims/witnesses/injured people? If so, what is their location? 
+(f)  Are there any outstanding suspect(s)? If so, what is their description, direction and mode of 
+
+travel? Are there weapons involved? 
+
+(g)  Are there any weapons/evidence that need to be secured? If so, what is their location? 
+(4)  If an officer declines to give a public safety statement the supervisor may administratively order 
+any SPD officer to immediately provide limited public safety information necessary to secure the 
+scene,  locate  witnesses/evidence,  request  additional  resources  and  pursue  outstanding 
+suspect(s).  If  the  shooting  involves  officers  from  an  outside  agency  involved  within  city  limits, 
+the  supervisor  will  have  to  coordinate  obtaining  the  above  information  with  a  supervisor  from 
+that outside agency. 
+
+d.  After obtaining a public safety statement, administratively order each involved officer not to discuss 
+the  incident  with other  officers  until they  receive further  direction from  a supervisor  and to  turn  off 
+their body-worn cameras. 
+
+GO 580.02 
+Page 9 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+e.  Physically  collect  the  body-worn  cameras  from  all  involved  officers  and  place  them  into  separate 
+envelopes to start the chain of custody. This camera(s) will later be turned over to investigators for 
+downloading of their contents. 
+
+f.  Separate involved officer(s), assign a Peer Support Officer to each officer, and coordinate with the 
+
+watch commander to move the officer(s) to an off-site staging area. 
+
+g.  Remain on-scene to brief arriving investigators and be there to answer any questions as they may 
+
+arise. 
+
+h.  After turning the scene over to the Homicide Sergeant, the supervisor shall prepare a supplemental 
+report,  memorializing  the  Public  Safety  Statement(s)  and  other  actions  taken  at  the  scene for  the 
+General Offense (GO). 
+
+i.  Give  consideration  toward  GO  570.03  (Post-Trauma  Response)  and  offer  the  employee(s)  peer 
+
+support as outlined in GO 570.04 (Peer Support Program). 
+
+2.  Officer Involved Shooting Investigation 
+
+a.  Care  should  be  taken  to  preserve  the  integrity  of  any  physical  evidence  present  on  the  involved 
+officer(s)  and  the  officer(s)’  equipment  and/or  clothing  (e.g.  blood,  fingerprints,  etc.)  until 
+investigators or Forensic Investigators (FI) can properly retrieve it. 
+
+b.  Evidence collection shall minimally consist of: 
+
+(1)  Retrieving and booking any expended cartridges, bullets, and shotgun casings or pellets, along 
+
+with all live ammunition pertinent to the incident. 
+
+(2)  Diagramming of the crime scene, including positions of persons and objects and the trajectories 
+
+(3)  Producing adequate pictorial sketches and photographs, including the use of a video camera if 
+
+(4)  Obtaining  a  recording  of  all  radio  transmissions  within  ten  (10)  days  or  as  soon  as  they  are 
+
+of expended shots. 
+
+necessary, of damaged property. 
+
+available. 
+
+(5)  Obtaining copies of the officer(s)’ firearm training records. 
+(6)  Determining factors  of  probable  cause,  if  present,  that  contributed  to  the  officer(s)’  decision  in 
+
+discharging a weapon. 
+
+(7)  Ensuring all items of evidence related to the shooting are collected and booked. 
+(8)  Noting  the  condition  of  city  equipment  that  may  be  associated  with  the  weapon  discharge. 
+Removing from service for later inspection all such equipment that could remotely be attributed 
+to or may have been damaged, For example: 
+(a)  If  a  weapon  discharged  due  to  being  caught  on  the  officer's  gun  belt  or  clothing,  book  all 
+
+(b)  If the discharge was the result of a vehicle door closing on an officer with the weapon drawn, 
+
+such articles. 
+
+remove the vehicle from service. 
+
+c.  Obtain statements from all persons present. 
+d.  Have the area canvassed for witnesses and obtain statements. 
+e.  Involved  officers  shall  not  review  any  video  at  the  scene  without  supervisor  approval  except  for 
+exigent  public  safety  reasons  (e.g.,  providing  suspect  description,  suspect’s  direction  of  travel, 
+vehicle description, weapon type etc.). 
+
+3.  Watch Level Investigation Following an Officer Involved Shooting 
+
+a.  The following shooting incidents shall be investigated at the watch level: 
+
+(1)  Shooting of an animal. 
+(2)  Accidental discharge without injury. 
+(3)  Unsuccessful attempted discharge (e.g., weapon malfunction). 
+
+b.  The on-duty watch commander shall: 
+
+(1)  Initiate  an  administrative  investigation  involving  the  discharge  of  firearms,  except  accidental 
+discharges  at  the  range.  The  investigation  shall  be  documented  in  a  memorandum  and  sent 
+
+GO 580.02 
+Page 10 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+through the chain of command to the appropriate office chief. The report shall then be forwarded 
+to the Professional Standards Unit (PSU), where the report shall be kept on file. 
+
+c. 
+
+(2)  Designate a sergeant as the principal investigating supervisor. 
+If,  in  the  watch  commander’s  opinion,  a  more  thorough  investigation  is  necessary,  a  homicide 
+callout may be initiated. 
+
+4.  Homicide Unit Responsibilities Following an Officer Involved Shooting 
+
+a.  The Homicide Unit shall investigate the following shooting incidents: 
+
+(1)  Intentional discharge at a person. 
+(2)  Discharge resulting in injury to a person. 
+
+b.  After  the  scene  has been  stabilized  and imminent threats  of  hostility  neutralized,  command of  the 
+
+scene shall be relinquished to the Homicide Unit supervisor. 
+
+c.  Homicide  detectives  shall  be  aware  that  any  shooting  may  have  a  traumatic  effect  upon  involved 
+and  uninvolved  officers.  Detectives  shall  conduct  their  investigation  in  a  professional  manner  that 
+shall not add unnecessary trauma to the situation. 
+
+d.  The  Office  of  Investigations  Captain  or  designee  shall  contact  the  Coroner’s  Office  as  soon  as 
+practical in an attempt to identify and notify the next of kin of any subject who dies in our custody or 
+who is killed by police action.  
+
+e.  The Office of Investigations Captain or designee shall identify an investigative sergeant to serve as 
+an information liaison between the deceased subject’s next of kin and the Department. Investigative 
+updates shall be provided to the next of kin as needed or requested.      
+
+f.  District Attorney’s Office (DA) and Office of Public Safety Accountability (OPSA) Notification 
+
+(1)  The  DA  and  OPSA  or  their  designees  shall  be  notified  to  respond  to  all  officer-involved 
+
+shootings that result in injury to another person. 
+
+(2)  The  DA  and  OPSA  shall  be  permitted  access  to  the  incident  scene  to  the  extent  possible 
+without contaminating evidence or otherwise disturbing the scene. Their presence is to merely 
+observe and familiarize themselves with the situation.   
+
+(3)  The  DA  shall  conduct  an  independent  assessment  of  the  circumstances  and  will  issue  written 
+
+findings.  
+
+5.  Surrender/Inspection of Weapons Following an Officer Involved Shooting 
+
+a.  An officer shall be allowed to retain a handgun while at the scene. Firearms other than the involved 
+officer(s)’ handgun (e.g., shotguns, rifles, etc.) that have been discharged shall be secured by the 
+watch commander after the situation has been stabilized. An officer may be required to surrender 
+their handguns at the scene if a replacement weapon is immediately available. If this occurs, it shall 
+be accomplished in a private area outside the view of the public or the media. 
+
+b.  The  officer(s)’  weapon(s)  shall  be  inspected  by  an  investigator  who  is  familiar  with  the  weapon 
+
+system used, and documented as follows:  
+(1)  The magazine shall be removed. 
+(2)  The chamber shall be checked and cleared, and its condition noted. 
+(3)  All  live  rounds  shall  be  counted,  or  the  cylinder  be  opened,  and  the  number  and  location  of 
+
+spent and live rounds described and diagrammed (if necessary). 
+
+(4)  The serial number shall be recorded. 
+(5)  The weapon shall then be reloaded and returned to the officer or booked at the discretion of the 
+
+investigator. 
+
+c.  On an accidental discharge, the weapon shall be booked and referred to the armorer for inspection. 
+d.  The  officer's  supervisor  shall  ensure  that  a  replacement  weapon  is  issued  in  a  timely  manner. 
+Replacement  weapons  shall  minimally  be  kept  available  at  all  substations  and  in  the  Detective 
+Division.  
+
+e.  Any other weapon at the scene may be inspected by the investigating officers at their discretion. 
+
+6.  Transportation from the Scene 
+
+GO 580.02 
+Page 11 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+a.  As  soon  as  is  practical,  the  involved  officer(s)  shall  be  transported  from  the  scene  to  an  offsite 
+staging area, usually the nearest department facility.  The officer(s) shall be kept secure from public 
+confrontations (GO 570.04). 
+
+b.  Peer Support members shall not remove the involved officer(s) from the scene without approval of 
+
+the Incident Commander (IC). 
+
+c.  An officer being transported to a police facility in a marked unit shall not be placed in the rear seat 
+unless  under  arrest.  An  officer  may  be  transported  from  the  scene  by  their  SPOA  representative 
+and/or their attorney when appropriate. 
+
+7.  Reports 
+
+a.  Every officer shall prepare a written report of their activity and observations as soon as reasonably 
+practical unless an oral statement is taken from detectives.  Officers who complete oral interviews 
+are not be required to prepare a written report. 
+
+b.  An  officer  may  be  directed  to  prepare  reports  at  the  Detective  Division  at  the  discretion  of  the 
+
+investigating supervisor or higher authority. 
+Injured officers are exempt from preparing a report until physically capable. 
+
+c. 
+d.  Reports  shall  be  submitted  and  approved  prior  to  end  of  watch  unless  circumstances  make  the 
+
+completion of a report unreasonable as determined by an appropriate supervisor. 
+
+e.  Outside agency personnel may use their own report forms. Copies of the reports may serve as SPD 
+
+supplements. 
+
+f.  An officer shall not be advised of their Miranda rights unless: 
+
+(1)  Under arrest. 
+(2)  Information  available  to  the  investigator(s)  causes  them  to  believe  the  officer  is  criminally 
+
+responsible. 
+
+(3)  The officer makes incriminating statements during an oral interview. 
+
+g.  While an officer(s) is providing a voluntary oral interview for statement under Miranda, the following 
+
+personnel may view the process: 
+(1)  Assigned  detectives,  supervisors, 
+
+representative, DA investigator, OPSA representative, and/or the officer's legal representative. 
+(2)  Except with the expressed authorization of the ranking detective or supervisor, no others shall 
+
+Internal  Affairs  Division 
+
+(IAD) 
+
+investigator,  PSU 
+
+h.  When an oral  interview  is  conducted,  it  shall  be audio recorded  if  possible. The  officer(s)  shall  be 
+
+be allowed to view the interview. 
+
+informed that the interview is being recorded. 
+
+j. 
+
+i.  No more than two (2) detectives shall be in the interview room with an officer. An officer may have 
+representation  present  during  any  interview.  The  representative  shall  not  obstruct  or  otherwise 
+interfere with the investigative process. However, the representative may invoke Miranda to protect 
+the officer from self-incrimination.  
+Involved officer(s) and their representatives will have access to their In-Car Camera and Body-Worn 
+Camera  recordings  and/or  other  reasonably  available  recordings  of  the  incident  that  depicts  the 
+involved officer or the perspective of the involved officer at the time of the incident. However, if such 
+a  recording  also  contains  significant  content  outside  these  parameters,  the  Chief  of  Police,  or 
+designee, may redact or withhold the portions of the video containing the content. The officer and 
+their  representative  shall  be  notified  of  any  redactions  or  withholdings.  An  officer  shall  be 
+encouraged  to  recall  the  circumstances  and  provide  a  chronological  outline  of  the  incident.  The 
+officer(s) shall have the opportunity to talk to an SPOA representative or attorney prior to giving an 
+oral or written statement. 
+
+k.  The interviewing detective shall be sensitive to the physical needs and emotional well-being of the 
+
+officer. When appropriate, food and drink shall be provided. The detective shall: 
+(1)  Ensure that the officer is able to move about the office without confronting suspects, witnesses, 
+
+or the media. 
+
+GO 580.02 
+Page 12 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+(2)  Ask the officer(s) if they wish to talk with the police chaplain and/or a Peer Support member (GO 
+
+570.04). 
+
+l.  An officer who is an eyewitness to a shooting shall: 
+
+(1)  Respond to the Detective Division to complete a written report or oral interview.  
+(2)  Be directed to an available desk away from other officers or distractions. 
+(3)  Proceed with the preparation of a written report or make notes for the oral interview. 
+m.  If applicable, the investigating supervisor shall complete or shall ensure the completion of: 
+(1)  An After-Action Report (SPD 005) per GO 532.13 (After Action/Debriefing Reports). 
+(2)  City of Sacramento Liability Loss Report Form RM-3 (red border) per GO 240.03 (Civil Liability). 
+
+8.  Shooting by SPD Officers Outside City Jurisdiction 
+
+a.  Whenever an officer, by discharge of a firearm, causes a death or injury outside the city jurisdiction, 
+the  officer  shall  notify  the  agency  having  jurisdiction  and  the  SPD  watch  commander,  who  shall 
+ensure IAD is notified and assigned to assist the agency conducting the investigation for purposes 
+of coordination and keeping informed of the investigation. 
+
+b.  If the agency having jurisdiction does not have the resources available to conduct the investigation 
+and requests the SPD conduct the investigation, the watch commander shall be notified. The watch 
+commander shall assess whether our Department will conduct the investigation.   
+
+9.  Shooting by Officers of Another Law Enforcement Agency Within City Jurisdiction 
+
+a.  If death or injury is the result of a police shooting by another law enforcement agency, the Homicide 
+Unit shall be notified to handle the investigation. The other agency shall be notified immediately so 
+they may monitor the investigation [GO 560.01 (Arrest and Investigation by Allied Agencies)]. 
+
+10. Refresher Training 
+
+Any officer involved in an accidental or intentional firearms discharge shall undergo firearms refresher 
+training prior to returning to full duty. Refresher training: 
+a.  Shall be in accordance with the module prepared by the Training Section. 
+b.  May include topics such as officer safety tactics, policy, and the law. 
+c.  Shall be conducted by an authorized range master who shall direct a memorandum to the Captain, 
+Personnel  Service  Division  (PSD),  or  designee,  indicating  that  the  officer  has  received  firearm 
+refresher training. 
+
+d.  Shall  be  documented  and  submitted  to  the  PSD  to  be  placed  in  the  officer's  personnel  file  and  a 
+
+copy forwarded to PSU to be placed in the Department’s critical incident file. 
+
+11. Return to Duty 
+
+Return to duty for each employee involved in a fatal or injury shooting shall only occur after: 
+a.  Consideration has been given to GO 570.03 (Post Trauma Response). 
+b.  The COP, or designee, has notified the City Manager. 
+
+ 
+
+M.  REVIEW PROCEDURES 
+
+1.  Internal Affairs Division  
+
+a.  The IAD commander shall direct IAD investigators or PSU representatives to respond as needed. 
+b.  If an involved officer has elected to not provide criminal investigators with a voluntary statement, the 
+assigned  IAD  investigator  shall  conduct  an  administrative  interview  to  determine  all  relevant 
+information. 
+
+2.  Professional Standards Unit  
+
+PSU shall: 
+a.  Have  access  to  all  reports  and  investigative  materials  regarding  any  officer  shooting  incident  with 
+
+the exception of IAD investigative files. 
+
+b.  Keep and maintain reports and related material indefinitely. 
+c.  Contact  the  City  of  Sacramento  Risk  Manager  by  the  next  business  day  to  discuss  any  potential 
+
+civil liability issues. 
+
+d.  Schedule and facilitate a preliminary review. 
+
+GO 580.02 
+Page 13 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+e.  Submit annual URSUS reporting to the Department of Justice. 
+f.  Collect statistics in Blue Team of the use of force incidents. 
+g.  Conduct annual review of this policy. 
+h.  Maintain the Early Intervention Program (EIP). 
+i.  Prepare an annual analysis report on the use of force incidents. The report should be submitted to 
+
+the Chief of Police. The report should include: 
+(1)  The identification of any trends in the use of force by members. 
+(2)  Training needs recommendations. 
+(3)  Equipment needs recommendations. 
+(4)  Policy revision recommendations. 
+
+j.  Prepare  a  memorandum  to  the  involved  officer(s)  advising  them  of  any  in  policy  shooting  review 
+
+disposition. 
+3.  Administrative Review 
+
+a.  Officer  involved  shootings,  other  uses  of  force  resulting  in  death,  in  custody  deaths  and  other 
+significant events at the discretion of the Chief of Police shall be reviewed via the following two-step 
+process: 
+(1)  Preliminary Review  
+
+(a)  This  review  shall  take  place  within  the  first  30  days  following  the  incident.  Extensions 
+
+beyond the 30-day deadline must be approved by the Chief of Police. 
+
+(b)  The Preliminary Review is intended to be a high-level analysis of the incident evaluating our 
+
+organizational performance. This review should be facilitated by the Area Captain. 
+
+(c)  If the incident involved a use of force, the policy issues related to the specific application of 
+
+force during the event shall not be addressed. 
+
+(d)  Areas  covered  should  include  an  overview  of  facts,  initial  response,  training,  equipment, 
+policy  considerations  other  than  the  specific  application  of  force  and  internal  and  external 
+communication.  
+
+(e)  The  Captain  of  the  Office  of  the  Chief  shall  prepare  and  submit  a memo  documenting  the 
+
+findings of the Preliminary Review to PSU. 
+
+(2)  Final Policy Review 
+
+(a)  An  administrative  review  to  determine  if  the  force  used  during  the  incident  complied  with 
+
+Department policy. 
+
+(b)  Takes place after the District Attorney has rendered an opinion on the use of force. 
+(c)  Shall be chaired by the Deputy Chief, Office of Investigations, and minimally consist of: 
+
+1)  Captain(s) of the involved employee(s) 
+2)  Lieutenant, Training Division 
+3)  Watch Commander 
+4)  Department Range Master 
+ 
+5)  PSU 
+6)  Risk Management 
+7)  Office of Public Safety Accountability Director 
+8)  SPOA President 
+
+ 
+
+ 
+
+(d)  Sworn  managers  attending  the  Final  Policy  Review  shall  recommend  to  the  COP  whether 
+
+the specific use of force was within department policy. 
+
+(e)  The  investigating  Watch  Commander  or  Homicide  Sergeant  shall  be  prepared  to  fully 
+
+explain the investigation during the Final Policy Review. 
+
+(f)  The  Homicide  Sergeant  shall  ensure  that  a  copy  of  the  District  Attorney’s  review  letter  is 
+
+forwarded to PSU for proper filing and distribution to the involved employee(s). 
+
+(g)  The  Captain  of  the  Office  of  the  Chief  shall  prepare  and  submit  a memo  documenting  the 
+
+findings of the Final Policy Review to PSU. 
+ 
+
+GO 580.02 
+Page 14 of 17 
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+ 
+
+ 
+N.  TRAINING  
+
+updates. 
+
+1.  All officers shall receive training, at least annually, on this agency’s use of force policy and related legal 
+
+2.  In addition, training shall be provided on a regular and periodic basis and designed to  
+a.  Provide techniques for the use of, and reinforces the importance of, de-escalation. 
+b.  Simulate actual shooting situations and conditions.  
+c.  Enhance  an  officer’s  discretion  and judgment  in  using  less  lethal  and  deadly  force  in  accordance 
+
+with this policy. 
+
+3.  All use of force training shall be documented. 
+
+ 
+
+O.  CASE LAW REFERENCES 
+
+1.  GRAHAM V. CONNOR (1989) 490 U.S.386 is a legal standard which defines what reasonable force is. 
+The court’s decision “requires careful attention to the facts and circumstances of each particular case, 
+including the severity of the crime at issue, whether the suspect poses an imminent threat to the safety 
+of  the  officer  or  others,  and  whether  he  is  actively  resisting  arrest  or  attempting  to  evade  arrest  by 
+flight.”  In  addition,  “the  ‘reasonableness’  of  a  particular  use  of  force  must  be  judged  from  the 
+perspective of a reasonable officer on scene, rather than with 20/20 vision of hindsight... the question is 
+whether  the  officers’  actions  are  ‘objectively  reasonable’  in  light  of  the  facts  and  circumstances 
+confronting them.” 
+
+2.  TENNESSEE  V.  GARNER    471  U.S.  1  (1985),[2]  is  a  civil  case  in  which  the  Supreme  Court  of  the 
+United  States  held  that,  under  the  Fourth  Amendment,  when  a  law  enforcement  officer  is  pursuing  a 
+fleeing suspect, the officer may not use deadly force to prevent escape unless "the officer has probable 
+cause  to  believe  that  the  suspect  poses  a  significant  threat  of  death  or  serious  physical  injury  to  the 
+officer or others." It was found that use of deadly force to prevent escape is an unreasonable seizure 
+under  the  Fourth  Amendment,  in  the  absence  of  probable  cause  that  the  fleeing  suspect  posed  a 
+physical danger. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+GO 580.02 
+Page 15 of 17 
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+LEVEL 1 
+
+LEVEL 2 
+
+LEVEL 3 
+
+•  UOF resulting in death  
+•  UOF resulting in Serious Bodily Injury (SBI) 
+•  Officer involved shooting resulting in injury or 
+
+death  
+
+•  Officer involved shooting-suspect missed 
+•  Use of vehicle as weapon resulting in SBI 
+• 
+
+In-custody death 
+Use of non-issued equipment resulting in Serious 
+Bodily Injury or death 
+
+ 
+
+•  Any UOF used to overcome a 
+
+combative, physically aggressive, or 
+fleeing subject who has delayed, 
+obstructed, or fought with an officer 
+•  Any use of force that results in a visible 
+
+injury or complaint of pain by the subject 
+to whom force was applied to. Example: 
+visible scratch, abrasion, complaint of 
+pain however not minor discomfort by 
+application of certain control holds or 
+handcuffs 
+
+•  Officer involved shooting of an 
+
+animal 
+•  Canine bite 
+•  Use of carotid restraint control hold   
+•  Use of control holds resulting in SBI 
+•  CED deployment-probe 
+•  CS gas 
+•  Use of baton   
+•  Use of CED drive stun 
+•  Use of OC spray 
+•  Use of personal body weapons 
+•  Use of 40 MM impound sponge 
+
+•  Use of 40 MM direct impact OC 
+
+•  Use of flexible baton rounds (bean 
+
+(Blue Tip) 
+
+(Orange Tip) 
+
+bag) 
+
+•  Use of pepper ball (live-x-round) 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GO 580.02 
+Page 16 of 17 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+SACRAMENTO POLICE DEPARTMENT 
+GENERAL ORDERS 
+
+ 
+
+REPORTING REQUIREMENTS FOR LEVEL 1 
+
+REPORTING REQUIREMENTS FOR LEVEL 3 
+
+REPORTING REQUIREMENTS FOR 
+LEVEL 2 
+
+•  Sergeant notification 
+•  Crime or casualty report 
+•  CSI request  
+•  Red border form 
+•  Blue team entry  
+•  Watch commander investigation 
+(shooting of an animal or use of 
+carotid restraint control hold) 
+
+ 
+
+•  Sergeant notification 
+• 
+Incident/crime report 
+•  CSI request 
+•  Red border if there is visible injury 
+•  No Blue Team Entry 
+
+ 
+
+•  Sergeant notification 
+•  Homicide call out  
+•  CSI request 
+• 
+IAD call out 
+•  PSU call out 
+•  PIO call out 
+•  District Attorney response team 
+•  OPSA 
+•  Crime or casualty report 
+•  Red border form 
+•  Blue team entry 
+ 
+All call outs are based on the needs of the incident. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+GO 580.02 
+Page 17 of 17 
+ 
+
+

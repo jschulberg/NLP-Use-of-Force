@@ -1,0 +1,3220 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+PAGES:  20 
+
+REPLACES: 
+
+EFFECTIVE DATE: 06-27-97 
+
+WINSTON-SALEM POLICE DEPARTMENT 
+
+APPROVED BY:  Barry D. Rountree 
+   
+
+ 
+ 
+ 
+GENERAL ORDER: 1.27 
+ 
+SUBJECT:  Use of Force 
+ 
+REVIEW SEQUENCE: Annually 
+ 
+REVISION NUMBER/DATE: #8/01-08-14 
+ 
+ 
+ 
+INDEX AS: 
+-Baton  
+ 
+-Conducted Electrical Weapon 
+-Firearms    
+-Oleoresin Capsicum  
+-SAGE 
+ 
+-Reporting Use of Force 
+-Tear Gas 
+ 
+ 
+PURPOSE:    The  purpose  of  this  policy  is  to  establish  guidelines  for  officers  of  the  Winston-
+Salem Police Department as to the use of force, including deadly force, as allowed by applicable 
+law.  Applicable law includes, but is not limited to, NCGS 15A-401(d), “Use of Force in Arrest,” 
+which provides: 
+
+RELATED G.O.: 
+1.11 
+1.14 
+1.16 
+2.18 
+4.11 
+
+DISTRIBUTION: 
+Police Department Personnel 
+
+      Police Chief 
+
+       7.03 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NCGS 15A-401(d)       Use of Force in Arrest - 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+(1)        Subject to the provisions of subdivision (2), a law-enforcement officer is    
+justified in using force upon another person when and to the extent that he   
+ 
+reasonably believes it necessary: 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+a.         To prevent the escape from custody or to effect an arrest of a  
+person who he reasonably believes has committed a criminal  
+ 
+offense, unless he knows that the arrest is unauthorized; or 
+ 
+
+b.         To defend himself or a third person from what he reasonably  
+believes to be the use or imminent use of physical force while  
+ 
+effecting or attempting to affect an arrest or while preventing or  
+ 
+attempting to prevent an escape. 
+ 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 2 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+(2)       A law enforcement officer is justified in using deadly physical force upon   
+another person for a purpose specified in subdivision (1) of this subsection  
+ 
+only when it is or appears to be reasonably necessary thereby: 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+a.         To defend himself or a third person from what he reasonably  
+ 
+
+believes to be the use or imminent use of deadly physical force; 
+
+b.         To affect an arrest or to prevent the escape from custody of a  
+person who he reasonably believes is attempting to escape by  
+ 
+means of a deadly weapon, or who by his conduct or any other  
+ 
+means indicates that he presents an imminent threat of death or  
+ 
+serious physical injury to others unless apprehended without delay. 
+ 
+
+Definitions 
+Use of Force 
+Documentation and Reporting of Use of Force Incidents 
+Immediate Supervisor and Field Commander Responsibilities Concerning Use of  Force 
+Incidents 
+Oleoresin Capsicum Use  
+Conducted Electrical Weapon 
+
+This general order consists of the following numbered sections: 
+ 
+I. 
+II. 
+III. 
+IV. 
+ 
+V. 
+VI. 
+VII.     Baton Use 
+VIII.  Sage Control Ordnance SL6 Less Lethal Launcher 
+IX.      Deadly Force 
+X.        Tear Gas Projectile or Grenade Use 
+XI.      Canine Bite Incidents 
+XII.  Use of Force Against Animals 
+XIII.     Spit Sock 
+XIV.    Restraint Devices 
+XV.     Incidents Resulting in Death or Serious Physical Injury 
+XVI.    Analysis of Use of Force Incidents 
+XVII.  Attachments 
+ 
+I. 
+ 
+
+DEFINITIONS: 
+
+A. 
+
+B. 
+
+Passive Resistance: A subject’s failure to comply with an officer’s lawful 
+commands.  An example of passive resistance would be a subject lying or sitting 
+down when directed to remain standing, or a subject becoming limp (dead weight) 
+when an officer is attempting to transport them by foot. 
+
+Active Resistance: A subject's physical actions which prevent an officer's lawful 
+actions in attempting to place a subject into custody, attempting to stop a subject 
+from escaping custody and/or an officer’s otherwise lawful attempts to take 
+control of the subject.  An example of this would be fleeing on foot. 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 3 
+
+ 
+
+C. 
+
+ 
+D. 
+
+F.  
+ 
+
+G. 
+ 
+ 
+
+H. 
+
+I. 
+
+J. 
+ 
+ 
+ 
+ 
+
+K. 
+ 
+ 
+ 
+
+Aggressive Resistance:  A threat or overt act of an assault (through physical or 
+verbal means), coupled with the apparent present ability to carry out the threat or 
+assault, which  reasonably indicates that an assault or injury to any person is 
+imminent.  An example of aggressive resistance would be a subject physically 
+forcing their hands underneath their body and physically resisting an officer's 
+attempt to gain control of the subject or violently pulling away from an officer 
+who is attempting to control them. 
+
+Deadly Force:  Force which is reasonably likely to result in death or serious 
+injury. 
+
+E. 
+
+Lethal Weapon:  A firearm which, when discharged, is likely to cause death. 
+
+Less Lethal Weapon:  A weapon which, when used according to Departmental  
+training guidelines, is not likely to cause death. 
+
+Oleoresin Capsicum (OC) Pepper Spray: A non-lethal cayenne pepper-based  
+agent that causes instant inflammation of mucous membranes, closure of the eyes, 
+inflammation of the trachea and a burning sensation of the skin.   
+
+Physical Force: The use of any method, technique, or Less Lethal weapon which 
+involves physical contact for the purpose of restricting or controlling the 
+movement or behavior of a person. 
+ 
+Reasonable Belief: Facts and/or circumstances, including the reasonable 
+inferences drawn therefrom, known to an officer at the time he or she uses force 
+that would cause a reasonable officer to believe that the use of force is necessary 
+and appropriate. 
+
+Serious Physical Injury:  Bodily injury that creates a substantial risk of death or 
+that causes serious permanent disfigurement, coma, a permanent or protracted  
+condition that causes extreme pain, or permanent or protracted loss or impairment 
+of the function of any bodily member or organ, or that results in prolonged  
+hospitalization.   
+
+Drive Stun:  Activating the Conducted Electrical Weapon while holding the  
+front of the device against the target without firing the projectiles.  The drive stun  
+causes significant localized pain, but does not have an incapacitating effect on the  
+central nervous system.  
+
+L.        Conducted Electrical Weapon (CEW):  A less lethal electronic neuromuscular  
+incapacitation weapon that transmits an electrical signal resulting in an immediate 
+ 
+loss of a person’s neuromuscular control and the ability to perform coordinated  
+ 
+action for the duration of the impulse. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 4 
+
+M. 
+ 
+ 
+
+N. 
+ 
+
+O. 
+ 
+ 
+
+P. 
+ 
+ 
+ 
+
+Q. 
+
+A. 
+
+ 
+ 
+
+Conducted Electrical Weapon Certified Officer:  An officer who has  
+successfully completed all required training in the use and deployment of the  
+CEW. 
+
+ 
+
+Conducted Electrical Weapon Cycle:  Duration of a CEW discharge following  
+a single CEW activation. 
+
+Standard Conducted Electrical Weapon Cycle:  A five second electrical cycle  
+occurring when a CEW trigger is pressed and released.  The standard cycle may  
+be shortened by turning the CEW off. 
+
+Spit Sock: An individually packaged, disposable lightweight hood used to  
+prohibit an arrestee from expectorating and deter biting.  The Spit Sock allows  
+arrestees to breath without interference and permits visual observation of the  
+arrestee’s face. 
+
+Maximum Restraint Position: Placing a subject with their hands secured 
+behind their back, legs secured together, and their legs and hands connected 
+together behind the subject's back with the subject’s legs flexed at the knees.  
+Subject is laying on their side or face-down.  **THIS POSITION IS 
+STRICTLY PROHIBITED.** 
+
+SAGE Control Ordnance SL6 Less Lethal Launcher:  A six (6) shot projectile  
+firing weapon which fires less lethal impact munitions, that when used according  
+to Departmental training guidelines is not likely to cause death. 
+
+The WSPD use of force continuum (Attachment A) is a model to guide officers in 
+use of force decisions.  Officers should understand the Use of Force options 
+available to them and recognize that any Use of Force option has the potential to 
+cause an injury to a subject depending on the variables surrounding the totality of 
+circumstances of an incident.  Officers should consider possible effects and 
+injuries caused by the use of force beyond the direct intended effect of that 
+particular use of force, for example if a CEW was used on a person standing on 
+the side of a bridge, it should be expected that the person may fall off the side of 
+the bridge and become injured as a result of the fall.   
+
+When deadly force is justified, officers may utilize any issued weapon in response 
+as they see appropriate based on the threat presented by the suspect, their 
+assessment of the threat and their determination of the most appropriate response. 
+
+ 
+R. 
+ 
+ 
+ 
+USE OF FORCE 
+
+ 
+ 
+ 
+ 
+II. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 5 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+B. 
+
+Control levels   
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Unless otherwise approved by a Bureau Commander, it is mandatory that 
+uniformed officers, both on and off-duty must carry all issued equipment to 
+include the handcuffs, CEW,  baton, OC, firearm, magazines, radio, and flashlight 
+when working patrol/security/traffic enforcement duties.   
+
+1. 
+
+Presence 
+
+Psychological force established through the officer’s arrival on the scene  
+and symbols of authority (badge, uniform, etc.). 
+
+2. 
+
+Verbal Direction/Control 
+
+Conversation, advice, commands or instructions utilized by the officer to  
+control or de-escalate a confrontation.  Verbal communication, when  
+applicable, should accompany officer actions, including the officer’s  
+identification and announcement of arrest, if appropriate, as outlined in  
+NCGS § 15A-401(c) (2).  Officers should utilize good verbalization  
+during all levels of force. 
+
+3. 
+
+Physical Control  
+
+Use of physical contact such as touching, assisting, grabbing, joint   
+manipulations, OC, CEW and personal weapon strikes. 
+
+a. 
+ 
+
+b. 
+ 
+ 
+ 
+
+c. 
+ 
+
+d. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Soft Hand Control: Techniques which have a low probability of  
+injury, such as wrist controls. 
+
+OC Pepper Spray: Use is preferred over attempts to control a  
+subject by escalating physical force.  Should basic wrist  
+control/restraints (soft hand techniques) prove ineffective, the use  
+of OC should be evaluated. 
+
+ 
+
+ 
+
+Hard Hand Control: Techniques which have a higher probability  
+of injury, such as punches or kicks. 
+
+Conducted Electrical Weapon:  The use of the CEW is allowed  
+in an attempt to control an assaultive subject and/or to prevent an  
+imminent threat of an assault such as aggressive resistance.  Verbal 
+statements alone do not constitute aggressive resistance behavior.   
+Should the use of other options such as the use of OC Pepper  
+Spray or Hard Hand Control Techniques prove ineffective or not  
+be viable, the use of a CEW should be evaluated. 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 6 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+5. 
+ 
+ 
+
+4. 
+ 
+ 
+ 
+
+Incapacitating: Use of personal weapon strikes (hands, feet, knees,   
+etc.) to the head/neck, baton strikes to major muscle mass, the use of  
+the CEW (for special consideration circumstances listed in section VI., C., 
+1-5 of this general order) and the SAGE. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III.  DOCUMENTATION AND REPORTING OF USE OF FORCE INCIDENTS    
+ 
+ 
+ 
+ 
+ 
+
+Employees shall notify their immediate supervisor, as soon as possible, after an incident  
+involving the use of the SAGE Launcher, OC, tear gas, baton, use or threatened use of a  
+CEW, or firearm on a citizen.    If the incident occurs while the employee is off-duty, he  
+will immediately notify the on-duty Field Commander.   
+
+Deadly Force: Actions which would likely result in serious injury or  
+death, including the use of firearms, baton strikes to the head, choke holds  
+or any technique used to stop the use or imminent use of deadly force. 
+
+ 
+
+A. 
+
+Employees shall document in an Incident Report and Less Lethal   Weapons 
+Supplement Report (Attachment B) any incident involving the use of the SAGE 
+Launcher, OC, tear gas, baton, or use or threatened use of a CEW on a citizen.  
+Any other use of force incident will be documented in an Incident Report only. A 
+report will not be required when the force used was limited to soft hand contact 
+such as touching and the routine application of handcuffs.   If an officer is 
+uncertain whether the restraint or control used is a reportable use, he shall notify 
+his immediate  supervisor who will make the determination.  
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+B. 
+
+Any incident involving the use of the SAGE Launcher, OC, tear gas, baton, use or 
+threatened use of a CEW, or firearm on a citizen will be considered a use of force 
+incident and reviewed accordingly.   
+
+ 
+C.  Weapons will be utilized only by employees who have successfully completed all  
+ 
+ 
+D. 
+
+required training in the use and deployment of the weapon.  
+ 
+Use of force incidents on a citizen will be reported in an internal investigation 
+package in accordance with the Internal Investigations Manual.  The package will 
+consist of an Incident  Report, Supplements, Less Lethal Weapons Supplement 
+Report, any available video and/or audio recordings and an 
+Administrative/Incident Investigation Review form.  If the subject  is transported 
+to a hospital due to the exposure or other in-custody injuries, the package will 
+include a Pre-Confinement form.  
+ 
+If a citizen is injured or requires transport to a hospital under the guidelines of this 
+General Order, the citizen will be taken to Forsyth Medical Center, or if  
+specifically requested, to Wake Forest Baptist Medical Center, unless in the  
+officer’s opinion EMS is more appropriate for the situation.  Subjects who are not  
+under arrest cannot be forced to respond to the hospital.   
+
+ 
+E. 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 7 
+
+F. 
+
+Should the condition of a subject deteriorate while being transported by an officer 
+to the hospital, the officer shall use his best judgment based on time of day, 
+proximity to the hospital, estimated arrival time of EMS, traffic volume, etc., 
+when determining whether or not to proceed on to the hospital, render aid, or 
+contact and wait for EMS.  
+
+Complaints of unauthorized use of force will be investigated by the Professional  
+Standards Division (PSD) in accordance with the Management of Professional  
+Standards of Conduct. 
+
+G. 
+ 
+ 
+  
+IMMEDIATE SUPERVISOR AND FIELD COMMANDER  
+RESPONSIBILITIES CONCERNING USE OF FORCE INCIDENTS 
+
+Immediate Supervisors and Field Commanders have general duty requirements as listed 
+below regarding supervision of use of force incidents regardless of the use of force type.   
+Duties that are specific to certain use of force types are listed within those particular  
+sections of this general order. 
+ 
+A. 
+
+The supervisor, or if the reporting officer is off-duty, the Field Commander or his 
+designee, will ensure the involved officer(s) completes an Incident Report and 
+Less Lethal Weapons Supplement Report for any use of OC, Baton, SAGE 
+Launcher, Tear Gas Grenade, use or threatened use of a CEW, or Firearm on a 
+citizen. 
+
+Report to the exposed subject’s location, interview all witnesses and the exposed  
+subject, and document in a supplement report and/or departmental  memorandum, 
+as appropriate.   
+
+Complete a Notification of Incident (NOI) with distribution to the Use of Force 
+Coordinator and the Public Safety Attorney. 
+
+The employee’s immediate supervisor shall be responsible for completion  of the 
+appropriate internal investigation package in accordance with the Internal 
+Investigation Manual. 
+ 
+If the incident occurs while the employee is off-duty, the on-duty patrol 
+supervisor will be responsible for A-C above.  Additionally, the on-duty 
+supervisor will be responsible for forwarding any form or document that must be 
+submitted by 0800 hours the following day, per the Internal Investigation Manual, 
+to the proper person.     
+
+ 
+IV. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+B. 
+ 
+ 
+
+C. 
+
+D. 
+
+ 
+ 
+ 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 8 
+
+OLEORESIN CAPSICUM USE 
+
+J:\TRAINING\INSERVICE\Lesson Plans\2014\SCAT 
+
+A. 
+ 
+ 
+
+B. 
+
+The use of OC is preferred over attempts to control a subject by escalating   
+physical restraint.  Should basic wrist control/restraints (soft hand techniques)  
+prove ineffective, the use of OC should be evaluated. 
+
+Any person known by the employee to be affected by OC shall be offered 
+assistance without delay pursuant to General Order 1.11, Injuries to Persons and 
+Arrestees: Fatal and Non-Fatal/Illnesses of Arrestees.  Employees will ask the 
+exposed subject if he has any current respiratory conditions or a history of 
+respiratory conditions such as asthma, bronchitis, emphysema, etc. and conduct a 
+visual inspection of the subject for a medic-alert bracelet or necklace indicating 
+the existence of a condition immediately after exposure.  The exposed subject 
+shall be constantly watched for signs of distress to include, but not limited to, 
+difficulty breathing, heavy sweating, or signs of excited delirium until the point 
+the subject is no longer under the employee’s control.  
+
+ 
+
+1. 
+
+Exposed- 
+
+Not In-Custody 
+
+V. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+
+If the subject is not in custody and appears to be in a normal state of 
+health, but indicates that he has a current respiratory condition or a history 
+of respiratory conditions, the subject will be  offered transportation by the 
+officer to a hospital.  The officer may also contact EMS if the subject 
+prefers not to ride with the officer.  A subject who has not been arrested 
+may not be forced to receive decontamination or medical treatment. 
+
+If a subject who is in custody indicates that he has a current respiratory  
+conditions or a history of respiratory problems, the officer will  
+transport the arrested subject to a hospital unless in the officer’s  
+opinion EMS is more appropriate for transport.   
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Exposed- 
+
+In- Custody  
+
+2. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VI.         CONDUCTED ELECTRICAL WEAPON  
+ 
+ 
+ 
+
+ 
+
+A.  
+
+J:\TRAINING\INSERVICE\Lesson Plans\2014\SCAT 
+
+ 
+
+Conducted Electrical Weapon 
+ 
+The use of the CEW is allowed in an attempt to control an assaultive subject 
+and/or to prevent an imminent threat of an assault such as aggressive resistance.  
+Verbal statements alone do not constitute aggressive resistance behavior.   Should 
+the use of other options such as the use of OC or Hard Hand Control Techniques 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 9 
+
+prove ineffective or not be viable, the use of a CEW should be evaluated. 
+ 
+1. 
+ 
+
+The CEW will be utilized only by officers who have successfully    
+completed all required training in the use and deployment of the device.  
+
+Use will be consistent with training as defined by the CEW lesson plan  
+and hands-on training. 
+
+Officers will target the lower portion of center mass or the legs of a  
+subject’s body when deploying a CEW.  Officer should avoid, if possible,  
+aiming probes at a subject’s head, neck and genital areas. 
+
+B.        Officers will NOT use a CEW in the following circumstances:  
+
+On a subject who is near, or has been exposed to, potentially  
+flammable, volatile or explosive materials. 
+
+ 
+
+When a subject is in a significant amount of water. 
+
+When a subject is in a position where a fall may cause substantial  
+injury or death. 
+
+Punitively; as a means of coercion or in any other unjustified manner. 
+
+Nothing herein shall be construed to limit the authority of an officer to use  
+deadly force as permitted by law. 
+ 
+SPECIAL consideration, consistent with Departmental training, should be  
+given for the use of and prior to the use of the CEW on a subject who meets  
+the criteria listed below. 
+ 
+Use of the CEW will only be justified on these subjects when the subject's    
+behavior is at the assaultive level; and/or so violent that it could result in serious  
+physical injury to themselves or others and lower levels of force are unsafe or  
+ineffective; or it is reasonable to believe lower levels of force would be unsafe or  
+ineffective given the circumstances surrounding the incident.   
+
+Is visibly pregnant. 
+
+Is fleeing on foot-Officers will NOT use a CEW in an attempt to stop a  
+fleeing subject purely for the person’s fleeing/flight alone without an  
+accompanying justifiable reason.  For example, a subject who flees at the  
+sight of a police officer may not be subjected to the CEW. 
+
+Is operating a functioning, operable motor vehicle. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+2. 
+ 
+
+3. 
+ 
+ 
+
+1. 
+ 
+
+2. 
+
+3. 
+ 
+
+4. 
+
+1. 
+
+2. 
+ 
+ 
+ 
+
+3. 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 10 
+
+Is physically limited (age related, young child, or frail). 
+
+4. 
+
+5. 
+
+Is handcuffed. 
+
+Officers must thoroughly document their justification for the use of a CEW on  
+subjects who are identified as requiring special consideration.   
+
+D.  When deploying a CEW, officers should use one (1) standard CEW cycle (five 
+seconds) and re-evaluate.  If subsequent activations are necessary, they should 
+normally be limited to two (2) reactivations (not to exceed 5 seconds each) as 
+necessary to gain control of the subject.  Officers must be able to articulate the 
+circumstances that warranted any additional CEW activations beyond the initial 
+three (3) activations.  An example would be no available or immediate back up 
+with continued aggressive resistance by the suspect. 
+
+The CEW shall not be used in drive-stun mode without a cartridge attached as a 
+pain compliance technique. 
+
+CEWs may be used in drive-stun mode only to supplement the probe mode to 
+complete the incapacitation circuit.  The drive stun function without the 
+cartridge attached shall be used only in exigent circumstances such as a 
+cartridge malfunction and/or during a cartridge change where other use of 
+force options are not practical or readily available. 
+
+Officers shall handle and store the CEW in the same manner as a firearm,   
+exercising a due regard for safety. 
+
+The CEW will be carried on the officer's support side to be drawn from the CEW  
+holster in a cross-draw manner with the officer's dominant hand.   
+
+After receiving appropriate training from a Certified CEW Instructor and approval 
+from their assigned Division Commander, officers assigned to specialized units  
+(i.e. S.W.A.T. , Special Investigation Division), may utilize alternative  
+carrying/holstering methods.  
+
+ 
+
+Conducted Electrical Weapon Evidence Collection 
+
+In the event of a serious injury and/or death involving a CEW, evidence collection 
+must be conducted so as to ensure the integrity of evidence.  The following  
+guidelines should be followed (Refer to General Order 4.11, Evidence and  
+Property Management): 
+
+1. 
+ 
+
+Photograph wounds, probe impacts, and/or drive-stun  
+marks (with scale for reference in the photo). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+E. 
+
+ 
+
+F. 
+ 
+
+G. 
+ 
+
+H. 
+ 
+ 
+ 
+
+I. 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+J. 
+
+Post-Exposure Procedures 
+
+2. 
+ 
+
+3. 
+ 
+ 
+
+4. 
+ 
+ 
+
+5. 
+ 
+ 
+
+6. 
+ 
+
+1. 
+
+ 
+
+ 
+
+Photograph the subject to document where injuries are present and   
+where injuries are not present. 
+
+Keep the original battery in the CEW (certain CEW models require the  
+battery to always remain inserted to keep the integrity of the CEW’s  
+internal clock). 
+
+Retain and properly store the cartridge probes and wires.  Place the probes 
+in a paper bag. Do not wind the wire up –maintain wire integrity as best as 
+possible. 
+
+Collect and maintain, as evidence, the subject’s clothing in the event that a 
+probe penetrated or was attached to the clothing or for later analysis of  
+potential probe impact sites. 
+
+Collect several AFID tags, if at all possible, from the TASER cartridge(s)  
+and note their locations at the scene.   
+
+Any person appearing to have been adversely affected following exposure 
+to a CEW will be offered assistance without delay pursuant to General 
+Order 1.11, Injuries to Persons and Arrestees: Fatal and Non-Fatal 
+Illnesses of Arrestees.  In all cases of CEW deployment against a person, 
+officers will ask the exposed subject if he has a history of cardiac-related 
+health issues and conduct a visual inspection of the subject for a medic-
+alert bracelet or necklace indicating the existence of a medical condition 
+immediately after exposure.  All exposed subjects shall be constantly 
+watched for signs of distress to include, but not limited to, difficulty 
+breathing, heavy sweating, or signs of excited delirium until the point the 
+subject is no longer under the officer’s control.     
+
+a. 
+
+Exposed – Not In Custody  
+
+If the subject is not in custody and appears to be in a normal state 
+of health, but indicates that he has a history of cardiac-related 
+health issues, the subject will be offered transportation by the 
+officer to a hospital.  The officer may also contact EMS if the 
+subject prefers not to ride with the officer.  A subject who has not 
+been arrested may not be forced to receive medical treatment. 
+
+b.  
+
+Exposed- In Custody   
+
+ 
+ 
+
+If a subject who is in custody indicates that he has a history of 
+cardiac-related health issues, the officer will transport the arrested 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 12 
+
+ 
+ 
+
+c. 
+ 
+ 
+
+d. 
+ 
+ 
+
+subject to a hospital unless in the officer’s opinion EMS is more 
+appropriate for transport.   
+
+Subjects who are in custody and are pregnant and/or medically  
+or physically limited will be transported to a hospital unless in  
+the officer’s opinion EMS is more appropriate for transport.     
+
+Subjects who are arrested and have been exposed to more than  
+three 5 second CEW cycles, will be taken to a hospital unless in  
+the officer’s opinion EMS is more appropriate for transport.   
+
+  
+
+Following the deployment of a CEW, a Conducted Electronic Device  
+Certified Officer may remove probes that have penetrated the skin,  
+however, probes that strike the subject in the head, face, neck, spine,  
+breast,  or groin will be removed by Emergency Medical Services or   
+hospital emergency department personnel.  Any probe that an officer is  
+uncertain about removing will be removed by Emergency Medical   
+Services or hospital emergency department personnel.  The officer will  
+use protective  equipment such as disposable gloves and other universal  
+precautions to prevent exposure to Bloodborne pathogens.  Probes will be  
+removed following the steps outlined in the CEW lesson plan. 
+
+Probes that are removed by advanced medical personnel will be  
+photographed prior to removal. However, treatment should not be delayed  
+for the purpose of obtaining photographs. 
+
+ 
+
+If the CEW discharge was unintentional and no one was struck and/or  
+injured, the officer will document actions leading to the discharge in a  
+general memorandum to their immediate supervisor.   
+
+Immediate Supervisor and Field Commander Responsibilities 
+
+In addition to the duties listed in Section IV of this General Order, Immediate  
+Supervisors are responsible for the following: 
+ 
+1. 
+ 
+
+When possible, ensure probe impact points on the body are photographed  
+before and after removal. 
+
+Whenever a CEW is utilized (cartridge fired) by an officer, the officer’s  
+immediate supervisor will ensure that the CEW is downloaded prior to  
+shift end, as trained.  A download may be completed by any sworn   
+departmental supervisor or CEW instructor.  A copy of the downloaded  
+use log will be printed and attached to the Incident Report.   
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3. 
+ 
+ 
+
+4. 
+ 
+ 
+
+2. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+L. 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+5.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BATON USE 
+
+ 
+VII. 
+ 
+ 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+3. 
+ 
+ 
+ 
+ 
+ 
+
+4. 
+ 
+
+ 
+ 
+
+ 
+
+  
+
+If a CEW is discharged unintentionally and does not result in a strike  
+and/or injury to a person, the officer’s immediate supervisor will review  
+the discharge along with the officer's submitted general memorandum and  
+document his findings utilizing a Supervisor’s Review Form, or an   
+Administrative Investigation, as appropriate, in accordance with the  
+Internal Investigations Manual.   
+
+ 
+
+ 
+
+ 
+
+The immediate supervisor will notify PSD and the Use of Force  
+Coordinator of the circumstances that surrounded the incident if: 
+
+a. 
+ 
+
+b. 
+
+c. 
+
+A CEW is deployed for longer than five seconds during a  
+cycle. 
+
+If a subject is exposed to more than 3 cycles. 
+
+Any other abnormal circumstances have occurred.   
+
+ 
+
+ 
+
+Supervisors may direct officers to store the CEW in the designated   
+locker for download if there are any unusual circumstances   
+ 
+surrounding the deployment.    
+
+ 
+
+J:\TRAINING\INSERVICE\Lesson Plans\2014\SCAT 
+
+A. 
+
+Use of lower levels of force, to include OC and CEW, should be considered 
+before use of the baton.   
+
+B. 
+
+Post Exposure Procedures 
+
+1.  
+
+Exposed – Not In Custody  
+
+If the subject is not in custody, the subject will be offered transportation by 
+the officer to a hospital.  The officer may also contact EMS if the subject 
+prefers not to ride with the officer.  A subject who has not been arrested may 
+not be forced to receive medical treatment. 
+ 
+
+Exposed- In Custody  
+
+2. 
+ 
+
+Regardless of whether there is an obvious injury, any person(s) struck by 
+an officer’s baton who is in custody shall be taken to a hospital for 
+assessment, unless in the officer’s opinion EMS is more appropriate for 
+transport.  This should be done without delay, pursuant to General Order 
+1.11, Injuries or Illnesses of Arrestees: Fatal and Non-Fatal.   
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 14 
+
+ 
+ 
+ 
+
+C. 
+
+Immediate Supervisor’s Responsibilities 
+
+In addition to the duties listed in Section IV of this General Order, Immediate  
+Supervisors are responsible for ensuring photographs are taken of the area of the  
+person’s body struck by the baton.   
+
+ 
+ 
+ 
+ 
+ 
+ 
+VIII.  SAGE CONTROL ORDNANCE SL6 LESS LETHAL LAUNCHER 
+ 
+ 
+ 
+ 
+
+J:\TRAINING\INSERVICE\LessonPlans\2011 
+
+The SAGE Control Ordnance SL6 Less Lethal Launcher should be considered in 
+situations where closing distance with a subject could cause an escalation of force 
+or increased risk of injury to any person within close proximity to the incident.   
+For example, deployment of the SAGE Launcher may be used against a 
+noncompliant  suspect armed with a knife who refuses to obey lawful commands 
+to drop the knife.  This may allow for the suspect to be taken into custody without 
+resorting to a higher level of force. 
+
+Post Exposure Procedures 
+
+1. 
+
+Exposed – Not In Custody  
+
+If the subject is not in custody, the subject will be offered transportation 
+by the officer to a hospital.  The officer may also contact EMS if the 
+subject prefers not to ride with the officer.  A subject who has not been 
+arrested may not be forced to receive medical treatment. 
+
+Exposed- In Custody  
+
+2. 
+ 
+
+Regardless of whether there is an obvious injury, any person(s) struck by a 
+Sage Launcher who is in custody shall be taken to a hospital for 
+assessment, unless in the officer’s opinion EMS is more appropriate for 
+transport.  This should be done without delay, pursuant to General Order 
+1.11, Injuries or Illnesses of Arrestees: Fatal and Non-Fatal.   
+
+ 
+
+Immediate Supervisor’s Responsibilities 
+ 
+In addition to the duties listed in Section IV of this General Order, immediate  
+supervisors are responsible for ensuring photographs are taken of the area of the  
+person’s body struck by the projectile.   
+
+Any Sage Launcher projectile that strikes a subject shall be seized and placed into 
+Evidence Management.  If the projectile did not strike a person and has no  
+evidentiary value, the projectile and its metal cartridge should be returned to the  
+Range master. 
+
+A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. 
+
+C. 
+
+D. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 15 
+
+IX.        DEADLY FORCE 
+ 
+ 
+
+ 
+
+A. 
+
+Firearms Use: 
+
+J:\TRAINING\INSERVICE\Lesson Plans\2013\Firearms Lesson Plan inst.docx 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+1. 
+
+2. 
+
+1. 
+
+2. 
+ 
+
+3. 
+
+Firearms shall NOT be discharged under the following circumstances: 
+
+As a warning; 
+
+Indiscriminately, not in the line of duty. 
+
+Nothing herein shall be construed to limit the authority of an officer to use deadly  
+force as permitted by law. 
+
+B. 
+
+Discharging Firearms from a Moving Vehicle 
+
+An officer shall not discharge a firearm from a moving vehicle unless the officer  
+reasonably believes no other means are practical to defend himself or other  
+citizens from the use or imminent use of deadly force. 
+
+C. 
+
+Firearms may be Discharged by an Officer in the Following Circumstances: 
+
+When the use of deadly force is lawful; 
+
+To destroy a dangerous animal or to alleviate further suffering of an  
+injured animal when other disposition is impractical; and/or 
+
+For target practice/qualification at an approved range. 
+
+deadly  force. 
+
+D.  When practical, officers should issue a verbal warning prior to the use of    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E. 
+
+OFFICERS SHALL SECURE MEDICAL CARE WITHOUT DELAY  
+FOR ANY PERSONS INJURED AS A RESULT OF THE USE OF  
+DEADLY FORCE PURSUANT TO GENERAL ORDER 1.11,  
+INJURIES OF ILLNESSES OF ARRESTEES: FATAL AND NON- 
+FATAL. 
+
+Documentation of Drawing or Discharging of a Firearm 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 16 
+
+1. 
+ 
+ 
+ 
+ 
+
+2. 
+ 
+ 
+ 
+
+3. 
+ 
+ 
+ 
+
+4. 
+
+ 
+
+ 
+ 
+
+Anytime a firearm of any type is drawn while engaged in any type of  
+confrontation with a person, the officer shall complete an Incident or  
+Supplement Report.  For example, if an officer draws his firearm while  
+approaching a vehicle on a traffic stop, an Incident or Supplement Report  
+will be required. 
+
+ 
+
+ 
+
+A copy of all Incident or Supplement Reports involving the drawing or  
+discharge of any city-issued firearm will be forwarded to the Rangemaster.  
+Events sanctioned by the Department, such as firearms training, will be  
+exempt from this procedure. 
+
+The supervisor notified of an officer discharging a city-issued firearm,  
+except as set out in Section 3. below, shall immediately notify the on-  
+duty Field Commander who shall in turn notify the appropriate Bureau  
+Commander, Division or District Commander, and PSD Commander.  
+
+The PSD Commander will be responsible for the following: 
+
+Notifying the Police Chief of such incidents. 
+
+Internal investigation of all discharging of firearms   
+incidents by department personnel. 
+
+ 
+
+a. 
+
+b. 
+ 
+
+Only a supervisor at the rank of Sergeant or above may authorize the use of tear  
+gas projectiles or grenades.  Medical and Fire Department personnel and    
+equipment should stage near the scene when using tear gas projectiles or grenades 
+in confined areas or buildings, as deemed appropriate by the authorizing  
+supervisor. 
+
+ 
+
+Any person known by the employee to be affected by tear gas shall be offered 
+assistance without delay pursuant to General Order 1.11, Injuries to Persons and 
+Arrestees: Fatal and Non-Fatal/Illnesses of Arrestees.  Employees will ask the 
+exposed subject if he has any current respiratory conditions or a history of 
+respiratory conditions such as asthma, bronchitis, emphysema, etc. and conduct a 
+visual inspection of the subject for a medic-alert bracelet or necklace indicating 
+the existence of a condition immediately after exposure.  The exposed subject 
+shall be constantly watched for signs of distress to include, but not limited to, 
+difficulty breathing, heavy sweating, or signs of excited delirium until the point 
+the subject is no longer under the employee’s control.  
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+A. 
+ 
+ 
+ 
+ 
+
+B. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+X. 
+ 
+ 
+
+TEAR GAS PROJECTILE OR GRENADE USE 
+
+J:\TRAINING\INSERVICE\Lesson Plans\Tear Gas 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 17 
+
+ 
+ 
+
+ 
+
+ 
+
+1. 
+
+Exposed 
+
+Not In-Custody 
+
+If the subject is not in custody and appears to be in a normal state of 
+health, but indicates that he has a current respiratory condition or a history 
+of respiratory conditions, the subject will be  offered transportation by the 
+officer to a hospital.  The officer may also contact EMS if the subject 
+prefers not to ride with the officer.  A subject who has not been arrested 
+may not be forced to receive decontamination or medical treatment. 
+ 
+Exposed  
+
+In- Custody  
+
+ 
+
+If a subject who is in custody indicates that he has a current respiratory  
+conditions or a history of respiratory problems, the officer will  
+transport the arrested subject to a hospital unless in the officer’s  
+opinion EMS is more appropriate for transport.   
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+2. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+XI.   CANINE BITE INCIDENTS 
+ 
+
+Any incident involving a citizen being bitten by a police canine will be considered a use 
+of force incident and reviewed accordingly.  For specific procedures, refer to General 
+Order 2.18, K-9 Units. 
+
+A. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+XII.  USE OF FORCE AGAINST ANIMALS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Disposing of Injured Animals 
+
+B. 
+
+Officers may use appropriate force to defend themselves or others from a vicious  
+or attacking animal.  The officer will make reasonable attempts to notify the  
+owner of the animal, thoroughly document the incident in an Incident Report and  
+forward the complete Incident Report to include any on-officer audio or video  
+recordings to PSD.  (A Less Lethal Weapons Supplement Report is not required  
+for exposures to animals.) 
+
+ 
+
+The following procedure will be adhered to when disposing of an injured animal,  
+when there is no evidence of injury, criminal misconduct or property damage 
+(other than the involved animal):  
+
+The appropriate personnel, at the rank of Sergeant or above, will conduct a 
+complete and thorough investigation.   
+
+The scene will be photographed by the Sergeant or his designee. 
+
+All observations and investigative information will  be noted in the  
+appropriate Incident Report and Supplemental Reports.  
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1. 
+ 
+
+2. 
+
+3. 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 18 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+4. 
+ 
+ 
+ 
+ 
+
+All reports, photographs, and any available audio and video recordings  
+will be collected and an Administrative Review Form, with the words  
+“Animal Shooting” written at the top, will be attached and the completed  
+information will be forwarded for review through the chain of command  
+to the PSD Commander. 
+
+Application of the Spit Sock will be in accordance with WSPD training  
+guidelines. 
+
+ 
+
+The Spit Sock will not be altered, tightened or secured to the arrestee in any way. 
+
+The Spit Sock should remain in its original unopened packaging until ready for  
+use and only used once. 
+
+B. 
+
+C. 
+ 
+
+A. 
+ 
+
+XIII.  SPIT SOCK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+XIV.  RESTRAINT DEVICES 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+
+A. 
+ 
+ 
+ 
+ 
+ 
+B. 
+
+1. 
+2. 
+3. 
+4. 
+
+All Restraint Devices must be approved by the Use of Force Coordinator prior to  
+use.  Restraint Devices will only be used to enhance officer  safety and prisoner  
+security.  All such devices will be used in accordance with state laws, training  
+guidelines and at appropriate force levels.   Officers will not utilize the  
+MAXIMUM RESTRAINT position.   
+
+ 
+
+Approved Restraint Devices 
+
+Handcuffs, Leg Cuffs (Shackles) 
+Toka – LR-2, Leg Restraint Belt 
+Flex Cuffs 
+Handcuff Restraint Belt 
+
+ 
+ 
+ 
+ 
+ 
+INCIDENTS RESULTING IN DEATH OR SERIOUS PHYSICAL INJURY 
+
+ 
+
+ 
+
+ 
+
+A. 
+
+Fitness For Duty Assessments 
+
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2. 
+ 
+
+Any employee who uses force on a person who dies or suffers a serious  
+physical injury will be temporarily reassigned and required to submit to a  
+fitness for duty assessment as provided in General Order 7.03, Employee  
+Assistance Program/Fitness for Duty.  A doctor’s fitness for duty    
+ 
+assessment will be furnished to the Police Chief. The doctor’s  
+recommendation on the employee’s fitness for duty will provide a basis  
+for the Police Chief’s decision on the employee’s return to duty pending  
+administrative review.  
+
+The Police Chief will determine whether employees involved in incidents  
+resulting in death or serious injury to a citizen or officer will be required to 
+
+XV. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 19 
+
+submit to a fitness for duty assessment in accordance with the standards  
+established in General Order 7.03, Employee Assistance Program/Fitness  
+for Duty.  The results of any such assessment will be provided to the Chief 
+of Police. 
+
+Counseling will be made available to any employee in accordance with  
+General Order 7.03, Employee Assistance Program/Fitness for Duty. 
+
+B. 
+
+Assignment/Equipment 
+
+The Police Chief will determine the assignment of an employee who is  
+subject to administrative or criminal investigation or both during a use of  
+force investigation(s).  The Police Chief may, at his discretion, place an  
+employee on administrative duty or administrative leave with pay for all  
+or a part of the investigation.  
+
+Any police employee whose issued weapon is seized because of a use of  
+force incident will be required, upon the Police Chief’s approval, to  
+qualify with a newly issued weapon(s) prior to issuance. 
+
+Any employee who has been placed on administrative leave because of a  
+use of force situation will not operate any city-owned vehicle while on  
+leave.  The employee’s immediate supervisor will determine where the  
+officer's assigned vehicle is to be parked and notify the fleet manager of  
+that location.  In the likelihood of extended leave, the vehicle may be  
+reassigned after discussion with the fleet manager.  Other restrictions on  
+issued equipment may be made by the Police Chief. 
+
+4.  
+ 
+ 
+
+Any employee who has been placed on Administrative Duty because of a  
+use of force situation may be subject to equipment restrictions as directed  
+by the Police Chief.   
+
+Any restrictions placed upon an employee’s scope of authority pursuant to  
+this General Order, shall be at the discretion of the Police Chief. 
+
+ 
+
+At the discretion of the Police Chief, the State Bureau of Investigation (SBI) may  
+be requested to investigate use of force incidents involving Departmental    
+personnel that  result in serious injury or the death of an arrestee or citizen.  Upon  
+such request, it will be the responsibility of the Criminal Investigations Division  
+(CID) Commander to notify the SBI. The CID Commander shall promptly advise  
+the PSD Commander of the SBI notification. 
+
+ 
+ 
+ 
+ 
+
+3. 
+ 
+
+1. 
+ 
+ 
+ 
+ 
+
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+C. 
+ 
+
+D. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+GO #:  1.27                              SUBJECT: Use of Force 
+
+  Page: 20 
+
+XVI.  ANALYSIS OF USE OF FORCE INCIDENTS 
+ 
+ 
+
+A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Operations Support Division Commander shall appoint a Use of Force 
+Review Committee annually.  This committee shall be responsible for 
+conducting a quarterly review of cases involving both lethal and non-lethal 
+uses of force and providing feedback regarding identified training or policy 
+concerns.  The PSD Commander shall provide the Use of Force Review 
+Committee chairman with a quarterly report of the documented use of force 
+incidents for the prior  quarter to aid in this review. 
+
+The PSD Commander shall compile an annual analytical report concerning 
+incidents involving both lethal and non-lethal uses of force by Police 
+Department personnel to be forwarded to the Police Chief.  The report shall 
+be completed by January 31 of each year for all use of force incidents that 
+occurred in the preceding year. Copies of completed reports will be 
+forwarded to the Planning and Accreditation manager for accreditation  
+purposes. 
+
+XVII.  ATTACHMENTS 
+ 
+ 
+ 
+
+A.   WSPD Use of Force Continuum 
+B. 
+  
+
+Less Lethal Weapon Supplement (Note: an electronically fillable version of this  
+form is located in Shareall/Forms) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+R/01-08-14 
+
+Winston-Salem Police Department 
+
+Attachment A 
+
+ASSESSMENT -  CALL TYPE,RESPONSE LEVEL,THREAT LEVEL,PERCEPTIONS FROM SIGHT,HEARING,SMELL GESTURES, STANCE, REACTION TO OFFICER'S PRESENCE                                 STANCE,PHYSICAL CONDITION/APPEARANCE,EYE CONTACT,NUMBER OF OFFICERS                                                                   PASSIVE(QUESTIONING,REFUSAL TO RESPOND, ACTIVE(BRACING,TENSING,GRASPS FIXED OBJECT)              FRIENDLY(DISCUSSION), BUSINESSLIKE(DEFINE OPTIONS/LIMITS),COMMANDINGRESISTIVE -  AGGRESSIVE/DEFENSIVE STANCE, ACTIVE DISTANCING, PULLING                                          POSITIONING, SOFT HAND TECHNIQUES,  AEROSOL, CEW, HARD HAND,(PERSONAL WEAPON STRIKES, DYNAMIC TAKEDOWNS),  RESTRAINT DEVICES       PERSONAL WEAPON STRIKES, BITES                                                                                                                        PERSONAL WEAPON STRIKES TO HEAD/NECK, BATON STRIKES TO MAJOR        MUSCLE MASS (SAGE SL6 STRIKES TO PRIMARY/SECONDARY TARGETS), SPEAR, CEW                                         BATON STRIKES TO HEAD,CHOKES, RAMMING, USE OF FIREARMS                        (SAGE SL6 STRIKES TO FINAL TARGET AREAS)                             CHOKES, ASSAULTS INVOLVING VEHICLES, WEAPONS USE,  LIFE THREATENING ACTSOFFICER'S FORCE INCREASE/REDUCTIONSUBJECT'S BEHAVIORUSE OF FORCE APPLICATIONS - WINSTON-SALEM POLICE DEPARTMENT (REVISED 2014)5432112345PHYSICAL-INCAPACITATING-DEADLY-NONCOMPLIANT-ASSAULTIVE-DEADLY-PRESENCE-PRESENCE-VERBAL-WINSTON-SALEM POLICE DEPARTMENT 
+
+Attachment B 
+
+1. INCIDENT NUMBER 
+
+      
+
+2. REPORT DATE/TIME 
+
+ 
+
+      
+
+LESS LETHAL WEAPONS 
+SUPPLEMENT  
+
+3. INCIDENT 
+
+ 
+                                     
+
+ 4. Subject Behavior:   
+
+ ASSAULTING 3RD PARTY   
+
+ INVOLVED IN FIGHT WITH 3RD PARTY   
+
+ ATTEMPTING TO INJURE  SELF      
+
+ 
+
+ ARMED WITH WEAPON      
+
+ ASSAULTING OFFICER    
+
+ RESISTING OFFICER(S)    
+
+DESCRIPTION OF ACTION:           
+
+5. Force Used Prior to Weapons Use: 
+
+ NO PHYSICAL FORCE   
+
+ SOFT HAND TECHNIQUES   HARD HAND TECHNIQUES 
+
+             (Check All That Apply)                      
+
+ HARD HAND STRIKES     
+
+ FIREARM DRAWN 
+
+6. Less Lethal Weapons Utilized:       
+
+ OC  
+
+ C.E.W.  
+
+ BATON  
+
+ IMPACT MUNITION  
+
+ TEAR GAS GRENADE 
+
+            (Check All That Apply)                      Complete Related Section(s)       
+
+7. Force Used After Weapons Use:    
+
+ NO PHYSICAL FORCE   
+
+ SOFT HAND TECHNIQUES   HARD HAND TECHNIQUES 
+
+            (Check All That Apply)                  
+
+ HARD HAND STRIKES     
+
+ FIREARM DRAWN  
+
+ UNRESISTED APPLICATION OF HANDCUFFS 
+
+8. Alcohol Use:  
+
+ YES  NO  UNKNOWN   BAC IF KNOWN:                 9. Drug Use:  
+
+ YES  
+
+ NO/UNKNOWN  TYPE:           
+
+10. Restraint Method:  HANDCUFFS  
+
+ FRONT  REAR         TOKA, LR2       
+
+ LEG CUFFS      FLEX CUFFS  ANKLES 
+
+ WRISTS   
+
+11. Total Officers Present When Deployed:                                          12.  Total Officers Utilizing Less Lethal Weapons:            
+
+13. Arrestee Injury From Less Lethal Weapon: 
+
+ BRUISE   
+
+ LACERATION/ABRAISON  
+
+ BROKEN BONE   
+
+ SPRAIN/STRAIN    
+
+ PROBE MARK      
+
+ NONE     
+
+ UNKNOWN / REFUSED TREATMENT   
+
+ OTHER:                                                                                                                              
+
+14 Medical Resource:  
+
+ FMC   
+
+ NCBMC   
+
+  EMS  OTHER:            
+
+15. LEDC Confinement:   
+
+ YES   
+
+ NO 
+
+“OC” AEROSOL USE      LOT#                   MANUFACTURE DATE:           
+
+ 
+
+16.  DISCHARGE DISTANCE:   
+
+ LESS THAN 3'     
+
+ 3'-6'    
+
+ 6'-8'   
+
+ 8'-12'    
+
+ MORE THAN 12'    
+
+ NOT APPLICABLE - CANISTER MALFUNCTION 
+
+17.  DISCHARGE AMOUNT:   
+
+ INITIALLY:          ,          SECOND BURSTS     SECONDARY:          ,          SECOND BURSTS      
+
+          ADDITIONALLY:          ,          SECOND BURSTS                                                                                                                                                                                                                                       
+
+18.  TARGET AREA: (SEE GUIDE B)  
+
+ AREA 1   
+
+ AREA 2  
+
+ AREA 3  
+
+ AREA 4   
+
+ AREA 5    
+
+ AREA 5 (DESCRIBE): 
+
+19.  EXPOSURE REACTION TIME:  
+
+ 0-5 SECONDS  
+
+ 5-10 SECONDS   
+
+ 10-15 SECONDS  
+
+ MORE THAN 15 SECONDS  
+
+ NO REACTION 
+
+20.  SUBJECT’S INITIAL REACTION: (CHECK ALL THAT APPLY)   
+           
+
+ CEASES PREVIOUS ACTION    
+
+  CONTINUES AGGRESSIVE BEHAVIOR     NO REACTION    
+
+ OTHER:           
+
+ EYE CLOSURE  
+
+ HANDS TO FACE       FLEES/ATTEMPTS TO FLEE                                     
+
+21.  DECONTAMINATION:   
+
+ REFUSED   
+
+ SALINE RINSE  (PERFORMING OFFICER           )                                                 LOT#           
+
+22.  VISION RECOVERY:   
+
+ 5 MINUTES OR LESS    
+
+ 5-10 MINUTES     
+
+ 10-15 MINUTES    
+
+ OTHER:            MINUTES                                                                                
+
+23.  EYE GLASSES/SUN GLASSES:  
+
+ YES  
+
+ NO                                                                                                                            
+ YES    
+
+24.  CONTACT LENSES:   
+
+ NO      
+
+25. GENERAL RECOVERY:  
+
+ 15 MINUTES OR LESS     
+
+ 15-30 MINUTES   
+
+ 30-45 MINUTES    
+
+ 45-60 MINUTES 
+
+26.  RESPIRATORY CONDITION: 
+ 3RD PARTY INDICATED       
+
+BATON USE       
+
+ NONE IDENTIFIED       SUSPECT IDENTIFIED       
+
+27.  CONFIRMED RESPIRATORY CONDITION:   
+
+ NONE                                                                                 
+
+ OFFICER DETERMINED     
+
+ MEDIC-ALERT                                             
+
+ ASTHMA    
+
+ EMPHYSEMA       
+
+ BRONCHITIS 
+
+28.  NUMBER STRIKES DELIVERED(SEE GUIDE A):    
+
+ INITIALLY:           TO AREA #            
+
+ ADDITIONALLY TO AREA #            
+
+             
+
+  ADDITIONALLY TO AREA#                      
+
+ ADDITIONALLY TO AREA#                     
+
+ ADDITIONALLY TO AREA#           
+
+29.  SUBJECT REACTION: 
+
+ ACTION CEASED   SUBJECT DOWN/ACTION CEASED    SUBJECT DOWN/AGGRESSION CONTINUED   
+
+ NO EFFECT          
+
+ NARRATIVE  CONTINUATION 
+
+30.  OFFICER  COMPLETING REPORT (NAME/CODE NUMBER) 
+ 
+ 
+
+ 
+
+31. APPROVED BY  (NAME/CODE NUMBER) 
+
+32.   ROUTING 
+
+ 
+
+ 
+
+33. CASE OFFICER (NAME/CODE NUMBER) 
+
+ SAME AS #30 
+
+34.  2ND OFFICER (NAME/CODE NUMBER) 
+ 
+
+35.  REFERRED TO: 
+ 
+
+36.  
+ 
+Page ____ of ____ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Attachment B 
+
+C.E.W. USE      UNIT SERIAL #                                 CARTRIDGE #                    
+
+37.  DISCHARGE DISTANCE:   
+
+ THREATENED USE ONLY   
+
+ LESS THAN 3'     
+
+ 3'-6'    
+
+ 6'-8'   
+
+ 8'-12'    
+
+ MORE THAN 12'     
+
+                                                    
+
+ NOT APPLICABLE - C.E.W. MALFUNCTION 
+
+38.  NUMBER OF CYCLES USED:                       DURATION CYCLE 1:                                              DURATION CYCLE 2:             
+
+       DURATION CYCLE 3:                                                                                    
+
+  DRIVE STUN   (TOTAL #          , DURATION           ) 
+
+39.  AREAS OF PROBE CONTACT (SEE GUIDE A): HIGH PROBE                LOW PROBE                
+
+40.  SUBJECT REACTION: (CHECK ALL THAT APPLY)     FLEES/ATTEMPTS TO FLEE    
+
+ FALLS TO GROUND    
+
+ ATTEMPTS / REMOVES PROBES                           
+
+           
+
+ CEASES PREVIOUS ACTION    
+
+  CONTINUES AGGRESSIVE BEHAVIOR     NO REACTION    
+
+ OTHER:           
+
+41.  PROBE REMOVAL(NAME):  OFFICER                                       
+
+ EMS PERSONNEL                              
+
+ HOSPITAL PERSONNEL            
+
+42.  CARDIAC CONDITION: 
+
+ NONE IDENTIFIED       SUSPECT IDENTIFIED       
+
+ 3RD PARTY INDICATED     
+
+                                                                      
+
+ OFFICER DETERMINED                                                  
+
+ MEDIC-ALERT                                                                                                                      
+
+43.  CLOTHING CHARACTERISTICS (CHECK ALL THAT APPLY):  
+
+  SINGLE LAYER  
+
+ MULTI-LAYERED CLOTHING  
+
+ LIGHT OUTER GARMENT  
+
+           
+
+ HEAVY OUTER GARMENT/ COAT            
+
+ NONE/OTHER (Describe):            
+
+44. C.E.W. USE LOG: 
+
+ UNIT SECURED FOR DOWNLOAD       
+
+ PRINTED AND DELIVERED TO RECORDS 
+
+LAUNCHED ORDNANCE USE       
+
+45.  DISCHARGE DISTANCE:   
+
+ LESS THAN 10'     
+
+ 10’20'    
+
+ 20'-30'   
+
+  MORE THAN 30'     
+
+46.  DISCHARGE AMOUNT (SEE GUIDE A):  :  
+
+ HIGH ENERGY   
+
+ LOW ENERGY   INITIALLY TO AREA:               SECONDARY TO AREA:                 
+
+      ADDITIONALLY TO AREA:              ADDITIONALLY TO AREA:             ADDITIONALLY TO AREA:             ADDITIONALLY TO AREA:           
+
+47.  SUBJECT REACTION: (CHECK ALL THAT APPLY)    
+
+ ACTION CEASED   SUBJECT DOWN/ACTION CEASED     
+
+ NO EFFECT    
+
+              SUBJECT DOWN/AGGRESSION CONTINUED      FLEES/ATTEMPTS TO FLEE    
+
+ OTHER:           
+
+48.  CLOTHING CHARACTERISTICS (CHECK ALL THAT APPLY):  
+
+  SINGLE LAYER  
+
+ MULTI-LAYERED CLOTHING  
+
+ LIGHT OUTER GARMENT  
+
+           
+
+ HEAVY OUTER GARMENT/ COAT        
+
+ NONE/OTHER (Describe):               
+
+ 
+                   
+
+ 
+ 
+ 
+ 
+01-08-2014 
+
+ 
+
+ 
+
+B1234956ACDEFGHK10MNPRTVXZ2431781112OC  AREAS (1-5)      GUIDE B  FRONT                                 BACK A-K, 1-10                          M-Z,1-10BATON AFFECTED AREAS-GUIDE AW#3 -RIGHTSIDE OFHEAD#4-LEFT SIDEOF HEAD#5-ALL OTHER AREAS INCLUDINGUNKNOWN/UNABLE TO DETERMINE12
