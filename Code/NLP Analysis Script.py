@@ -16,6 +16,7 @@ import re # Work with regular expressions
 import matplotlib.pyplot as plt # Viz package
 import numpy as np # numpy is used for deeper data analysis in python
 import pandas as pd # Used for data analysis
+import collections # Used for iterating on various datasets
 
 
 
@@ -136,3 +137,33 @@ plt.clf()
 # This will provide further insight into
 # combinations of words that are likely
 # to occur together.
+
+# Count our unique word pairs and put it into list form
+balt_bigrams = list(nltk.bigrams(balt_filtered_again))
+
+# Create counter of words in clean bigrams
+bigram_counts = collections.Counter(balt_bigrams)
+
+# What's the most common pair of words?
+bi_counts = bigram_counts.most_common(20)
+print(f"Our top {len(bi_counts)} words, and their associated frequencies, are:\n{bi_counts}")
+
+
+# Let's try converting the frequency distribution to a pandas dataframe
+balt_bigram_df = pd.DataFrame(bi_counts, columns = ['word_pairs', 'count'])
+
+
+### Viz time
+fig, ax = plt.subplots(figsize=(8, 8))
+
+# Plot horizontal bar graph
+balt_bigram_df.sort_values(by='count').plot.barh(x='word_pairs',
+                      y='count',
+                      ax=ax,
+                      color="green")
+
+# Set the title of the graph
+ax.set_title("Top 20 Word Pairs Found in Baltimore Use of Force Policy")
+
+plt.show()
+plt.clf()
