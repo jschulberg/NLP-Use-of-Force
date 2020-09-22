@@ -15,6 +15,7 @@ from collections import Counter # Helps with word counts
 import re # Work with regular expressions
 import matplotlib.pyplot as plt # Viz package
 import numpy as np # numpy is used for deeper data analysis in python
+import pandas as pd # Used for data analysis
 
 
 
@@ -74,43 +75,28 @@ print(f"Number of non stop-words in document: {len_balt_nostop}")
 # Let's loop through our dataset and count everything using counter
 balt_count = Counter(word.lower() for word in balt_filtered)
 
-# Count everything in a dictionary format
-# def simple_count(tokens):
-#     count_dict = {}
-#     for token in tokens:
-#         count_dict[token] += 1
-#     return count_dict
-
-# simple_count(balt_tokens)
-
-# def count_frequencies(word_list):
-#     # Calculate word frequencies
-#     word_freq = [word_list.count(word) for word in word_list]
-#     # Zip together words + word frequencies into the same dict
-#     return dict(list(zip(word_list, word_freq)))
 
 balt_freq = nltk.FreqDist(balt_filtered)
 
 # What's the most common word?
-counts = balt_freq.most_common(25)
+counts = balt_freq.most_common(20)
 print(f"Our top {len(counts)} words, and their associated frequencies, are:\n{counts}")
 
 
-labels, values = zip(*counts.items())
+# Let's try converting the frequency distribution to a pandas dataframe
+balt_freq_df = pd.DataFrame(counts, columns = ['words', 'count'])
 
-# sort your values in descending order
-indSort = np.argsort(values)[::-1]
 
-# rearrange your data
-labels = np.array(labels)[indSort]
-values = np.array(values)[indSort]
+### Viz time
+fig, ax = plt.subplots(figsize=(8, 8))
 
-indexes = np.arange(len(labels))
+# Plot horizontal bar graph
+balt_freq_df.sort_values(by='count').plot.barh(x='words',
+                      y='count',
+                      ax=ax,
+                      color="green")
 
-bar_width = 0.35
+ax.set_title("Top 20 Words Found in Baltimore Use of Force Policy")
 
-plt.bar(indexes, values)
-
-# add labels
-plt.xticks(indexes + bar_width, labels)
 plt.show()
+plt.clf()
