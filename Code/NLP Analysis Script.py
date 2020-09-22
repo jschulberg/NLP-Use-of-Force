@@ -41,6 +41,16 @@ type(baltimore_txt) # Our data is in list format
 ######################################
 ###     Text Pre-processing        ###
 ######################################
+# In this section, we work on processing
+# the text so it's ready for further analysis.
+# This includes, but is not limited to:
+#   1. Tokenizing text
+#   2. Removing numbers
+#   3. Removing insignificant (stop) words
+#   4. Getting rid of contractions
+#   5. Misc. text cleaning
+
+
 # Make all the text lowercase
 balt_lower = baltimore_txt[0].lower()
 
@@ -65,18 +75,33 @@ stop_words = set(stopwords.words('english'))
 # Only pull in words that are NOT in stop words
 balt_filtered = [word for word in balt_tokens if not word in stop_words]
 
+# Check the number of unique words in our dataset
 len_balt_nostop = len(balt_filtered)
 print(f"Number of non stop-words in document: {len_balt_nostop}")
+
+
+# There are some other weird words popping up, that we need to remove
+additional_stop_words = ['shall', 'may']
+
+balt_filtered_again = [word for word in balt_filtered if not word in additional_stop_words]
+
+# Check the number of unique words in our dataset
+len_balt_cleanwords = len(balt_filtered_again)
+print(f"Number of non stop-words in document: {len_balt_cleanwords}")
+
 
 
 ######################################
 ###            Word Count          ###
 ######################################
-# Let's loop through our dataset and count everything using counter
-balt_count = Counter(word.lower() for word in balt_filtered)
+# In this section, we count the frequency
+# (i.e. the number of times) each word
+# appears in the text. We then visualize
+# our data using matplotlib.
 
 
-balt_freq = nltk.FreqDist(balt_filtered)
+# Let's use nltk's FreqDist function to count the occurrences of each word
+balt_freq = nltk.FreqDist(balt_filtered_again)
 
 # What's the most common word?
 counts = balt_freq.most_common(20)
@@ -96,7 +121,18 @@ balt_freq_df.sort_values(by='count').plot.barh(x='words',
                       ax=ax,
                       color="green")
 
+# Set the title of the graph
 ax.set_title("Top 20 Words Found in Baltimore Use of Force Policy")
 
 plt.show()
 plt.clf()
+
+
+######################################
+###             Bi-Grams           ###
+######################################
+# In this section, we count the frequency
+# of ordinal pairs of words occurring together.
+# This will provide further insight into
+# combinations of words that are likely
+# to occur together.
