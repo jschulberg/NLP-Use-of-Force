@@ -1,0 +1,407 @@
+425 – Policy Governing In-Custody Injuries and Use of Force
+
+Santa Ana Police Department
+
+Departmental Order #425 – Policy Governing In-Custody Injuries and Use of
+Force
+
+Print Queue
+
+425 – Policy Governing In-Custody Injuries and Use of Force . . . . . . . . . . . . . . . . . . . . . . . . . . .  1
+
+Purpose . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+
+Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+
+Policy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+
+Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+A. Deadly Force. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+
+B. Deadly Weapon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+
+C. Injury . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+
+D. Force. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+
+I. Authorized Use of Force . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+
+II. Authorized Use of Deadly Force . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+
+III. Use of Force Incidents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+A. Command of the Scene . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+
+B. Supervisory Responsibilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+
+IV. Reporting Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+A. Incidents Requiring a Supervisory Log: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+
+B. Incidents Requiring a Supervisor’s Use of Force Investigation Report – Taser Form. . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+
+C. Incidents Requiring a Supervisor’s Use of Force Investigation Report . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+
+D. Assignment of Corporals to Use of Force Investigations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+
+E. Reporting Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+
+V. Officers' Duties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+
+VI. Jail . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+A. Report of Injury . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+
+425 – Policy Governing In-Custody Injuries and Use of Force
+
+1
+
+Print Queue
+
+The purpose of this Order is to establish Department policy regarding the use of force and to provide
+guidelines for reporting, investigating and documenting all incidents involving use of force and in-custody
+injuries. Nothing in this policy and the attached commentary is intended to create or does create an
+enforceable legal right to a private right of action.
+
+Purpose
+
+Background
+
+The Constitution entrusts police officers with special powers not given to ordinary citizens. Police, while
+engaged in their lawful duties, have a legitimate right to use force to overcome resistance. It is critical that
+all use of force and in-custody injuries be properly investigated and documented. An unbiased
+investigation and accurate documentation immediately following a use of force or in-custody injury will
+help to protect the Department and officers against liability, and identify unacceptable behavior,
+procedural concerns and training needs. Additionally, the law enforcement services provided by the
+Department will be recognized by the public as fair, impartial and sensitive to the dignity and worth of
+each individual.
+
+Policy
+
+The Santa Ana Police Department recognizes and respects the value of human life and personal dignity.
+Vesting officers with the authority to use force to protect the public's welfare requires a careful balancing
+of all human interests. Therefore, it is the policy of this department that officers shall use only that
+amount of force which appears to be objectively reasonable, given the facts and circumstances perceived
+by the officer at the time of the event, to effectively bring an incident under control. "Objectively" refers
+to what other officers, with the similar training and experience as the involved officer, would logically
+believe or conclude. Reasonableness of the force used must be judged "from the perspective of a
+reasonable officer at the scene, rather than with the 20/20 vision of hindsight" "Moreover, allowances
+must be made for the fact that police officers are often forced to make split-second judgments in
+circumstances that are tense, uncertain, and rapidly evolving about the amount of force that is necessary
+in a particular situation." Graham v. Conner 490 U.S. 386, 396 (1989)
+
+Definitions
+
+A. Deadly Force
+
+B. Deadly Weapon
+
+It is important that all reports, investigations, administrative reviews, and internal documentation
+regarding a use of force incident utilize the same terminology. Inconsistency in term usage will only lead
+to confusion and may hinder investigations regarding the use of force.
+
+That force, which an officer knows or should know, is likely to cause death or serious bodily injury, or in
+the manner of its use or intended use is capable of causing a substantial risk of death or serious bodily
+injury.
+
+Any Instrument Used for Lethal Purposes, Including a Firearm Or Other Instrumentality, Which In the
+Manner of Its Use Could Cause Death Or Serious Bodily Injury.
+
+Purpose
+
+2
+
+Print Queue
+
+C. Injury
+
+D. Force
+
+Refers to any physical harm inflicted by police, or sustained while in police custody and includes any
+wound, bruise, abrasion, or complaint of pain.
+
+Any action taken to control, restrain, overcome or stop a suspect's resistance.
+
+I. Authorized Use of Force
+
+Physical force may be used to effect a lawful arrest or to restore/maintain order when actions of persons
+reasonably appear to threaten the safety of others. Officers shall use a reasonable amount of force as
+required by the immediate circumstances. Force used beyond that which is reasonable becomes excessive
+and is prohibited. Any peace officer who has reasonable cause to believe that the person to be arrested has
+committed a public offense may use reasonable force to effect the arrest, to prevent escape or to overcome
+resistance. A peace officer who makes or attempts to make an arrest need not retreat or desist from his/
+her efforts by reason of the resistance or threatened resistance of the person being arrested; nor shall such
+officer be deemed an aggressor or lose his/her right to self-defense by the use of reasonable force to effect
+the arrest or to prevent escape or to overcome resistance. California Penal Code § 835(a). A peace officer
+may use reasonable force to make an arrest or detention, to prevent escape, or to overcome resistance.
+Additionally, if a peace officer has probable cause to believe a public offense will be or is in the process of
+being committed, a peace officer may use reasonable force to prevent such public offense from occurring
+and to restore/ maintain order. Given that no policy can realistically predict every possible situation an
+officer might encounter in the field, it is recognized that each officer must be entrusted with well-
+reasoned discretion in determining the appropriate use of force in each incident. While it is the ultimate
+objective of every law enforcement encounter to minimize injury to everyone involved, nothing in this
+policy requires an officer to actually sustain physical injury before applying reasonable force.
+
+As noted, any application of force by a member of this department must be judged by a standard of
+“reasonableness.” When determining whether or not to apply any amount of force and evaluating
+whether an officer has used reasonable force, a number of factors should be taken into consideration.
+Those factors should include, but are not limited to:
+
+1. The conduct of the individual being confronted (as reasonably perceived by the officer at the
+
+2. Officer/subject factors (age, size, relative strength, skill level, injury/exhaustion, number of
+
+time).
+
+officers vs. subjects).
+
+3. Influence of drugs/alcohol.
+
+3. Proximity of weapons.
+
+circumstances).
+
+4. Availability of other options (what resources are reasonably available to the officer under the
+
+5. Seriousness of the suspected offense or reason for contact with the individual.
+
+6. Training and experience of the officer.
+
+I. Authorized Use of Force
+
+3
+
+Print Queue
+
+7. Potential for injury to citizens, officers and suspects.
+
+8. Risk of escape.
+
+9. Other exigent circumstances.
+
+Each officer is expected to respond with only that amount of force, which reasonably appears appropriate
+under the circumstances at the time to successfully accomplish the legitimate law enforcement purpose in
+accordance with this policy.
+
+If feasible, prior to using force, which carries a significant risk of serious injury, officers are recommended
+to give warning that such force may be used. If a warning is not feasible, officers should document why it
+was not practical to do so.
+
+II. Authorized Use of Deadly Force
+
+The use of deadly force is authorized:
+
+1. In the defense of the officer from death or serious bodily injury.
+
+2. In the defense of another officer or any other person from death or serious bodily injury.
+
+3. To prevent the escape of a violent felony suspect where the suspect has failed to yield to any
+type of reasonable warning or physical apprehension, and the officer reasonably believes that
+the escape will pose an immediate and significant threat of death or serious bodily injury to
+that officer or other persons.
+
+III. Use of Force Incidents
+
+A. Command of the Scene
+
+1. The officer assigned the original call is in command of the scene until relieved by a supervisor.
+In incidents where a sergeant has actively participated in the use of force, the Watch
+Commander will be notified and will assign another sergeant who will assume command of
+the scene and who will conduct the use of force investigation.
+
+2. In all cases, the Watch Commander will be notified as soon as practical and will be responsible
+
+for ensuring that the proper assignments are made.
+
+3. Upon arrival, the assigned sergeant shall assume command of the scene and be responsible
+for a complete investigation of the incident. The type of force used will determine whether a
+sergeant or corporal will complete the investigation.
+
+B. Supervisory Responsibilities
+
+do so.
+
+1. The assigned supervisor will respond and assume command of the scene unless impractical to
+
+2. Obtain the basic facts from the involved officers.
+
+II. Authorized Use of Deadly Force
+
+4
+
+3. Ensure that any injured parties receive medical treatment – medical treatment shall not be
+
+delayed for the purposes of obtaining an interview or photographs.
+
+Print Queue
+
+4. Examine the subject of force for injuries.
+
+5. Notify the Watch Commander.
+
+6. Ensure that photographs are taken of any areas involving visible injury, complaint of pain, as
+
+well as overall photographs of uninjured areas.
+
+7. Identify and interview witnesses and parties involved. When the injury resulting from a use
+of force or an in-custody injury exceeds that of basic medical aid, interviews of all parties
+involved shall be recorded and downloaded into DIMS. For the purpose of this order, injuries
+that exceed basic medical aid include, but are not limited to, injuries requiring sutures,
+broken bones, or admittance to a hospital.
+
+8. Ensure the appropriate reports are completed by necessary personnel.
+
+9.
+
+Identify ancillary issues if applicable (shall be documented on a separate memorandum
+directed to the Department’s Legal Advisor via chain of command).
+
+10. Should the supervisor determine that the application of force was not within policy, a separate
+
+internal administrative investigation shall be initiated.
+
+IV. Reporting Procedures
+
+It is the intent of this policy to outline the circumstances by which force is reported. All situations that
+require the application of force to effect an arrest or restore order, shall be properly documented (officer's
+report, supervisor’s use of force investigation report, administrative report, etc.). For example, if an
+officer applies a control hold to gain or maintain control of subject, and there is neither injury nor
+complaint of pain, the officer shall document the use of force in his/her report. No other documentation is
+required. The specific type of documentation required is generally based upon the type of force utilized
+and the type of injury sustained by the suspect. All use of force incidents and in-custody injuries shall be
+reported, investigated, and the appropriate notifications made in compliance with this Departmental
+Order. The purpose of this section is to delineate the appropriate type of report necessary to document a
+use of force incident, in-custody injury, complaint of excessive force, or any situation wherein a suspect in
+custody has received an injury prior to police contact.
+
+A. Incidents Requiring a Supervisory Log:
+
+1. Whenever a suspect has received an obviously recent injury, and it has been clearly determined
+the injury occurred solely as a result of an incident prior to police contact (accidents, injuries
+inflicted by other parties, etc.).
+
+2. Whenever a suspect has received an injury while in police custody and it is not a result of
+the application of force. This would include suspects whose injuries are a result of tripping,
+falling, resistance to handcuffs, restraints, or who injure themselves during resistive behavior
+while confined within police vehicles or interview rooms.
+
+IV. Reporting Procedures
+
+5
+
+Print Queue
+
+3. Any maximal application of the RIPP Restraint (refer to Departmental Order Number 420).
+
+B. Incidents Requiring a Supervisor’s Use of Force Investigation Report – Taser Form.
+
+Supervisors may document Taser deployments on the Supervisor’s Use of Force Investigation Report –
+Taser Form, except under the following conditions:
+
+1. If the Taser deployment results in any injury to the officer, suspect or any involved party that
+requires treatment at a medical facility or any other “serious” injury or medical condition.
+Serious is defined as any injury other than a minor abrasion, bruise, lump or complaint of pain
+without visible injury.
+
+2. The facts and circumstances surrounding the deployment of the TASER do not lend themselves
+
+to the completion of the standardized Supervisor’s Use of Force TASER form.
+
+3. When directed by a Commander or higher authority.
+
+C. Incidents Requiring a Supervisor’s Use of Force Investigation Report
+
+1. Whenever a suspect has received an injury as a result of the application of hand-applied force
+such as finger/joint manipulation techniques, come-along holds, pressure point control, or
+take-downs, and the only known injury is a complaint of pain without visible injury, or when
+the only known injury is a minor abrasion, bruise, or lump.
+
+2. Any deployment of O.C. spray, whether or not the suspect was affected.
+
+3. Any use of force incident which causes more than a complaint of pain or superficial injuries
+
+(abrasions, bumps, lumps).
+
+4. Whenever an officer utilizes personal weapon techniques (fist/elbow/knee/kick-strikes), Taser
+(with the exception of DO 425 Section B), K-9, carotid restraint holds (whether or not
+unconsciousness results) and use of baton or any other impact weapon to temporarily
+incapacitate a subject.
+
+5. Any deployment of Less Lethal munitions, regardless of
+
+injuries received (Refer to
+
+Departmental Order No. 440).
+
+6.
+
+If during the investigation the supervisor reasonably believes excessive force was used, a
+sergeant shall investigate and document the allegations in an administrative report in
+accordance with Departmental Order 120. If during the initial investigation a complaint of
+excessive force is made, a sergeant shall investigate the allegations. If it is determined by
+the investigating sergeant that the force used was not excessive, the sergeant shall document
+their investigation in the supervisor’s use of force investigation report.
+
+a. Complaints of excessive force made after the initial
+
+investigating
+
+supervisor has
+
+completed a use of force investigation shall be handled by Professional Standards.
+
+IV. Reporting Procedures
+
+6
+
+Print Queue
+
+7. Officer involved shootings, and incidents involving the death of the suspect or expected death,
+shall be handled by the Professional Standards and Crimes Against Persons Sections, and
+do not require completion of a supervisor’s use of force investigation report by the initial
+investigating sergeant.
+
+D. Assignment of Corporals to Use of Force Investigations
+
+With a Sergeant’s approval, a Corporal may investigate and document incidents requiring a supervisor’s
+use of force report identified under Reporting Procedures Sections IV- A subsection 1 through 3, Section B
+and Section C subsection 1 through 2.
+
+E. Reporting Requirements
+
+All use of force investigations and reports of injury sustained prior to police contact as identified in
+Section IV A subsection 1-3 of this order shall be completed by the end of the supervisor’s shift unless
+approved by the Watch Commander. All other use of force incidents shall be completed within thirty days
+of the incident unless a delay is approved by a Commander or above. All use of force investigations shall be
+routed the appropriate chain of command to the Professional Standards Division.
+
+V. Officers' Duties
+
+In any use of force incident the involved officer will document the type and amount of force used in a
+crime report, information report, or supplemental report. Whenever an officer utilizes OC spray, personal
+weapon techniques (fist/elbow/knee/kick-strikes) Taser, K-9, carotid restraint holds (whether or not
+unconsciousness results), baton or other impact weapons, the officer has a duty to report the incident to a
+sergeant regardless of whether or not injury was sustained. In an incident involving Deadly Force, the
+officer will generally not make a written statement, as he/she will be interviewed by a supervisor in
+accordance with Departmental Order 120. It is the involved officer's responsibility to determine if an
+injury was sustained and to promptly notify a sergeant if an injury occurred. "Determine" means to
+visually inspect the individual upon whom force was used and to specifically ask if they were injured.
+
+It is the responsibility of the involved officer to obtain medical attention for an individual injured while in
+his/her custody. The extent of the treatment shall be thoroughly documented in their report and a
+supervisor shall be notified.
+
+The involved officer shall immediately notify a sergeant if an individual who is in police custody sustains
+an injury that is not a result of a use of force.
+
+VI. Jail
+Use of force and in-custody incidents occurring within the Santa Ana Jail shall be handled in accordance
+with this Departmental Order and the Santa Ana Jail Policy and Procedures Manual.
+
+A. Report of Injury
+
+Reports of injury/use of force will be forwarded to the Professional Standards Division for further
+processing.
+
+V. Officers' Duties
+
+7
+
+
