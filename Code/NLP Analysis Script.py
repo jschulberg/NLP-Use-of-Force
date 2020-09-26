@@ -191,7 +191,7 @@ fig, ax = plt.subplots(figsize=(8, 8))
 balt_freq_df.sort_values(by='count').plot.barh(x='words',
                       y='count',
                       ax=ax,
-                      color="green")
+                      color="#86BC25")
 
 # Set the title of the graph
 ax.set_title("Top 20 Words Found in Baltimore Use of Force Policy")
@@ -215,8 +215,11 @@ balt_bigrams = list(nltk.bigrams(balt_filtered_again))
 # Create counter of words in clean bigrams
 bigram_counts = collections.Counter(balt_bigrams)
 
+# How many word-pairs do we want to show?
+num = 25
+
 # What's the most common pair of words?
-bi_counts = bigram_counts.most_common(50)
+bi_counts = bigram_counts.most_common(num)
 print(f"Our top {len(bi_counts)} words, and their associated frequencies, are:\n{bi_counts}")
 
 
@@ -231,10 +234,13 @@ fig, ax = plt.subplots(figsize=(8, 8))
 balt_bigram_df.sort_values(by='count').plot.barh(x='word_pairs',
                       y='count',
                       ax=ax,
-                      color="green")
+                      # Deloitte Green
+                      color="#86BC25")
 
 # Set the title of the graph
-ax.set_title("Top 20 Word Pairs Found in Baltimore Use of Force Policy")
+ax.set_title(f"Top {num} Word Pairs Found in Baltimore Use of Force Policy")
 
 plt.show()
 plt.clf()
+
+
