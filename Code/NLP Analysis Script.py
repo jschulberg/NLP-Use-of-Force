@@ -31,11 +31,25 @@ os.getcwd()
 # First find the names of the files we have
 all_files = os.listdir()
 
+# There are some files that are improperly processed, so let's avoid these
+bad_files = ['Bakersfield_Extract_processed.txt',
+             'Fremont_Extract_processed.txt',
+             'FortWorth_Extract_processed.txt',
+             'Detroit_Extract_processed.txt',
+             'Lincoln_Extract_processed.txt',
+             'SanBernardino_Extract_processed.txt',
+             'Stockton_Extract_processed.txt',
+             'Test']
+
 # Initialize an empty list to hold all of our text
 all_text = []
 
 # Now read in all the files using a for loop. We have a lot!
 for file in all_files:
+    # Because some of the files weren't processed properly, let's skip reading
+    # them in if we come across them
+    if file in bad_files:
+        continue
     with open(os.path.join(path, file), 'rb') as f:
         # We have to decode the file so it doesn't accidentally get read in
         # as bytes
@@ -43,7 +57,7 @@ for file in all_files:
         all_text.append(text)
 
 # Let's take a peek into our dataset
-print(all_text[0:100])
+# print(all_text[0:10])
 
 type(all_text) # Our data is in list format
 
@@ -167,7 +181,7 @@ print(f"Number of non stop-words in document: {len_text_nostop}")
 
 
 # There are some other weird words popping up, that we need to remove
-additional_stop_words = ['shall', 'may']
+additional_stop_words = ['shall', 'may', 'must']
 
 text_filtered_again = [word for word in text_filtered if not word in additional_stop_words]
 
@@ -186,7 +200,9 @@ text_lemma = ' '.join([lemmatizer.lemmatize(word) for word in text_filtered_agai
 # Resplit our dataset now
 text_lemma = text_lemma.split()
 
-# We also have an
+# We also have an issue with a lot of one letter words appearing. I can't tell
+# if they're cut off from other words or just represent sections in a policy.
+# Let's go with the latter and cut them tf out of our dataset
 
 
 ######################################
@@ -197,12 +213,14 @@ text_lemma = text_lemma.split()
 # appears in the text. We then visualize
 # our data using matplotlib.
 
+# How many words and word-pairs do we want to show?
+num = 25
 
 # Let's use nltk's FreqDist function to count the occurrences of each word
 text_freq = nltk.FreqDist(text_lemma)
 
 # What's the most common word?
-counts = text_freq.most_common(20)
+counts = text_freq.most_common(num)
 print(f"Our top {len(counts)} words, and their associated frequencies, are:\n{counts}")
 
 
@@ -220,7 +238,7 @@ text_freq_df.sort_values(by='count').plot.barh(x='words',
                       color="#86BC25")
 
 # Set the title of the graph
-ax.set_title("Top 20 Words Found in Use of Force Policies")
+ax.set_title(f"Top {num} Words Found in Use of Force Policies")
 
 plt.show()
 plt.clf()
@@ -240,9 +258,6 @@ text_bigrams = list(nltk.bigrams(text_lemma))
 
 # Create counter of words in clean bigrams
 bigram_counts = collections.Counter(text_bigrams)
-
-# How many word-pairs do we want to show?
-num = 25
 
 # What's the most common pair of words?
 bi_counts = bigram_counts.most_common(num)
@@ -264,7 +279,7 @@ text_bigram_df.sort_values(by='count').plot.barh(x='word_pairs',
                       color="#86BC25")
 
 # Set the title of the graph
-ax.set_title(f"Top {num} Word Pairs Found in Use of Force Policies")
+ax.set_title(f"Top {num} Word Pairs Found in All Use of Force Policies")
 
 plt.show()
 plt.clf()
