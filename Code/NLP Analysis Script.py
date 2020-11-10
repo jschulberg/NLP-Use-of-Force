@@ -24,20 +24,33 @@ import collections # Used for iterating on various datasets
 ###           Read in Data         ###
 ######################################
 # Change the working directory
-os.chdir(r'C:\Users\jschulberg\Documents\Learning\NLP\NLS Mentorship Program\NLP-Use-of-Force\Data\Processed_Text')
+path = r'C:\Users\jschulberg\Documents\Learning\NLP\NLS Mentorship Program\NLP-Use-of-Force\Data\Cleaned_Text'
+os.chdir(path)
 os.getcwd()
 
 # First find the names of the files we have
-os.listdir()
+all_files = os.listdir()
 
+# Initialize an empty list to hold all of our text
+all_text = []
 
-baltimore_data = open("Memphis.txt", "r")
+# Now read in all the files using a for loop. We have a lot!
+for file in all_files:
+    with open(os.path.join(path, file), 'rb') as f:
+        # We have to decode the file so it doesn't accidentally get read in
+        # as bytes
+        text = f.read().decode('UTF-8')
+        all_text.append(text)
 
-# Read the lines of the file
-baltimore_txt = baltimore_data.readlines()
-print(baltimore_txt[0:100])
+# Let's take a peek into our dataset
+print(all_text[0:100])
 
-type(baltimore_txt) # Our data is in list format
+type(all_text) # Our data is in list format
+
+# Our list is pretty long. Let's see if we can get everything into the
+# list as one object. 
+text_concat = ' '.join(policy for policy in all_text)
+
 
 ######################################
 ###     Text Pre-processing        ###
@@ -54,13 +67,13 @@ type(baltimore_txt) # Our data is in list format
 
 
 # Make all the text lowercase
-balt_lower = baltimore_txt[0].lower()
+text_lower = text_concat.lower()
 
 # Remove numbers
-balt_chars = re.sub(r"[0-9]", "", balt_lower)
+text_chars = re.sub(r"[0-9]", "", text_lower)
 
 # Remove punctuation
-balt_chars = re.sub(r'[^\w\s]', '', balt_chars)
+text_chars = re.sub(r'[^\w\s]', '', text_chars)
 
 ### Fix words that were read in improperly
 # There are a few words that are being read in improperly due to
@@ -71,56 +84,56 @@ balt_chars = re.sub(r'[^\w\s]', '', balt_chars)
 # that appear most frequently in these forms.
 
 # 'e scalation' --> 'escalation'
-balt_replaced = re.sub(r'e.scalation', 'escalation', balt_chars)
+text_replaced = re.sub(r'e.scalation', 'escalation', text_chars)
 # 'de escalation' --> 'deescalation'
-balt_replaced = re.sub(r'de.escalation', 'deescalation', balt_chars)
+text_replaced = re.sub(r'de.escalation', 'deescalation', text_chars)
 # 'f orce' --> 'force'
-# balt_replaced = re.sub(r'\s[f]\s[orce]', 'force', balt_replaced)
-balt_replaced = re.sub(r'f.orce', 'force', balt_replaced)
+# text_replaced = re.sub(r'\s[f]\s[orce]', 'force', text_replaced)
+text_replaced = re.sub(r'f.orce', 'force', text_replaced)
 # 'forcelethal' --> 'force lethal'
-balt_replaced = re.sub(r'\sforcelethal', 'force lethal', balt_replaced)
+text_replaced = re.sub(r'\sforcelethal', 'force lethal', text_replaced)
 # 'n eccessary' --> 'neccessary'
-balt_replaced = re.sub(r'n.ecessary', 'necessary', balt_replaced)
+text_replaced = re.sub(r'n.ecessary', 'necessary', text_replaced)
 # 'deadlyforce' --> 'deadly force'
-balt_replaced = re.sub(r'\sdeadlyforce', 'deadly force', balt_replaced)
+text_replaced = re.sub(r'\sdeadlyforce', 'deadly force', text_replaced)
 # 'excessiv e' --> 'excessive'
-balt_replaced = re.sub(r'excessiv.e', 'excessiv.e', balt_replaced)
+text_replaced = re.sub(r'excessiv.e', 'excessiv.e', text_replaced)
 # 'm embers' --> 'members'
-balt_replaced = re.sub(r'm.embers', 'members', balt_replaced)
+text_replaced = re.sub(r'm.embers', 'members', text_replaced)
 # 'r eview' --> 'review'
-balt_replaced = re.sub(r'r.eview', 'review', balt_replaced)
+text_replaced = re.sub(r'r.eview', 'review', text_replaced)
 # 'p roportional' --> 'proportional'
-balt_replaced = re.sub(r'p.roportional', 'proportional', balt_replaced)
+text_replaced = re.sub(r'p.roportional', 'proportional', text_replaced)
 # 'resi stance' --> 'resistance'
-balt_replaced = re.sub(r'resi.stance', 'resistance', balt_replaced)
+text_replaced = re.sub(r'resi.stance', 'resistance', text_replaced)
 # 'r easonable' --> 'reasonable'
-balt_replaced = re.sub(r'resi.stance', 'resistance', balt_replaced)
+text_replaced = re.sub(r'resi.stance', 'resistance', text_replaced)
 # 'd eadly' --> 'deadly'
-balt_replaced = re.sub(r'd.eadly', 'deadly', balt_replaced)
+text_replaced = re.sub(r'd.eadly', 'deadly', text_replaced)
 # 'u se' --> 'use'
-balt_replaced = re.sub(r'u.se', 'use', balt_replaced)
+text_replaced = re.sub(r'u.se', 'use', text_replaced)
 # 'g eneral' --> 'general'
-balt_replaced = re.sub(r'g.eneral', 'general', balt_replaced)
+text_replaced = re.sub(r'g.eneral', 'general', text_replaced)
 # 'v olume' --> 'volume'
-balt_replaced = re.sub(r'v.olume', 'volume', balt_replaced)
+text_replaced = re.sub(r'v.olume', 'volume', text_replaced)
 # 'f ebruary' --> 'february'
-balt_replaced = re.sub(r'f.ebruary', 'february', balt_replaced)
+text_replaced = re.sub(r'f.ebruary', 'february', text_replaced)
 # 'februar y' --> 'february'
-balt_replaced = re.sub(r'februar.y', 'february', balt_replaced)
+text_replaced = re.sub(r'februar.y', 'february', text_replaced)
 # 'p rocedures' --> 'procedures'
-balt_replaced = re.sub(r'p.rocedures', 'procedures', balt_replaced)
+text_replaced = re.sub(r'p.rocedures', 'procedures', text_replaced)
 # 'o perating' --> 'operating'
-balt_replaced = re.sub(r'o.perating', 'operating', balt_replaced)
+text_replaced = re.sub(r'o.perating', 'operating', text_replaced)
 # 'o rder' --> 'order'
-balt_replaced = re.sub(r'o.rder', 'order', balt_replaced)
+text_replaced = re.sub(r'o.rder', 'order', text_replaced)
 # 'p olice' --> 'police'
-balt_replaced = re.sub(r'p.olice', 'police', balt_replaced)
+text_replaced = re.sub(r'p.olice', 'police', text_replaced)
 # 'd epartment' --> 'department'
-balt_replaced = re.sub(r'o.rder', 'order', balt_replaced)
+text_replaced = re.sub(r'o.rder', 'order', text_replaced)
 # 'b oard' --> 'board'
-balt_replaced = re.sub(r'b.oard', 'board', balt_replaced)
+text_replaced = re.sub(r'b.oard', 'board', text_replaced)
 # 't ucson' --> 'tucson'
-balt_replaced = re.sub(r't.ucson', 'tucson', balt_replaced)
+text_replaced = re.sub(r't.ucson', 'tucson', text_replaced)
 
 
 
@@ -128,14 +141,14 @@ balt_replaced = re.sub(r't.ucson', 'tucson', balt_replaced)
 
 ### Tokenize text
 # Split the data
-balt_split = balt_replaced.split()
+text_split = text_replaced.split()
 
 # How is this different from tokenizing the data?
-balt_tokens = nltk.word_tokenize(balt_replaced) # Honestly looks the same
+text_tokens = nltk.word_tokenize(text_replaced) # Honestly looks the same
 
 # Count the number of unique words in our dataset
-len_balt = len(balt_tokens)
-print(f"Number of words in document: {len_balt}")
+len_text = len(text_tokens)
+print(f"Number of words in document: {len_text}")
 
 
 ### Remove stop words
@@ -143,21 +156,21 @@ print(f"Number of words in document: {len_balt}")
 stop_words = set(stopwords.words('english'))
 
 # Only pull in words that are NOT in stop words
-balt_filtered = [word for word in balt_tokens if not word in stop_words]
+text_filtered = [word for word in text_tokens if not word in stop_words]
 
 # Check the number of unique words in our dataset
-len_balt_nostop = len(balt_filtered)
-print(f"Number of non stop-words in document: {len_balt_nostop}")
+len_text_nostop = len(text_filtered)
+print(f"Number of non stop-words in document: {len_text_nostop}")
 
 
 # There are some other weird words popping up, that we need to remove
 additional_stop_words = ['shall', 'may']
 
-balt_filtered_again = [word for word in balt_filtered if not word in additional_stop_words]
+text_filtered_again = [word for word in text_filtered if not word in additional_stop_words]
 
 # Check the number of unique words in our dataset
-len_balt_cleanwords = len(balt_filtered_again)
-print(f"Number of non stop-words in document: {len_balt_cleanwords}")
+len_text_cleanwords = len(text_filtered_again)
+print(f"Number of non stop-words in document: {len_text_cleanwords}")
 
 
 
@@ -173,28 +186,28 @@ print(f"Number of non stop-words in document: {len_balt_cleanwords}")
 
 
 # Let's use nltk's FreqDist function to count the occurrences of each word
-balt_freq = nltk.FreqDist(balt_filtered_again)
+text_freq = nltk.FreqDist(text_filtered_again)
 
 # What's the most common word?
-counts = balt_freq.most_common(20)
+counts = text_freq.most_common(20)
 print(f"Our top {len(counts)} words, and their associated frequencies, are:\n{counts}")
 
 
 # Let's try converting the frequency distribution to a pandas dataframe
-balt_freq_df = pd.DataFrame(counts, columns = ['words', 'count'])
+text_freq_df = pd.DataFrame(counts, columns = ['words', 'count'])
 
 
 ### Viz time
 fig, ax = plt.subplots(figsize=(8, 8))
 
 # Plot horizontal bar graph
-balt_freq_df.sort_values(by='count').plot.barh(x='words',
+text_freq_df.sort_values(by='count').plot.barh(x='words',
                       y='count',
                       ax=ax,
                       color="#86BC25")
 
 # Set the title of the graph
-ax.set_title("Top 20 Words Found in Baltimore Use of Force Policy")
+ax.set_title("Top 20 Words Found in Use of Force Policies")
 
 plt.show()
 plt.clf()
@@ -210,10 +223,10 @@ plt.clf()
 # to occur together.
 
 # Count our unique word pairs and put it into list form
-balt_bigrams = list(nltk.bigrams(balt_filtered_again))
+text_bigrams = list(nltk.bigrams(text_filtered_again))
 
 # Create counter of words in clean bigrams
-bigram_counts = collections.Counter(balt_bigrams)
+bigram_counts = collections.Counter(text_bigrams)
 
 # How many word-pairs do we want to show?
 num = 25
@@ -224,21 +237,21 @@ print(f"Our top {len(bi_counts)} words, and their associated frequencies, are:\n
 
 
 # Let's try converting the frequency distribution to a pandas dataframe
-balt_bigram_df = pd.DataFrame(bi_counts, columns = ['word_pairs', 'count'])
+text_bigram_df = pd.DataFrame(bi_counts, columns = ['word_pairs', 'count'])
 
 
 ### Viz time
 fig, ax = plt.subplots(figsize=(8, 8))
 
 # Plot horizontal bar graph
-balt_bigram_df.sort_values(by='count').plot.barh(x='word_pairs',
+text_bigram_df.sort_values(by='count').plot.barh(x='word_pairs',
                       y='count',
                       ax=ax,
                       # Deloitte Green
                       color="#86BC25")
 
 # Set the title of the graph
-ax.set_title(f"Top {num} Word Pairs Found in Baltimore Use of Force Policy")
+ax.set_title(f"Top {num} Word Pairs Found in Use of Force Policies")
 
 plt.show()
 plt.clf()
