@@ -48,7 +48,7 @@ print(all_text[0:100])
 type(all_text) # Our data is in list format
 
 # Our list is pretty long. Let's see if we can get everything into the
-# list as one object. 
+# list as one object.
 text_concat = ' '.join(policy for policy in all_text)
 
 
@@ -134,9 +134,12 @@ text_replaced = re.sub(r'o.rder', 'order', text_replaced)
 text_replaced = re.sub(r'b.oard', 'board', text_replaced)
 # 't ucson' --> 'tucson'
 text_replaced = re.sub(r't.ucson', 'tucson', text_replaced)
+# 'officers' --> 'officer'
+text_replaced = re.sub(r'officers', 'officer', text_replaced)
+# 'officers' --> 'officer'
+text_replaced = re.sub(r'employees', 'employee', text_replaced)
 
-
-
+# Ok this sucks. Let's try a formal lemmatizer after we tokenize
 
 
 ### Tokenize text
@@ -172,8 +175,18 @@ text_filtered_again = [word for word in text_filtered if not word in additional_
 len_text_cleanwords = len(text_filtered_again)
 print(f"Number of non stop-words in document: {len_text_cleanwords}")
 
+### Lemmatize
+# Let's cut out the duplicative words that sometimes show up as singular,
+# sometimes show up as plural, from our dataset
+from nltk.stem import WordNetLemmatizer
+lemmatizer = WordNetLemmatizer()
 
+text_lemma = ' '.join([lemmatizer.lemmatize(word) for word in text_filtered_again])
 
+# Resplit our dataset now
+text_lemma = text_lemma.split()
+
+# We also have an
 
 
 ######################################
@@ -186,7 +199,7 @@ print(f"Number of non stop-words in document: {len_text_cleanwords}")
 
 
 # Let's use nltk's FreqDist function to count the occurrences of each word
-text_freq = nltk.FreqDist(text_filtered_again)
+text_freq = nltk.FreqDist(text_lemma)
 
 # What's the most common word?
 counts = text_freq.most_common(20)
@@ -223,7 +236,7 @@ plt.clf()
 # to occur together.
 
 # Count our unique word pairs and put it into list form
-text_bigrams = list(nltk.bigrams(text_filtered_again))
+text_bigrams = list(nltk.bigrams(text_lemma))
 
 # Create counter of words in clean bigrams
 bigram_counts = collections.Counter(text_bigrams)
