@@ -12,6 +12,7 @@ import os # Helps work with directories
 import nltk # Helps with NLP work
 from nltk.corpus import stopwords # Get our stop words
 from collections import Counter # Helps with word counts
+from collections import defaultdict
 import re # Work with regular expressions
 import matplotlib.pyplot as plt # Viz package
 import numpy as np # numpy is used for deeper data analysis in python
@@ -44,6 +45,9 @@ bad_files = ['Bakersfield_Extract_processed.txt',
 # Initialize an empty list to hold all of our text
 all_text = []
 
+# Initialize an empty dictionary to store our document lengths
+doc_lengths = defaultdict()
+
 # Now read in all the files using a for loop. We have a lot!
 for file in all_files:
     # Because some of the files weren't processed properly, let's skip reading
@@ -55,6 +59,10 @@ for file in all_files:
         # as bytes
         text = f.read().decode('UTF-8')
         all_text.append(text)
+
+    doc_lengths[file] = len(text)
+
+    print(f"{file}: {len(text)} words")
 
 # Let's take a peek into our dataset
 # print(all_text[0:10])
