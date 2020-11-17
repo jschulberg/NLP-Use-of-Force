@@ -222,7 +222,7 @@ text_lemma = text_lemma.split()
 # our data using matplotlib.
 
 # How many words and word-pairs do we want to show?
-num = 25
+num = 100
 
 # Let's use nltk's FreqDist function to count the occurrences of each word
 text_freq = nltk.FreqDist(text_lemma)
@@ -230,7 +230,6 @@ text_freq = nltk.FreqDist(text_lemma)
 # What's the most common word?
 counts = text_freq.most_common(num)
 print(f"Our top {len(counts)} words, and their associated frequencies, are:\n{counts}")
-
 
 # Let's try converting the frequency distribution to a pandas dataframe
 text_freq_df = pd.DataFrame(counts, columns = ['words', 'count'])
