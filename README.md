@@ -3,8 +3,8 @@ This repository focuses on Natural Language Processing (NLP) analysis on Police 
 In this analysis, we use PDF text extraction techniques to build the text datasets that are later used for NLP analysis. In terms of NLP, this project utilizes the following methods:
  - Word Frequency
  - Bi-gram Analysis
- - Tri-gram Analysis
  - Topic Modeling
+ - Cosine Similarity
 
 ## Purpose
 We aim to answer some of the following questions:
@@ -18,13 +18,13 @@ The results of this project/case study will:
  - Provide suggestions for changing language in Police Use of Force policies
 
 ## Our Approach
-*Data Collection & Pre-processing*
+**Data Collection & Pre-processing**
  - Collect Use of Force policies from 100 largest police departments in U.S.
  - Scrape text from policies, including PDF scraping techniques for policies in PDF format
  - Normalize, tokenize, and lemmatize text
  - Removal of stop words and insignificant words
 
-*Basic NLP Analysis*
+**Basic NLP Analysis**  
 Key text summary statistics, including:
  - Number of documents analyzed
  - Total words across all documents
@@ -32,7 +32,7 @@ Key text summary statistics, including:
  - Word frequencies
  - Bi-gram analysis
 
-*Advanced NLP Similarity Analysis*
+**Advanced NLP Similarity Analysis**
  - Topic modeling to identify recurrent themes amongst successful policies
  - Cosine similarity to quantify language similarity between policies in 100 cities to an "ideal policy" 
 
