@@ -1,0 +1,4074 @@
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+USE OF FORCE POLICY 
+POLICY  
+DEFINITIONS 
+DETERMINING OBJECTIVELY REASONABLE FORCE 
+MEDICAL ATTENTION 
+USE OF FORCE MODEL 
+
+USE OF FORCE PROCEDURE 
+USE OF FORCE TO AFFECT A DETENTION, AN ARREST OR TO CONDUCT A 
+SEARCH 
+DUTY TO INTERVENE 
+LEVELS OF RESISTANCE (see Use of Force Model) 
+LEVELS OF CONTROL (see Use of Force Model) 
+DE-ESCALATION 
+
+AUTHORIZED FORCE TOOLS, DESCRIPTION, REQUIREMENTS, USES AND 
+CONSIDERATIONS 
+PRESENCE AND VERBAL COMMUNICATION 
+EMPTY HAND TACTICS  
+HANDCUFFS, FLEXIBLE HANDCUFFS, OR OTHER RESTRAINT DEVICES  
+BATON/IMPACT WEAPONS  
+OLEORESIN CAPSICUM SPRAY 
+LATERAL VASCULAR NECK RESTRAINT® 
+ELECTRONIC CONTROL DEVICE  
+USE OF CANINE 
+USE OF FORCE WITH A VEHICLE 
+a. Precision Intervention Technique 
+b. Blocking 
+c. Stationary Vehicle Immobilization Technique (Pinching) 
+d. Ramming 
+USE OF FORCE WITH A FIREARM 
+a. Low Lethality Shotgun 
+b. Handgun/Shotgun(“OO” Buck & Slug)/Rifle 
+c. Deployment of Rifles   
+
+REPORTABLE USE OF FORCE  
+REPORTABLE FORCE INCIDENTS 
+INVESTIGATIONS AND REPORTING 
+
+USE OF FORCE POLICY 
+
+I.
+II.
+III.
+
+POLICY  
+DEFINITIONS 
+DETERMINING OBJECTIVELY REASONABLE FORCE 
+
+1148 
+
+6/002.00 
+I.
+II.
+III.
+IV.
+V.
+
+ 
+6/002.01 
+I.
+
+ 
+6/002.02 
+
+II.
+III.
+IV.
+V.
+
+I.
+II.
+III.
+IV.
+V.
+VI.
+VII.
+VIII.
+IX.
+
+X.
+
+ 
+6/002.03     
+
+I.
+II.
+
+ 
+6/002.00 
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+IV.
+
+USE OF FORCE MODEL 
+
+ 
+
+ 
+
+I. POLICY  
+
+ 
+The  Las  Vegas  Metropolitan  Police  Department  is  committed  to  protecting  people,  their 
+property  and  rights,  while  providing  the  best  in  public  safety  and  service.  The  proper 
+use of force is essential for policing. There are circumstances where individuals will not 
+comply  with  the  law  unless  compelled  or  controlled  by  the  use  of  force.  Yet,  officers 
+must  also  remain  mindful  that  they  derive  their  authority  from  the  community  and  that 
+unreasonable force degrades the legitimacy of that authority. In a Use of Force Incident, 
+the  governmental  interest  must  match  the  level  of  force  and  intrusion  upon  an 
+individual’s constitutional rights.   
+ 
+It  is  the  policy  of  this  department  that  officers  hold  the  highest  regard  for  the  dignity 
+and  liberty  of  all  persons,  and  place  minimal  reliance  upon  the  use  of  force.  The 
+department  respects  the  value  of  every  human  life  and  that  the  application  of  deadly 
+force is a measure to be employed in the most extreme circumstances.  
+ 
+II.
+ 
+
+DEFINITIONS 
+
+1.  Approved  Weapons  –  Approved  weapons  are  those  weapons  meeting  department 
+specifications for which officers receive proficiency and safety training. Prior to 
+the  use  of  any  approved  weapon  option,  the  officer,  when  practical,  will 
+communicate  to  other  officers  and  the  subject  that  the  use  of  the  option  is 
+imminent, and clearly and audibly announce the same to all personnel in the 
+immediate area unless exigent circumstances prevent this from occurring. 
+ 
+
+Blocking  -  Blocking  is  the  positioning  of  a  police  vehicle  in  the  path  of  an 
+occupied subject vehicle where contact between the vehicles is not anticipated 
+or  is  anticipated  to  be  minimal.  The  intent  of  blocking  is  to  prevent  an 
+avenue of escape by the safe placement of a police vehicle.  
+ 
+
+Cuffing  Under  Power  -  Cuffing  under  Power  is  a  tactic  where  a  secondary  officer 
+handcuffs a subject while the ECD (being deployed by the primary officer) is 
+cycling and the subject is in Neuro-Muscular Incapacitation (NMI). 
+
+ 
+Critical  Incident  Review  Team  (CIRT)  -  A  team  put  in  place  to  conduct  an 
+administrative  examination  of  uses  of  deadly  force  and  other  high-risk  law 
+enforcement  operations,  for  the  purpose  of  improving  both  individual  and  the 
+agency’s performance.  
+
+Deadly  Force  -  Deadly  force  is  that  degree  of  force,  which  is  likely  to  produce 
+death  or  serious  bodily  injury.  Deadly  force  can  also  result  from  a  force 
+
+1149 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+option  being  improperly  applied.    Deadly  force  is  not  limited  to  the  use  of 
+firearms. 
+
+Electronic  Control  Device  (ECD)  -  The  ECD  is  a  Neuro-Muscular  Incapacitation 
+(NMI)  device  that  stimulates  the  motor  neurons  to  contract  disrupting 
+communication from the brain to the muscles thereby causing temporary motor 
+skill dysfunction.  
+
+Spark Display – A non-contact demonstration of the ECD’s ability to 
+
+1. 
+
+2. 
+
+3. 
+
+discharge electricity.   
+
+Touch Stun - A secondary function of the ECD intended to administer 
+pain to a subject by making direct contact with the body after the air 
+cartridge has been expended or removed.   
+
+Probe  Mode  -  The  primary  function  of  the  ECD  where  the  ECD 
+cartridge is deployed firing probes at the subject. The intent is that the 
+subject  be  temporarily  immobilized  for  the  period  of  time  the  ECD  is 
+cycled. 
+
+Fatal  Detail  –  A  section  of  the  Traffic  Bureau  who  conducts  or  assists  in 
+investigations related to uses of force with a vehicle which may cause serious 
+bodily injury, or result in death. 
+
+ 
+Force  Transitions  -  The  movement,  escalation/de-escalation,  from  the  application  of 
+one  force  type  to  another  in  conjunction  with  the  “objectively  reasonable” 
+standard  from  Graham  v.  Connor,  490  U.S.  386  (1989).  The  officer  must 
+consider  all  the  factors  prior  to  using  force  and  choose  a  reasonable  option 
+based on the “totality of the circumstances” present.  
+
+The LVMPD Use of Force Policy applies to all commissioned officers, but the 
+legal  standard  specific  to  incidents  involving  use  of  force  within  a  detention 
+facility are set forth in Hudson v. McMillian, 503 U.S. 1(1992). 
+
+ 
+Force  Investigation  Team  (FIT)  -  Conducts  a  criminal  investigation  to  determine 
+whether  the  use  of  deadly  force  was  legally  justified  under  criminal  law.  FIT 
+also  directs  the  investigation  against  a  subject  who  either  committed  crimes 
+which  led  to  the  use  of  deadly  force  or  who  has  committed  crimes  against 
+an officer. 
+ 
+
+Imminent  Threat  -  “Imminent  threat”  refers  to  an  impending  violent  act  or 
+resistance  that  an  officer  reasonably  believes  will  occur,  based  on  the  totality 
+of the circumstances.  
+
+Intermediate  Force  -  A  level  of  force  that  has  the  potential  to  cause injury  or 
+
+substantial pain, and is greater than Low-Level Force. 
+
+1150 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Involved  Officer  –  A  commissioned  officer  or supervisor, who participated  in, 
+
+directed or influenced the application of the use of force. 
+
+Lateral Vascular Neck Restraint (LVNR®) - LVNR® is a specific method of applying 
+pressure  to  the  side  of  a  subject’s  neck  to  overcome  resistance  and  allow 
+safe  control.  This  technique  is  used  only  in  accordance  with  official 
+departmental training and policy. 
+
+Levels  of  Control  -  Levels  of  Control are  broad  categories  of  influence  and/or  force 
+in  identifiable,  escalating  stages  of  intensity.  They  are  identified  as  low  level 
+force, intermediate force, and deadly force. 
+
+Low  Level  Force  -  Low  level  force  is  a  level  of  force  or  control  that  is  neither 
+
+likely nor intended to cause injury. 
+
+Non-Deadly  Force  -  Non-deadly  force  is  the  level  of  force  required  to  compel 
+compliance, which is not intended to, and is not known to create a substantial 
+risk of causing death or serious bodily harm. 
+
+Officer-Involved Shooting  -  An  officer-involved  shooting  is  an  officer’s  discharge  of 
+a  firearm  at  a  person,  with  or  without  physical  injury  or  the  death  of  the 
+person.   
+
+Officer Witness Monitor - An Officer Witness Monitor is a designated officer who is 
+not  involved  in  the  use  of  deadly  force.  The  responsibilities  of  the  Officer 
+Witness Monitor are to observe and prevent discussions regarding the incident 
+among involved officer(s) and witness(s).  
+
+Other  Firearm  Discharge  -  An  “other  firearm  discharge”  is  an  unintentional 
+discharge  of  a  firearm  that  does  not  cause  injury  or  death  to  a  person  or 
+the intentional shooting at, injuring, or killing animals. 
+
+Precision Intervention Technique (PIT) - The PIT is a specific manner of intentional 
+contact  using  a  police  vehicle  against  a  fleeing  vehicle  to  cause  the  fleeing 
+vehicle  to  come  to  a  stop;  this  technique  is  used  only  in  accordance  with 
+official department training and policy. 
+
+Public  Safety  Statement  (PSS)  -  The  PSS  is  a  series  of  questions  to  obtain 
+information  to  determine  if  there  is  an  immediate  threat  to  public  safety  and 
+must be taken in a timely manner. (An example would be shots fired by an 
+officer  or  a  subject  in  the  direction  where  the  public  may  be  in  immediate 
+danger.)  The supervisor must take appropriate action to ensure public safety, 
+based on the information received from the PSS. 
+
+1151 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Ramming  -  The  use  of  a  vehicle  to  intentionally  hit  another  vehicle,  outside  the 
+approved PIT, blocking and stationary vehicle immobilization policies.  Ramming 
+is  prohibited  unless  it  is  a  deadly  force  situation  which  can  be  clearly 
+articulated. 
+
+Reasonable  Force - Reasonable  force  is  an  objective  standard  of  force  viewed 
+from  the  perspective  of  a  reasonable  officer,  without  the  benefit  of  20/20 
+hindsight,  and  based  on  the  totality  of  the  circumstances  presented  at  the 
+moment the force is used. See section IV. “Determining Objectively Reasonable 
+Force.”  
+
+Reportable  Force  -  Reportable  force  is  any  use  of  force  which  is  required  to 
+overcome subject resistance to gain compliance that results in death, injury or 
+complaint  of  injury,  complaint  of  continuing  pain,  or  any  use  of  force  greater 
+than  low  level  force  (see  Levels  of  Control)  and  any  application  of  the 
+LVNR®. 
+
+Serious  Bodily  Injury  -  A  bodily  injury  that  creates  a  substantial  risk  of  death; 
+causes  serious,  permanent  disfigurement;  or  results  in  a  prolonged  loss  or 
+impairment of the functioning of any bodily member or organ.   
+
+Significant Force - Any force which results in treatment at a medical facility due 
+to injuries or alleged injuries caused by any officer. Examples include, but are 
+not  limited  to:  skeletal  fractures;  injury  or  complaint  of  injury  to  a  person’s 
+head or sternum area. All Significant Force is Reportable Force. 
+
+Stationary Vehicle Immobilization Technique (Pinching) - Is a containment tactic whose 
+use  is  restricted  for  specialized  units.  It  employs  extremely  low-speed, 
+intentional vehicle contact with a  subject vehicle. The purpose is to render a 
+vehicle immobile by blocking it in place with police vehicles, so that subjects 
+can be taken into custody. 
+
+Use  of  Force  Model – A  visual  guide  describing  the  appropriate  levels  of  force 
+authorized  to  be  used  by  an  officer  in  response  to  the  level  of  resistance 
+being displayed by a subject. 
+
+Witness  Officer – A  commissioned  officer  or  supervisor  who  did  not participate  in 
+
+or directly influence the application of the use of force. 
+
+ 
+DETERMINING OBJECTIVELY REASONABLE FORCE 
+ 
+The United States Supreme Court decisions and interpretations of the Fourth Amendment 
+of  the  United  States  Constitution  a  police  officer  may  only  use  such  force  as  is 
+“objectively reasonable” under all of the circumstances. The standard that courts will use 
+
+1152 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+to  examine  whether  a  use  of  force  is  constitutional  was  first  set  forth  in  Graham  v. 
+Connor,  490  U.S.  386  (1989)  and  expanded  by  subsequent  court  cases.  The 
+reasonableness  of  a  particular  use  of  force  must  be  judged  from  the  perspective  of  a 
+reasonable  officer  on  the  scene,  rather  than  with  20/20  vision  of  hindsight.  The 
+reasonableness  must  account  for  the  fact  that  officers  are  often  forced  to  make  split-
+second judgments - in circumstances that are tense, uncertain, and rapidly evolving.  
+ 
+The reasonableness inquiry in reviewing use of force is an objective one: the question is 
+whether  the  officer’s  actions  are  objectively  reasonable  in  light  of  the  facts  and 
+circumstances  confronting  them.    The  officer’s  perception  will  be  a  consideration,  along 
+with  other  objective  factors  that  may  affect  the  reasonableness  of  the  force.  These 
+factors may include but are not limited to: 
+
+1.  The severity of the crime(s) at issue; 
+2.  Whether  the  subject  poses  an  immediate  threat  to  the  safety  of  the 
+
+3.  Whether  the  subject  is  actively  resisting  arrest  or  attempting  to  evade 
+
+officer(s) or others; 
+
+arrest by flight; 
+
+4.  The influence of drugs/alcohol or the mental capacity of the subject; 
+5.  The time available to an officer to make a decision; 
+6.  The availability of officers/resources to de-escalate the situation; 
+7.  The proximity or access of weapons to the subject; 
+8.  The environmental factors and/or other exigent circumstances.  
+
+ 
+
+The  officer  will  use  a  level  of  force  that  is  necessary  and  within  the  range  of 
+“objectively reasonable”  options.  When  use  of  force  is  needed,  officers will  assess  each 
+incident to determine, based on policy, training and experience, which use of force option 
+will  de-escalate  the  situation  and  bring  it under  control  in  a  safe  and  prudent  manner. 
+Reasonable and sound judgment will dictate the force option to be employed. Therefore, 
+the  department  examines  all  uses  of  force  from  an  objective  standard  rather  than  a 
+subjective standard.  
+ 
+The  LVMPD  Use  of  Force  Policy  applies  to  all  commissioned  officers,  but  the  legal 
+standard  specific  to  incidents  involving  use  of  force  within  a  detention  facility  are  set 
+forth  in  Hudson  v.  McMillian,  503  U.S.  1(1992).  Corrections  officers  will  follow  DSD 
+Standard Operating Procedure(s) regarding the Use of Force as applicable (i.e. DSD SOP 
+09.11.01 Use of Force).  
+ 
+LVMPD  allows  certain  classifications  of  civilian  employees  to  carry  a  firearm  and  OC 
+spray  while  on  duty.    Civilian  employees  have  no  power  of  arrest  and  therefore  may 
+only use force consist with Nevada law on self-defense or defense of others.    
+ 
+MEDICAL ATTENTION 
+ 
+Whenever  an  officer  applies  a  Use  of  Force  option  upon  a  subject  that  results  in  a 
+
+ 
+
+1153 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+visible  injury  or  complaint  of  injury,  the  officer  will  monitor  the  subject  and  immediately 
+summon medical attention.  When requesting medical attention, the officer will provide the 
+nature of the injury for responding medical personnel.   
+ 
+Note: In some instances, the best course of action may be to transport the subject to 
+the  nearest  medical  facility.   In  these  instances,  the  nature  of  injury,  response  time  of 
+medical personnel and proximity of the medical facility should be considered.   
+ 
+Medical attention will be summoned for the following Use of Force applications regardless 
+of visible injury or complaint of injury: 
+ 
+
+1.  Baton/Impact Weapons-Any strikes to the head, neck or groin area. 
+2.  OC Spray- Direct exposure to the facial area. 
+3.  LVNR®-When applied. 
+4.  ECD-Probe strikes to the head, neck or groin area.    
+5.  Use of Canine- All bites 
+6.  Use of Force with a vehicle: 
+
+a.  Precision Intervention Technique- Over 40 MPH. 
+b.  Blocking- Contact with an occupied vehicle. 
+c.  Stationary Vehicle Immobilization Technique (Pinching)-All. 
+d.  Ramming-All. 
+
+7.  Use of Force with a Firearm: 
+
+a.  Low Lethality Shotgun-All strikes. 
+b.  Handgun/Shotgun (“00” Buck & Slug)/Rifle-Any discharge. 
+
+ 
+
+USE OF FORCE MODEL    
+
+ 
+
+1154 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+ 
+
+This  graphic  is  intended  as  a  general  guideline  for  an  officer.    The  subject(s)  actions 
+will dictate the Resistance Level and officers will make an “objectively reasonable” force 
+option  choice.  Corrections  officers  will  follow  their  established  standard  operating 
+procedures in incidents involving  use of force within a detention  facility. (I.e. DSD SOP 
+09.11.01 Use of Force.) 
+ 
+In use of force incidents, the officer will transition to differing degrees or types of force, 
+including attempts to de-escalate. Force situations are dynamic and require an officer to 
+continually  assess  the  subject’s  actions  to  ensure  an  objectively  reasonable  response. 
+Officers shall modify their Level of Control in relation to the amount of resistance offered 
+by a subject. (5/14, 8/14)■ 
+ 
+
+ 
+
+1155 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+USE OF FORCE PROCEDURE 
+
+6/002.01 
+ 
+I. USE  OF  FORCE  TO  AFFECT  A  DETENTION,  AN  ARREST  OR  TO  CONDUCT  A 
+
+SEARCH 
+
+II. DUTY TO INTERVENE 
+III. LEVELS OF RESISTANCE (see Use of Force Model) 
+IV. LEVELS OF CONTROL (see Use of Force Model) 
+V. DE-ESCALATION 
+
+USE  OF  FORCE  TO  AFFECT  A  DETENTION,  AN  ARREST  OR  TO  CONDUCT  A 
+SEARCH 
+ 
+
+A.  Officers may use reasonable force: 
+1.  To protect themselves; 
+2.  To protect others; 
+3.  To affect a lawful detention; 
+4.  To affect a lawful arrest; 
+5.  To conduct a lawful search.  
+ 
+
+B.  If  it  is  not  already  known  by  the  subject  to  be  detained,  arrested,  or 
+searched, officers should, if reasonable, make clear their intent to detain, arrest 
+or search the subject.  When practicable, officers will identify themselves as a 
+peace officer before using force. 
+
+ 
+DUTY TO INTERVENE 
+ 
+Any officer present and observing another officer using force that is clearly beyond that 
+which is objectively reasonable under the circumstances shall, when in a position to do 
+so,  safely  intercede  to  prevent  the  use  of  such  excessive  force.  Officers  shall  promptly 
+report these observations to a supervisor.   
+ 
+LEVELS OF RESISTANCE (see Use of Force Model, 6/002.00) 
+ 
+It is important for officers to bear in mind that there are many reasons a suspect may 
+be resisting arrest or may be unresponsive. The person in question may not be capable 
+of understanding the gravity of the situation. Officers must consider several factors when 
+dealing with a non-compliant subject.  A subject may be non-compliant due to a medical 
+condition,  mental,  physical,  or  hearing  impairment,  language  barrier,  drug  interaction  or 
+emotional  crisis,  and  have  no  criminal  intent.  This  may  not  make  the  subject  any  less 
+dangerous  but  it  may  require  a  change  in  tactics  that  will  be  more  effective  while 
+maintaining officer safety, once these circumstances are known to the officer. 
+ 
+
+22. Compliant - A person contacted by an officer who acknowledges direction or lawful 
+orders given and offers no passive/active, aggressive, or aggravated aggressive 
+
+1156 
+
+ 
+I.
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+resistance. 
+ 
+
+Passive Resistance - The subject is not complying with an officer’s commands and 
+is  uncooperative,  but  is  taking  only  minimal  physical  action  to  prevent  an 
+officer  from  placing  the  subject  in  custody  and  taking  control.  Examples 
+include: standing stationary and not moving upon lawful direction, falling limply 
+and  refusing  to  use  their  own  power  to  move  (becoming  “dead  weight”), 
+holding  onto  a  fixed  object,  or  locking  arms  to  another  during  a  protest  or 
+demonstration. 
+ 
+
+Active  Resistance  -  The  subject’s  verbal  or  physical  actions  are  intended  to 
+prevent  an  officer  from  placing  the  subject in  custody and  taking  control,  but 
+are not directed at harming the officer.  Examples include: walking or running 
+away, breaking the officer’s grip.  
+
+ 
+------------------------------ SUBJECT’S INTENT TO HARM -------------------------------- 
+
+ 
+
+Aggressive  Resistance  -  The  subject  displays  the  intent  to  harm  the  officer, 
+themselves or  another person  and  prevent  an  officer from  placing  the  subject 
+in  custody  and  taking  control.  The  aggression  may  manifest  itself  through  a 
+subject  taking  a  fighting  stance,  punching,  kicking,  striking,  attacks  with 
+weapons  or  other  actions  which  present  an  imminent  threat  of  physical  harm 
+to the officer or another. 
+ 
+
+Aggravated  Aggressive  Resistance  -  The  subject’s  actions  are  likely  to  result  in 
+death  or  serious  bodily  harm  to  the  officer,  themselves  or  another.  These 
+actions  may  include  a  firearm,  use  of  blunt  or  bladed  weapon,  and  extreme 
+physical force.  
+
+ 
+
+1157 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+LEVELS OF CONTROL (see Use of Force Model, 6/002.00) 
+
+ 
+
+ 
+When  use  of  force  is  needed,  officers  will  assess  each  incident  to  determine, 
+based on policy, training and experience, which use of force option is believed to 
+be  objectively  reasonable  for  the  situation  and  bring  it  under  control  in  a  safe 
+and prudent manner.  
+ 
+
+1.  Low  Level  Force  -  Low  level  force  is  a  level  of  force  or  control  that  is  neither 
+likely  nor  intended  to  cause  injury.  Examples  are  handcuffing  a  compliant 
+arrestee for transport to detention facility or proning a suspect out on a high-
+risk vehicle stop.  
+
+This level of force includes: 
+1.  Officer Presence 
+2.  Verbal Communication 
+3.  Empty Hand Tactics (Takedowns) 
+
+4.  Handcuffs/Other LVMPD Approved Restraint Devices 
+5.  Baton (As escort tool) 
+6.  LVNR® (Level One – minimum restraint) 
+7.  Canine   
+8.  Pinching 
+9.  Blocking 
+
+ 
+
+Intermediate  Force  -  A  level  of  force  that  has  the  potential  to  cause  injury  or 
+
+substantial pain, and is greater than Low-Level Force. 
+
+ 
+This level of force requires a Use of Force Report and includes: 
+
+1.  Empty Hand Tactics (Takedown with injury, Strikes, Kicks) 
+2.  Baton/Impact Weapons (Jabs, Strikes) 
+3.  LVNR® (Level 2 – medium restraint; and 3-maximum restraint) 
+4.  OC Spray 
+5.  ECD 
+6.  Low Lethality Shotgun (five yards or greater) 
+7.  Canine  
+8.  P.I.T. (Speeds 40mph or below) 
+
+Deadly  Force  -  Deadly  force  is  that  degree  of  force,  which  is  likely  to  produce 
+death  or  serious  bodily  injury.  Deadly  force  can  also  result  from  a  force 
+option being improperly applied.  In order for the Use of Deadly Force to be 
+justified,  at  least  one  of  the  parameters  and  all  elements  must  be  present. 
+Examples include but are not limited to: 
+1.  Baton (Striking head, neck, sternum, spine, groin, or kidneys) 
+2.  Low Lethality Shotgun (Fired at a distance less than five yards) 
+3.  P.I.T. (More than 40mph) 
+
+1158 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+4.  Ramming 
+5.  Firearm Use  
+
+ 
+
+Parameters for Use of Deadly Force 
+An  officer  may  use  deadly  force  upon  another  person  only  when  it  is 
+objectively reasonable to: 
+
+1.  Protect  himself  or  others  from  what  is  reasonably  believed  to  be  an 
+
+imminent threat of death or serious bodily injury; 
+
+2.  Prevent  the  escape  of  a  fleeing  felon  who  the  officer  has  probable 
+cause  to  believe  has  committed  a  violent  felony  crime  and  is  an 
+imminent  threat  to  human  life  if  escape  should  occur.  (See  NRS 
+171.1455.)  Officers will give some warning, if feasible, prior to the use 
+of deadly force.  
+
+Example:  “Police!  Stop or I will shoot!” 
+
+ 
+
+Elements of Deadly Force 
+ 
+
+1.  Ability  -  Ability  exists  when  a  person  has  the  means  or  capability  to 
+cause  grave  injury,  serious  bodily  harm  or  death  to  an  officer  or 
+another.  This  may  include,  but  is  not  limited  to  the  following:  the 
+subject’s  physical  ability,  size,  age,  strength,  combative  skill,  level  of 
+aggression, and any weapons in their immediate control. 
+
+2.  Opportunity  -  Opportunity  exists  when  a  person  is  in  a  position  to 
+effectively  resist  an  officer’s  control  or  to  use  force  or  violence  upon 
+the  officer  or  another.  Examples  which  may  affect  opportunity  include: 
+relative distance to the officer or others, and physical barriers between 
+the subject and the officer. 
+Imminent  Jeopardy  -  Based  upon  all  the  facts  and  a  circumstance 
+confronting the officer, the officer reasonably believes the subject poses 
+an  imminent  threat  to  the  life  of  the  officer(s)  or  other  third  parties 
+and the officer must act immediately to prevent death or serious bodily 
+injury.  
+
+3. 
+
+4.  Preclusion  -  Lesser  alternatives  have  been  reasonably  considered  and 
+exhausted  prior  to  the  use  of  deadly  force,  to  include  disengagement. 
+Deadly  force  in  response  to  the  subject’s  actions  must  remain 
+reasonable while based upon the totality of the circumstances known to 
+the officer at the time force was applied. 
+ 
+
+DE-ESCALATION 
+
+ 
+
+Policing  requires  that  at  times  an  officer  must  exercise  control  of  a  violent  or  resisting 
+subject  to  make  an  arrest,  or  to  protect  the  officer,  other  officers,  or  members  of  the 
+community  from  risk  of  imminent  harm.  Clearly,  not  every  potential  violent  confrontation 
+can  be  de-escalated,  but  officers  do  have  the  ability  to  impact  the  direction  and  the 
+
+ 
+
+1159 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+outcome of many situations they handle, based on their decision-making and the tactics 
+they choose to employ. 
+ 
+When  reasonable  under  the  totality  of  circumstances,  officers  should  gather  information 
+about the incident, assess the risks, assemble resources, attempt to slow momentum, and 
+communicate  and  coordinate  a  response.    In  their  interaction  with  subjects,  officers 
+should use advisements, warnings, verbal persuasion, and other tactics and alternatives to 
+higher  levels  of  force.  Officers  should  recognize  that  they  may  withdraw  to  a  position 
+that  is  tactically  more  secure  or  allows  them  greater  distance  in  order  to  consider  or 
+deploy a greater variety of Force Options. Officers shall perform their work in a manner 
+that  avoids  unduly  jeopardizing  their  own  safety  or  the  safety  of  others  through  poor 
+tactical decisions.  
+ 
+The  prospect  of  a  favorable  outcome  is  often  enhanced  when  supervisors  become 
+involved  in  the  management  of  an  overall  response  to  potential  violent  encounters  by 
+coordinating  resources  and  officers’  tactical  actions.  Supervisors  should  possess  a  good 
+knowledge  of  tactics  and  ensure  that  officers  under  their  supervision  perform  to  a 
+standard. As a good practice, supervisors will acknowledge and respond to incidents in a 
+timely manner where law enforcement use of force is probable. (4/14, 5/14)■ 
+ 
+6/002.02 
+
+AUTHORIZED  FORCE  TOOLS  DESCRIPTION,  REQUIREMENTS,  USES  AND 
+CONSIDERATIONS 
+
+Presence and Verbal Communication:  
+Empty Hand Tactics: 
+Handcuffs, flexible handcuffs, or other restraint devices: 
+Baton/Impact Weapons: 
+ Oleoresin Capsicum Spray: 
+Lateral Vascular Neck Restraint®: 
+Electronic Control Device:   
+Use of Canine 
+Use of Force with a Vehicle 
+a.
+b.
+c.
+d.
+Use of Force with a Firearm 
+
+Precision Intervention Technique: 
+
+Ramming 
+
+Blocking 
+
+a. Low Lethality Shotguns  
+b. Handgun/Shotgun (“OO” Buck & Slug)/Rifle 
+c. Deployment of Rifles  
+
+Stationary Vehicle Immobilization Technique (Pinching) 
+
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+H.
+I.
+
+X.
+
+ 
+
+With  minimal  exception,  only  department-approved  weapons  and  training  techniques  shall 
+be used.   Uniformed officers will carry all issued tools and equipment required by the 
+
+1160 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+policies of this agency. Officers should note that less lethal tools may result in a lethal 
+outcome, or be ineffective even when used appropriately. 
+ 
+Non-uniformed  commissioned  personnel  the  rank of  lieutenant  and  below  are  required  to 
+carry  at  least  one  intermediate  force  option  -  baton,  OC  spray,  or  ECD  –  on  their 
+person  when  on-duty  unless  the  requirement  is  waived,  via  completion  of  LVMPD  Form 
+483, by their division commander.   
+ 
+Supervisors  of  commissioned  personnel  will  ensure  their  subordinates  complete  their 
+minimum  required  hours  of  training  within  the  calendar  year.  Officers  completing  an 
+academy  during  the  calendar  year  are  exempt  from  the  minimum  hour  requirement. 
+Defensive  tactics  proficiency  testing  will  be  required  for  the  quarter  following  graduation 
+from an academy. 
+ 
+If  the  employee  fails  to  demonstrate  proficiency,  the  employee  and/or  the  employee’s 
+supervisor  will  contact  the  Organizational  Development  Bureau/DSD  Training  as  soon  as 
+practicable for assistance in formulating a remedial training program.  
+ 
+The  following  are  authorized  force  tools/restraints  and  techniques  which  may  be  used 
+when  objectively  reasonable  and  otherwise  permitted  under  this  policy.  Specialized  units 
+may have additional tools that are not covered in this policy. 
+ 
+
+I. Presence and Verbal Communication:  
+
+Level of Control:   
+
+Low Level Force  
+
+ 
+Approved Use: 
+
+  
+
+II. Empty Hand Tactics:   
+Level of Control:   
+
+Officers  will,  when  and  to  the  extent  reasonably  possible,  attempt  to  use 
+verbal  communication  skills  to  control  subjects  before  resorting  to  physical 
+control methods.  
+
+Low Level Force – takedowns (not likely to cause injury), escorts  
+Intermediate Level Force - takedown, strikes, kicking 
+Deadly Force - takedown, strikes, kicking 
+
+ 
+Certification/POST Requirements: 
+
+academies. 
+
+1.  Entry  level  training  is  taught  at  the  LVMPD  police  and  corrections 
+
+2.  Annual  Training  -  Two  hours  of  Defensive  Tactics  training  per  quarter  for 
+lieutenants  and  below.  NV  POST  requires  officers  must  participate  in  8 
+hours  of  Defensive  Tactics  training  per  year  and  demonstrate  proficiency 
+with each tactic/tool they are authorized to use.   
+
+ 
+
+1161 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Approved Use: 
+
+1.  These  tactics  will  be  used  only  in  accordance  with  policy  and 
+
+department training. 
+
+2.  Officers  should  only  use  tactics  appropriate  to  the  situation  which 
+
+have been taught by department Defensive Tactics instructors. 
+
+ 
+Additional Considerations:   
+
+Summon  medical  attention  on  use  of  an  Empty  Hand  Tactic  and/or  any 
+incident where a subject is injured and/or complains of injury. 
+ 
+All  strikes,  punches,  kicks,  and/or  any  incident  where  a  subject  is  injured  or 
+complains of injury is a reportable Use of Force Report in Blue Team. 
+ 
+
+III. Handcuffs, flexible handcuffs, or other restraint devices:   
+
+Level of Control:  
+
+Low Level Force 
+
+ 
+Description: 
+
+Officers will only use department-authorized or issued handcuffs.  
+  
+
+Certification/POST Requirements: 
+
+1.  Entry  level  training  is  taught  at  the  LVMPD  police  and  corrections 
+
+academies. 
+
+2.  Two  hours  of  Defensive  Tactics  training  per  quarter  for  lieutenants  and 
+below.  NV  POST  requires  officers  participate  in  8  hours  of  Defensive 
+Tactics  training  per  year  and  demonstrate  proficiency  with  each  tactic/tool 
+they are authorized to use. 
+
+ 
+Inspection Requirement:  
+
+Handcuffs will be maintained in clean and working order.  
+ 
+
+Approved Use: 
+
+1.  This  tool  will  be  used  only  in  accordance  with  policy  and  department 
+
+2. 
+
+training. 
+In  an  attempt  to  minimize  the  risk  of  injury  to  officers  and  others  during 
+arrest  situations,  officers  will  handcuff  all  persons  arrested  as  soon  as 
+possible. 
+
+3.  During  investigative  detentions  (“Terry  Stops”)  where  one  or  more  of  the 
+following  factors  is  present:    Note:  Investigative  detentions  cannot  exceed 
+60 minutes pursuant to NRS 171.123.  
+a. 
+b. 
+
+Articulable facts that the subject is physically uncooperative; 
+Articulable  facts  that  a  subject’s  actions  at  the  scene  may 
+
+1162 
+
+ 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+c. 
+
+d. 
+e. 
+
+f. 
+
+g. 
+
+h. 
+
+a. 
+
+b. 
+
+present physical danger to themselves or others if not restrained; 
+
+Reasonable  possibility  of  flight  based  on  the  action  of  the 
+
+ 
+
+subject; 
+
+Information that the subject is currently armed; 
+The  stop  closely  follows  a  violent  crime  and  the  subject 
+
+matches specific parts of a description; 
+
+When  there  are  articulable  facts  that  a  crime  of  violence  is 
+
+about to occur; 
+
+Care  and  discretion  should  be  used  at  extremes  of  age  in 
+
+handcuffing an individual during an investigative detention. 
+
+The  authority  to  handcuff  during  investigatory  stops  continues 
+
+for only as long as the circumstances above exist.   
+
+At a private residence as is reasonably necessary to execute 
+
+the warrant in safety; 
+
+At a commercial business open to the public if it reasonably 
+appears that handcuffing is necessary to protect an officer or others 
+from  physical  harm.  Circumstances  which  may  justify  initial 
+handcuffing may change and eliminate continued justification; 
+
+4.  Suicidal persons; 
+5.  During a search warrant service; 
+
+6.  Persons being transported to detoxification facilities; 
+7.  By detention personnel moving in-custody subjects. 
+
+ 
+
+Disapproved Use: 
+
+If  medical  circumstances  make  it  unreasonable  to  handcuff  an  arrestee, 
+officers will refrain from handcuffing. 
+
+2.  When  responding  to  a  security  office  where  a  subject  has  already  been 
+placed in handcuffs prior to arriving to the  scene, officers shall not place 
+LVMPD  handcuffs  on  the  subject  until  they  have  reasonable  suspicion  or 
+probable cause based on their independent investigation and/or findings. 
+
+1. 
+
+ 
+
+Tactical Considerations: 
+
+1.  Officers  will  check  handcuffs  for  tightness  and  double  lock  as  soon  as  it 
+
+is safe to do so prior to transport.   
+
+2.  When  a  handcuffed  subject  first  complains  that  handcuffs  are  too  tight 
+and/or are hurting the subject, the officer having custody of the handcuffed 
+subject will, as soon as reasonably possible, check the handcuffs to make 
+sure  that  they  are  not  too  tight.  If  they  are  too  tight  (per  training),  they 
+will be loosened and double locked. 
+
+ 
+Additional Considerations: 
+
+ 
+Summon  medical  attention  on  use  of  Handcuffs  or  other  restraint  devices 
+and/or any incident where a subject is injured and/or complains of injury. 
+
+ 
+
+1163 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+ 
+Any incident where a subject is injured or complains of injury is a reportable 
+Use of Force Report in Blue Team. 
+ 
+
+D. 
+
+Baton/Impact Weapons:   
+ 
+Level of Control:   
+
+Low Level Force - when used as an escort tool 
+Intermediate Force - when used for jabbing or striking 
+Deadly Force - striking subjects on the head, neck, sternum, spine, groin, or 
+kidneys 
+
+ 
+Description: 
+
+1.  A  baton  is  a  department-authorized  expandable  straight  baton  or 
+
+side handle baton.   
+
+2.  All  commissioned  police  personnel  the  rank  of  lieutenant  and 
+below must obtain certification training and carry the baton when 
+in an approved LVMPD uniform (see 4/107.00).  
+
+3.  Plain  clothes  officers  are  required  to  carry  either  OC  spray,  an 
+
+ECD, or an expandable straight baton. 
+
+  
+
+Certification/POST Requirements: 
+
+academies. 
+
+3.  Entry  level  training  is  taught  at  the  LVMPD  police  and  corrections 
+
+4.  All  officers,  in  the  rank  of  lieutenant  and  below,  shall  complete  the 
+
+following requirements: 
+a.  Receives initial baton training in the academy; or 
+b.  Receives a minimum of eight (8) hours of initial PR-24 (AL or FX) or 
+a minimum of four (4) hours of initial expandable straight baton training 
+by an LVMPD certified Defensive Tactics Instructor. 
+
+3.  Annual  Training  -  Two  hours  of  Defensive  Tactics  training  per 
+quarter for lieutenants and below. Nevada POST requires officers 
+participate in 8 hours of Defensive Tactics training per year and 
+demonstrate  proficiency  with  each  tactic/tool  they  are  authorized 
+to use.   
+
+Batons will be maintained in clean and working order. 
+
+ 
+Inspection Requirement: 
+
+ 
+Approved Use: 
+
+training. 
+
+1.  This  tool  will  be  used  only  in  accordance  with  policy  and  department 
+
+2.  Blocking, jabbing, to apply control holds, or passive/active escort techniques 
+
+(Example: stirring the pot). 
+
+1164 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+ 
+Disapproved Use: 
+
+or impact tool. 
+
+1.  A  subject  who  poses  no  imminent  threat  will  not  be  struck  with  a  baton 
+
+2.  Officers are discouraged from using their firearm as an impact tool due to 
+
+the possibility of an unintentional discharge. 
+
+3.  During non-deadly force incidents, officers will use reasonable care to avoid 
+striking  subjects  on  the  head,  neck,  sternum,  spine,  groin,  or  kidneys,  as 
+these strikes may constitute deadly force. 
+
+4.  The use of instruments as a weapon for the purpose of striking or jabbing 
+(i.e.,  flashlights,  radio,  etc.)  other  than  department-authorized  batons,  is 
+strongly  discouraged  and  acceptable  only  when  other  authorized  force 
+responses have been exhausted and are either unavailable or ineffective.   
+5.  Officers  must  be  able  to  articulate  a  compelling  need  to  use  any  other 
+device or object other than an authorized baton as an impact weapon.  
+
+ 
+Additional Considerations: 
+
+Summon  medical  attention  on  all  strikes  with  a  Baton/Impact  weapon  and/or 
+any incident where a subject is injured and/or complains of injury. 
+ 
+Notify a supervisor when a Baton/Impact weapon has been used. 
+ 
+Use of the baton for escort/control or “stirring the pot” is non-reportable. 
+ 
+All  strikes  or  any  incident  where  a  subject  is  injured  and/or  complains  of 
+injury is a reportable Use of Force Report in Blue Team. 
+ 
+
+V. Oleoresin Capsicum Spray: 
+
+ 
+Level of Control: 
+
+Intermediate Force 
+
+ 
+Description: 
+
+1.  OC spray is a non-lethal agent which causes inflammation of the skin and 
+mucus membrane of  a subject and has a  natural base as opposed to a 
+chemical base.  
+
+2.  All  commissioned  police  personnel  the  rank  of  lieutenant  and  below  must 
+obtain  certification  training  and  carry  OC  spray  when  in  an  approved 
+LVMPD uniform (see 4/107.00).   
+
+3.  Plain  clothes  officers  are  required  to  carry  OC  spray,  an  ECD,  or  an 
+
+expandable straight baton. 
+
+ 
+Certification/POST Requirements: 
+
+ 
+
+1165 
+
+1.  Entry  level  training  is  taught  at  the  LVMPD  police  and  corrections 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+academies. 
+
+ 
+
+2.  Annual  Training  -  Two  hours  of  Defensive  Tactics  training  per  quarter  for 
+lieutenants and below. Nevada POST requires officers participate in 8 hours 
+of  Defensive  Tactics  training  per  year  and  demonstrate  proficiency  with 
+each tactic/tool they are authorized to use.   
+
+ 
+Inspection Requirement: 
+
+ 
+Deployment Requirement: 
+
+OC spray expiration date and serviceability will be checked. 
+
+1.  When  deploying,  an  officer  will,  if  practical,  announce  a  warning  to  the 
+subject  and  other  officers  of  the  intent  to  deploy  the  OC  spray  if  the 
+subject does not comply with your commands.  
+
+Example, “Do what I am telling you to do, or I will spray you with 
+
+2.  Officer shall give the subject a reasonable opportunity to voluntarily comply.  
+
+pepper spray.” 
+
+ 
+Approved Use: 
+
+1.  OC  Spray  will  be  used  only  in  accordance  with  policy  and 
+
+department training. 
+
+2.  OC spray may be used when subject is engaging or displays the intent to 
+
+engage in aggressive resistant behavior which may cause injury.  
+
+3.  OC  spray  may  be  used  on  vicious  or  aggressive  animals  when  those 
+
+animals interfere with the safety of the officers or citizens. 
+
+4.  OC spray may only be used in a protest or demonstration situation when 
+authorized  by  an  incident  commander  in  response  to  imminent  threat  of 
+harm.  
+
+Disapproved Use: 
+1. 
+
+Shall  not  be  used  on  a  subject  inside  a  closed  vehicle, 
+unless an officer is attempting to secure an aggressive resistant subject in 
+a patrol vehicle.  OC is not intended to be used to force extraction from 
+an  enclosed  area,  unless  utilized  in  a  detention  facility.  (See  DSD  SOP 
+09.11.01 Use of Force)  
+Shall not be used on passive resistant protestors. 
+Shall not be used other than as an aerosol/stream. 
+Shall not be used on a handcuffed subject unless the subject is displaying 
+Aggressive Resistance.   
+
+2. 
+3. 
+4. 
+
+ 
+Tactical Considerations: 
+
+subject. 
+
+1.  Whenever  possible,  should  be  used  upwind  and  relatively  close  to  the 
+
+2.  High capacity OC spray may be used as an intermediate level of control; 
+however, officers will assess the effect the device will have on subjects in 
+
+1166 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+the general area due to the volume of agent dispersed.   
+
+ 
+
+ 
+Supervisory Consideration: 
+
+ 
+Additional Considerations: 
+
+Incident  commander  may  authorize  use  in  a  protest  or  demonstration  incident 
+in response to imminent threat of harm. 
+
+Summon medical attention on all use of OC Spray and/or any incident where 
+a subject is injured and/or complains of injury. 
+ 
+Notify a supervisor when OC Spray has been used. 
+ 
+Inform  detention  personnel  the  subject  has  been  exposed  to  OC  Spray  and 
+ensure they have been screened by the detention facility medical staff.  
+ 
+The use of OC Spray on a subject is a reportable Use of Force Report in 
+Blue Team. 
+ 
+Note:  In  addition  to  the  above,  when  OC  Spray  is  used  by  a  civilian 
+department  member  a  patrol  officer  and  supervisor  will  respond  to  the  scene 
+to assist with enforcement action.  
+
+F. Lateral Vascular Neck Restraint®: 
+
+ 
+There  are  three  levels  to  applying  the  LVNR®.   Level  One  begins  with  Low 
+Level Force and may progress to the Intermediate based on the subject’s actions. 
+ 
+Level of Control:  
+
+Low Level Force --   LVNR® Level One (minimum restraint) 
+ 
+Intermediate Force --   LVNR® Level Two (medium restraint) 
+
+     
+
+LVNR® Level Three (maximum restraint) 
+
+ 
+Description:  
+
+The LVNR® is a control technique in which the carotid arteries on the sides 
+of  the  neck  are  compressed,  restricting  blood  flow  to  the  brain,  causing  the 
+subject to pass out. 
+
+ 
+Certification/POST Requirements: 
+
+1.  Entry  Level  Training  is  provided  in  the  LVMPD  police  and  corrections 
+academies.  No officer will use the LVNR® without first completing the 12-
+hour certification course provided in the academy. 
+
+2.  Training will be provided by certified LVNR® instructors only.  
+3.  All  commissioned  officers  the  rank  of  lieutenant  and  below  will  receive 
+
+1167 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+training in the LVNR®.  
+
+ 
+
+4.  Officers certified in the LVNR® will be required to complete four hours of 
+
+recertification training through quarterly defensive tactics.  
+
+a.  Any  officer  requesting  an  exemption  from  LVNR®  training  due  to 
+medical  reasons  must  obtain  a  medical  exemption  from  their 
+physician.  
+
+b.  This  exemption  must  be  obtained  immediately  upon  requesting  the 
+exemption  and  at  the  beginning  of  each  calendar  year  thereafter, 
+and be forwarded to the Director of Risk Management.  
+
+ 
+Approved Use: 
+
+1.  This  tool  will  be  used  only  in  accordance  with  policy  and 
+
+department training. 
+
+2.  The  LVNR®  is  a  defensive  tactic  to  quickly  and  safely  stop 
+
+active/aggressive resistance.  
+
+ 
+
+Disapproved Use: 
+
+1.  Will  not  be  used  on  subjects  that  have  been  exposed  to  OC  spray  or 
+
+who are experiencing difficulty breathing.   
+
+2.  Officers  will  not  use  any  other  arm  bar  technique  that  involves  a  neck 
+
+1.  When  applying  the  LVNR®,  only  the  amount  of  force  necessary  to 
+
+bring the subject under control will be used.  
+
+2.  Upon  the  subject  being  brought  under  control  the  LVNR®  will  be 
+
+restraint. 
+
+ 
+Tactical Considerations: 
+
+relaxed. 
+
+Additional Considerations: 
+
+Summon medical attention on all use of LVNR®, and/or any incident where a 
+subject is injured and/or complains of injury. 
+ 
+Notify a supervisor when LVNR® has been attempted or used. 
+ 
+Inform detention personnel LVNR® has been applied on the subject and 
+ensure they have been screened by the detention facility medical staff.  
+ 
+Any application of LVNR® on a subject is a reportable Use of Force Report 
+in Blue Team. 
+
+G.  Electronic Control Device:   
+
+ 
+All commissioned personnel at the rank of lieutenant and below must obtain initial 
+ECD  certification  training,  and  annual  recertification.    Sergeants  and  below,  who 
+
+1168 
+
+ 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+are issued an ECD, must carry the device when in an approved LVMPD uniform 
+(including  overtime  assignments;  see  4/107.00),  excluding  NYE,  9/11  or  any  other 
+Special Events as stated in the IAP for the Event.   
+ 
+Level of Control: 
+
+Intermediate Force  
+
+ 
+Description: 
+
+1.  The ECD is a Neuro-Muscular Incapacitation (NMI) device that disrupts the 
+body’s  ability  to  communicate  messages  from  the  brain  to  the  muscles 
+thereby causing temporary NMI.  
+a. 
+
+An air cartridge is a replaceable cartridge for the ECD which 
+uses compressed nitrogen to fire two barbed probes on thin connecting 
+wires, sending a high voltage/low current signal into a subject. 
+
+2.  Use of the ECD Camera  
+
+a.  Some  ECDs  are  equipped  with  a  video  camera  and  audio  recording 
+
+device.  
+
+b.  Any and all images, video, and/or audio generated by the ECD camera 
+are the sole property of the Las Vegas Metropolitan Police Department. 
+No  video  and/or  audio  may  be  downloaded  unless  obtained  in  the 
+course  of  official  duties.  No  material  produced  by  the  ECD  cameras 
+may be reproduced, uploaded to non-departmental websites, or otherwise 
+disseminated without authorization from the Sheriff or his designee. 
+
+c.  When  an  officer  leaves  the  Patrol  Division,  the  ECD  camera  must  be 
+
+turned into the Supply Section.     
+
+ 
+Certification/POST Requirements: 
+1. 
+
+corrections academies. 
+
+Entry  Level  Training  is  taught  at  the  LVMPD  police  and 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+Defensive Tactics instructors who have been certified as ECD 
+
+instructors will be the only authorized persons to instruct on the ECD.   
+
+Officers authorized to use an ECD must successfully complete 
+an initial six-hour certification training course, to include written and practical 
+tests.   
+
+Once certified, all officers, regardless of issuance of an ECD, 
+must  annually  attend  four-hour  recertification  training  taught  by  the  AOST 
+Staff.   
+
+If  the  employee  fails  to  demonstrate  proficiency  at  any  time, 
+the  employee  and/or  the  employee’s  supervisor  will  contact  the  Training 
+Section for assistance in formulating a remedial training program. 
+
+ 
+Inspection Requirement: 
+1. 
+
+Officers  will  use  only  authorized  ECD  equipment  issued  by 
+the  LVMPD.  The  ECD  will  be  inspected  for  damage  and  cleanliness,  and 
+
+ 
+
+1169 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+batteries  and  cartridges  replaced  by  the  officer  when  required.  The  ECD 
+will  be  inspected  and  maintained  in  accordance  with  training  protocols. 
+When  off  duty,  ECDs  must  be  stored  and  secured  in  a  climate-controlled 
+area (i.e. locker), not in a vehicle.  
+2.  Officers  must  conduct  a  spark  check,  outside  the  public  view,  at  the 
+beginning of shift to ensure the ECD will function properly. This spark 
+check does not require completion of a Use of Force Report.  
+
+Uniformed  officers  will  carry  the  ECD  in  a  department 
+approved holster. The holster will be carried on the duty belt, on the side 
+opposite  the  duty  firearm.  Cross-draw  position  is  optional.  Plain  clothes 
+officers, who are issued an ECD, will carry the device on their weak side. 
+Officers  have  the  option  of  carrying  the  standard  DPM  or  the  X-DPM 
+which is an extended version, capable of carrying a spare ECD cartridge. 
+
+3. 
+
+ 
+Deployment Requirement: 
+
+1.  When  displaying  an  ECD,  officers  will  give  a  warning,  when  practical,  to 
+
+the subject and other officers before firing the ECD.  
+
+Example: “Do what I am telling you to do or I will taze you and it 
+
+will hurt.” 
+
+2.  Officer shall give the subject a reasonable opportunity to voluntarily comply. 
+
+ 
+Note:  Officers  should  be  aware  of  the  higher  risk  of  sudden  death  which 
+may  exist  in  subjects  under  the  influence  of  illicit  drugs  and/or  exhibiting 
+symptoms associated with excited delirium. In addition, once a subject has 
+received an ECD application; officers should be aware of the potential for 
+impaired  breathing  during  restraint  procedures.  If  the  subject  is  thought  to 
+be experiencing impaired breathing, they should be placed on their side to 
+reduce  the  risk  of  aspiration.  Severely  impaired  breathing  could  result  in 
+death. 
+ 
+Approved Use: 
+
+1.  This  tool  will  be  used  only  in  accordance  with  policy  and 
+
+department training. 
+
+2.  The  ECD  is  an  Intermediate  Level  of  Control  and  may  be  used  when 
+
+there is an imminent threat of physical harm. 
+
+ 
+Disapproved Use: 
+
+1.  Officers are not authorized to draw or display the ECD except for training 
+and  inspection,  unless  the  circumstances  create  a  reasonable  belief  that 
+use  may  be  necessary.    The  ECD  will  be  handled  in  the  same  manner 
+as a firearm and will be secured prior to entering any detention facility.  
+2.  The  intentional  use  of  more  than  one  ECD  simultaneously  on  the  same 
+
+subject is prohibited. 
+
+3.  The ECD will not be used: 
+
+1170 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+a.  When the officer knows a subject has come in contact with flammable 
+
+liquids or is in a flammable atmosphere; 
+
+b.  When  the  subject  is  in  a  position  where  a  fall  may  result  in  serious 
+
+bodily harm or death; 
+
+c.  Punitively for purposes of coercion or in an unjustified manner; 
+d.  To escort or jab individuals; 
+e.  To awaken unconscious or intoxicated individuals;  
+f.  When  the  subject  is  visibly  pregnant,  unless  deadly  force  is  the  only 
+
+other option; 
+
+4. 
+
+5. 
+
+g.  When the subject is in handcuffs or waist restraints;  
+h.  When  a  subject  displays  solely  Passive  or  Active  Resistance  (i.e. 
+peaceful protest, refusal to stand, non-aggressive verbal resistance, etc.); 
+i.  When a subject is fleeing as the sole justification for use of the ECD. 
+The  ECD should  not  be  used in  the  following  circumstances 
+unless  there  are  compelling  reasons  to  do  so  which  can  be  clearly 
+articulated: 
+
+a.  When the subject is operating a motor vehicle; 
+b.  When the subject is holding a firearm; 
+c.  When  the  subject  is  at  the  extremes  of  age  (elderly  and  young  children) 
+
+or physically disabled; 
+
+d.  In a situation where deadly force is clearly justifiable unless another officer 
+is present and capable of providing deadly force to protect the officers 
+and/or others as necessary. 
+
+Use of the ECD Camera:  
+
+a.  The ECD camera will not be used as a simple recording device.   
+b.  The ECD camera may only be used for official law enforcement business.  
+
+Any  use  of  the  ECD  camera  video  or  audio  that  is  not  in  the 
+performance of official duties is strictly prohibited. 
+
+ 
+Tactical Considerations: 
+
+1.  There are three types of reportable ECD applications: 
+
+a.  Spark  Display  -  A  non-contact  demonstration  of  the  ECD’s  ability  to 
+
+discharge electricity. 
+
+b. 
+
+c. 
+
+Touch  Stun  -  A  pain  compliance  application  of  the  ECD  without  a 
+cartridge intended to gain compliance of a subject or used to complete 
+a circuit by making direct contact with the body after the air cartridge 
+has  been  expended  or  removed.    Note:  Use  of  the  ECD  as  a  pain-
+compliance tool is discouraged.  
+
+Probe  Mode  -  When  the  ECD  cartridge  is  fired  at  a  subject  with 
+the intent that the subject be temporarily immobilized for the period of 
+time  the  ECD  is  cycled.  Proper  application  will  result  in  temporary 
+immobilization  of  the  subject  and  provide  the  officer  a  “window  of 
+opportunity” in which to take the subject safely into custody. 
+
+2.  For a frontal shot, reasonable effort should be made to target lower center 
+
+ 
+
+1171 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+mass  and  avoid  intentionally  targeting  the  head,  neck,  groin  and  chest.  It 
+is  recognized  that  the  dynamics  of  each  situation  and  officer  safety  may 
+not  permit  the  officer  to  limit  the  application  of  the  ECD  probes  to  a 
+precise  target  area. Back  shots  are  the  preferred  target  area  when 
+practical. 
+
+ 
+3.  When deploying an ECD, officers will: 
+a. 
+
+Initial use of the ECD shall be a standard five-second cycle, and then 
+the  officer  will  evaluate  the  need  to  apply  a  second  five-second  cycle 
+after  providing  the  subject  a  reasonable  opportunity  to  comply.  Each 
+subsequent five-second cycle requires separate justification based on the 
+objectively reasonable standard of Graham v. Connor. Once the subject 
+has  been  exposed  to  three  cycles,  the  ECD  shall  be  deemed 
+ineffective  and  another  use  of  force  option  will  be  considered,  unless 
+exigent circumstances exist;  
+
+Begin  control  and  restraint  procedures,  including  cuffing  under 
+power, as soon as is reasonably safe and practical to do so in order 
+to  minimize  the  total  duration  of  ECD  exposure(s).  The  device  user, 
+and  those  assisting  the  user,  should  avoid  touching  the  probes,  wires, 
+and the areas between the probes to avoid accidental shock during the 
+electrical discharge; 
+
+The use of “touch stun” mode should only be used to supplement 
+Probe Mode to complete the Neuro-Muscular Incapacitation (NMI) effect. 
+The ECD “touch stun” mode requires the same level of justification as 
+probe deployment.  
+
+b. 
+
+c. 
+
+Summon medical attention on all use of the ECD, and/or any incident where 
+a subject is injured and/or complains of injury. 
+ 
+Notify a supervisor when ECD has been used (Spark Display, Probe or Touch 
+Stun). 
+ 
+Inform  detention  personnel  an  ECD  has been  used  on  the  subject  (Probe  or 
+Touch  Stun)  and  ensure  they  have  been  screened  by  the  detention  facility 
+medical staff.  
+ 
+Any use of ECD on a subject is a reportable Use of Force Report in Blue 
+Team with the only exception being a spark check out of public view. Note: 
+Any  accidental  discharge  of  an  ECD  other  than  at  a  subject  will  be 
+documented on an Officer’s Report.  
+
+If the subject is thought to be experiencing impaired breathing, they should be 
+placed on their side to reduce the risk of aspiration. 
+
+1172 
+
+ 
+Additional Considerations 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+ 
+
+I. Use of Canine 
+
+ 
+Level of Control: 
+Low Level  
+Intermediate Force  
+ 
+
+Certification/POST Requirements: 
+
+1.  All police service dogs will be initially certified.   
+2.  Patrol  dogs  will  be  re-certified  on  a  quarterly  basis,  while 
+
+detector dogs will be re-certified on a semi-annual basis.   
+
+ 
+Inspection Requirement: 
+
+ 
+Deployment Requirement:  
+
+ 
+Approved Use: 
+
+Maintenance  training  with  the  Canine  team  should  occur  on  a  daily  basis  to 
+ensure the training standards are maintained.  
+
+Canine teams can be requested through Communications, 24 hours a day, and 
+7  days  a  week.   A  Canine  team  may  need  to  be  called  out  upon  the 
+approval of the section lieutenant or his designee. 
+
+1.  Canine is approved when there is probable cause to believe a subject has 
+committed a crime or is a danger to themselves or others, and when the 
+subject  is  actively  evading  efforts  to  take  them  into  custody  and  the  use 
+of  a  canine  would  reduce  risk  to  officers  or  the  public.  Canine  will  be 
+used  only  in  accordance  with  policy,  department  training,  and  Graham  v. 
+Connor, 490 U.S. 386 (1989).   
+
+ 
+
+Disapproved Use:   
+
+Since  the  use  of  police  dogs  may  inflame  an  already  volatile  situation,  it  is 
+the policy of this department to place limitations on the use of police dogs in 
+crowd  control,  civil  disorders,  or  riot  situations.    In  the  event  of  such  an 
+occurrence,  the  canine  teams  may  be  dispatched  to  the  problem  area  in  a 
+standby  status.    They  would  be  utilized  only  when  authorized  by  the  field 
+lieutenant  in  charge  of  the  scene  in  a  dire  emergency.  Such  an  emergency 
+would  be  for  crowd  control  in  conjunction  with  an  all-out  police  effort  to 
+rescue isolated officers or citizens in danger of being injured or killed. 
+
+ 
+Tactical Considerations: 
+
+1. 
+
+In  police  operations,  canine  handlers  are  in  charge  and  responsible  for 
+their dogs’ deployment.  
+
+2.  When  it  is  believed  a  subject  may  be  armed  with  a  weapon  likely  to 
+cause injury or death to the police service dog, the handler may exercise 
+
+ 
+
+1173 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+his/her discretion before deploying the dog. 
+
+ 
+
+3.  Risk  to  Third  Parties:  In  using  police  service  dogs,  the  canine  handler 
+shall  exercise  reasonable  care  to  avoid  unnecessary  risk  of  injury  to 
+persons who are not the subject of a search or apprehension. 
+
+4.  When  cover  officers  accompany  canine  handlers  during  searches,  they 
+should  stay  with  the  handler  during  a  search  and  not  move  or  run  past 
+the  canine  team  unless  directed  to  do  so.    Cover  officers  should  watch 
+for dangers, make citizen contacts and let canine handlers issue commands 
+to a subject. The canine handlers will let the cover officers know when it 
+is safe to apprehend a subject. 
+ 
+
+Summon medical attention on all bites, and/or any incident where a subject is 
+injured and/or complains of injury. 
+ 
+Notify  a  supervisor  when  a  subject  or  person  has  been  bitten  by  a  police 
+service dog. 
+ 
+Inform detention personnel the subject has been bitten by a police service dog 
+and ensure they have been screened by the detention facility medical staff.  
+ 
+Any  use  of  a  Canine  with  bites  on  a  subject  is  a  reportable  Use  of  Force 
+Report in Blue Team. Note: Any injury caused by a police service dog to a 
+person  who  was  not  the  subject  of  the  search  will  be  documented  in  an 
+Officer’s Report.  
+
+Additional Considerations: 
+
+L. Use of Force with a vehicle:  
+
+Blocking 
+Stationary Vehicle Immobilization Technique (Pinching) 
+Precision Intervention Technique (PIT) 
+Ramming 
+
+Level of Control: 
+
+ 
+Blocking & Pinching - Low Level Force 
+ 
+PIT-Intermediate Force - At speeds 40mph or below  
+
+ Deadly Force – In the following instances: 
+1. 
+2. 
+3. 
+
+At speeds of more than 40mph; 
+When used on motorcycles; 
+When  used  on  high  center  of  gravity  vehicles  likely  to  roll 
+
+over, such as vans, SUVs, and jeeps; 
+
+4. 
+
+In  circumstances  creating  a  substantial  risk  of  death  or 
+
+serious bodily injury. 
+
+1174 
+
+ 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Ramming- Deadly Force regardless of speed 
+
+ 
+
+ 
+Description: 
+ 
+
+Blocking-  is  the  positioning  of  a  police  vehicle  in  the  path  of  an  occupied 
+subject  vehicle  where  contact  between  the  vehicles  is  not  anticipated  or  is 
+anticipated to be minimal.  In circumstances where the officer initiates contact 
+it  is  a  reportable  use  of  force.    In  the  use  of  blocking,  the  potential  for 
+injuries and vehicle damages are low.  If the subject initiates contact, this will 
+be investigated as an incident 
+ 
+Pinching-  is  a  pre-planned  containment  tactic  that  uses  low-speed,  intentional 
+vehicle  contact  with  a  subject’s  vehicle.  This  tactic  is  limited  for  use  by 
+specialized units with Bureau Commander’s approval and training. The purpose 
+is  to  render  a  vehicle  immobile  so  that  subjects  can  be  taken  into  custody.  
+Patrol officers may use a blocking technique. 
+ 
+PIT- is a specific manner of intentional contact using a police vehicle against 
+a fleeing vehicle to cause the fleeing vehicle to come to a stop.  
+ 
+Ramming- is the use of a vehicle to intentionally hit another vehicle. 
+
+ 
+Certification/POST Requirements: 
+ 
+
+Pinching: 
+1.  Personnel assigned to an approved unit intending to use this technique for 
+a  preplanned  apprehension,  must  re-certify  each  year  by  attending  EVOC 
+training in conjunction with PIT training.  
+
+2.  Approval necessary for specialized units to train in and use this technique 
+must be given by the specialized unit's bureau commander, and the ODB 
+commander. 
+
+3.  Training records for personnel certified in this technique will be maintained 
+
+by the Training Section of ODB. 
+
+PIT: 
+ 
+
+ 
+
+1. 
+
+2. 
+
+Entry  level  training  is  taught  at  the  LVMPD  police  and  corrections 
+academies. 
+
+Only  commissioned  officers  who  maintain  current  certification 
+
+may use this stopping technique.    
+
+ 
+Deployment Requirement: 
+ 
+
+ 
+
+1175 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Blocking: The officer has reasonable belief the subject has committed a crime 
+and may use the vehicle to flee.  
+
+Pinching:  The  officer  has  a  reasonable  belief  the  subject  has  committed  a 
+crime  and  has  been  attempting  to  evade,  or  has  the  potential  to  harm 
+themselves or others. 
+ 
+PIT: 
+
+1.  Prior  to  initiating  a  PIT,  officers  will  use  their  emergency  equipment 
+(red lights and sirens) and will give the operator of the subject vehicle 
+a reasonable opportunity to stop. 
+
+2.  Officers  will  broadcast  through  dispatch  the  intent  to  use  PIT  if 
+circumstances permit. Otherwise, notification will be made after the fact. 
+ 
+
+Ramming:  The  officer  has  reasonable  belief  imminent  threat  of  death  or 
+serious bodily injury exists. 
+
+ 
+Approved Use: 
+
+These  tactics  will  be  used  only  in  accordance  with  policy  and  department 
+
+training. 
+ 
+Blocking:  The  intent  of  blocking  is  to  prevent  the  escape  of  a  subject  by 
+utilizing  a  vehicle  to  block  the  path  of  the  occupied  subject  vehicle  when 
+contact is not anticipated or probable. 
+
+Pinching:  This  pre-planned  tactic  is  not  approved  for  use  by  Patrol.  May  be 
+used  by  specialized  units  who  have  gathered  intelligence  on  a  specific 
+subject(s) requiring the application of the tactic based on the subjects potential 
+for  violence,  disregard  for  public  safety  and/or  to  prevent  a  potential  vehicle 
+pursuit.   
+
+PIT: Circumstances warranting the use of PIT as deadly force are as follows: 
+
+1. 
+
+2. 
+
+3. 
+
+Continued  movement  of  the  pursued  vehicle  would  place  others  in 
+danger of serious bodily injury or death; and/or 
+Apparent risk of harm, to other than the occupants of the pursued 
+vehicle, is so great as to outweigh the risk of harm in making the 
+forcible stop; and 
+Other means of apprehension have been considered and rejected as 
+impractical, i.e., continue to follow, stop sticks, call for the air unit. 
+
+Ramming:  To  be  used  when  all  other  means  of  apprehension  have  been 
+considered  and  rejected  as  impractical  and/or  an  imminent  threat  of  death  or 
+serious bodily injury exists. 
+
+1176 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Disapproved Use: 
+ 
+
+Pinching: Not approved for use by patrol.  
+ 
+PIT: 
+
+1.  PIT  will  not  be  used  unless  the  subject  demonstrates  he/she  is 
+attempting to evade police and the elements necessary for an approved 
+Vehicular  Pursuit  (6/014.00)  are  present  (i.e.,  violent  felony  offense  or 
+subject presents a clear and immediate danger to the public). 
+
+2.  Officers driving department truck or SUV-type vehicles are not authorized 
+
+to use PIT.   
+
+Ramming:  When  the  imminent  threat  of  death  or  serious  bodily  injury  to  an 
+officer or citizen does not exist.  
+
+Tactical Considerations: 
+ 
+
+Officers  will  consider  the  safety  of  the  public  and  subjects  before  utilizing 
+these tactics. 
+ 
+Environmental factors: 
+
+Areas with pedestrians; 
+Other vehicle traffic; 
+Parked vehicles; 
+Telephone/utility poles; 
+Bridges; 
+Areas adjacent to paved roads with a large elevation change. 
+
+Subject factors:  
+
+Seriousness of the crime; 
+Number of subjects; 
+Subject(s) known to have or has access to firearms; 
+Potential of the subject to use the vehicle as a weapon; 
+Potential  of  a  tactical  disadvantage  due  to  close  proximity  of  the 
+
+subject(s); 
+
+Potential of creating a crossfire situation; 
+Size/weight of the subjects vehicle compared to the police vehicle 
+
+a. 
+b. 
+c. 
+d. 
+e. 
+f. 
+ 
+
+a. 
+b. 
+c. 
+d. 
+e. 
+
+f. 
+g. 
+
+ 
+Supervisory Consideration: 
+
+ 
+
+Blocking: Utilized to prevent the escape of a subject in a vehicle.  
+ 
+Pinching:  
+
+1.  Supervisors  assigned  to  units  authorized  to  use  this  technique  will 
+
+1177 
+
+ 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+ensure  all  personnel  operating  LVMPD  vehicles  in  a  Stationary  Vehicle 
+Immobilization employment are current on annual certifications.  
+
+2.  Order  discontinuation  of  the  pinch  when  the  necessity  for  apprehension 
+
+is outweighed by the dangers of the pinch. 
+
+3.  Ensure  this  is  the  best  tactic  and  that  other  reasonable  options  have 
+
+been considered. 
+
+PIT: 
+
+1. 
+
+ 
+
+ 
+
+Immediately  acknowledge  notification  over  the  radio,  and  assume 
+responsibility for controlling PIT; 
+
+2.  Order discontinuation of the PIT when the necessity for apprehension is 
+
+outweighed by the dangers of the PIT; 
+
+3.  Consider use of other options. 
+
+Ramming:  When  the  imminent  threat  of  death  or  serious  bodily  injury  to  an 
+officer or citizen does not exist.  
+ 
+
+Additional Considerations: 
+
+Summon  medical  attention  on  all  incidents  involving  use  of  force  with  a 
+vehicle  and/or  any  incident  where  a  subject  is  injured  and/or  complains  of 
+injury. 
+ 
+Notify a supervisor on any use of force with a vehicle.  
+ 
+Blocking with contact of a vehicle that is occupied is a reportable Use of 
+Force Report in Blue Team.  
+ 
+Blocking with contact of an unoccupied vehicle, or a subject’s vehicle 
+unintentionally touches the patrol vehicle; the contact will be reported as a 
+traffic incident, LVMPD 42, Vehicle Incident Report. 
+ 
+Pinching is a reportable Use of Force Report in Blue Team. In addition the 
+contact between the vehicles will be reported as a traffic incident, LVMPD 42, 
+Vehicle Incident Report. 
+ 
+PIT  (successful  uses,  attempts  and/or  declared  uses)  is  a  reportable  Use  of 
+Force  Report  in  Blue  Team.  In  addition  a  Pursuit  Report  in  Blue  Team  is 
+required when PIT was used during a pursuit. 
+ 
+Ramming  regardless  of  speed  is  a  reportable  Use  of  Force  Report  in  Blue 
+Team. 
+ 
+
+D. Use of Force with a Firearms  
+
+Handgun/Shotgun (Low Lethality, “00” Buck & Slug)/Rifle 
+
+1178 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Intermediate Force - when fired at a distance of five yards or greater.  
+Deadly Force - when fired at a distance less than five yards.  
+
+ 
+Level of Control: 
+
+ 
+Low Lethality Shotgun 
+
+ 
+Handgun/Shotgun (“00” Buck & Slug)/Rifle 
+
+Deadly Force - Shots fired  
+
+ 
+Description:  
+
+Low Lethality Shotgun - Low lethality shotguns are department-issued Remington 
+870 shotguns with the fore end and stock colored orange. The ammunition 
+is a 12 gauge, drag stabilized, less lethal round.  
+
+ 
+Handgun/Shotgun  (“00”  Buck  &  Slug)/Rifle  -  See  policy  5/208.02  Authorized 
+
+Firearms and Associated Equipment 
+
+ 
+Certification/POST Requirements: 
+
+1.  Entry  level  training  is  taught  at  the  LVMPD  police  and  corrections 
+
+academies. 
+
+2.  Low Lethality Shotgun-Re-qualify annually.  
+3.  Handgun/Shotgun  (“00”  Buck  &  Slug)/Rifle-See  policy  5/108.14  Firearms 
+
+Ensure weapon is clean and functional at all times; 
+
+(cid:120)  Ensure  shotgun  is  only  loaded  with  department  issued  low  lethality 
+
+ 
+Handgun/Shotgun (“00” Buck & Slug)/Rifle 
+
+(cid:120)  Ensure  weapon  is  loaded  with  department  duty  ammunition  and  not 
+
+(cid:120)  Officer  is  responsible  to  know  how  many  rounds  are  loaded  in  the 
+
+mixed with practice ammunition; 
+
+firearm and each magazine(s). 
+
+Training 
+
+ 
+Inspection Requirement: 
+
+ 
+
+Low Lethality Shotgun 
+
+munitions. 
+
+ 
+Deployment Requirement: 
+ 
+
+Low Lethality Shotgun 
+1. 
+
+Prior  to  firing  a  low  lethality  shotgun,  when  feasible,  the 
+officer will announce a warning to the subject and other officers of the 
+intent  to  deploy  the  low  lethality  shotgun  if  the  subject  does  not 
+
+ 
+
+1179 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+comply with commands.  
+
+ 
+
+Example: “Police!  Do what I am telling you to do, or I will shoot 
+you with a bean bag, and it will hurt.”  
+
+2.  Officer  shall  give  the  subject  a  reasonable  opportunity  to  voluntarily 
+
+comply.  
+
+3.  Two officers must be present if a low lethality shotgun is deployed.  
+ 
+
+Handgun/Shotgun (“00” Buck & Slug)/Rifle 
+
+1.  Before  using  a  firearm,  officers  will,  whenever  feasible,  identify 
+
+themselves and state their intention to shoot.   
+Example:  “Police!  Stop or I’ll shoot!” 
+
+2.  Officer  shall  give  the  subject  a  reasonable  opportunity  to  voluntarily 
+
+comply.  
+
+ 
+
+Rifle Deployment 
+
+1. 
+
+2. 
+
+If  there  is  a  potential  for  deadly  force  an  officer  may  deem  an 
+approved  rifle  is  appropriate  based  on  distance,  available  cover,  and 
+tactical  situation  presented.  It  is  important  for  an  officer  to  understand 
+terminal ballistic capabilities and limitations of the rifle to be deployed. 
+It  is  incumbent  on  the  officer  to  use  discretion  when  deploying  and 
+displaying  the  rifle,  and  to  only  deploy  the  rifle  when  the  situation 
+dictates.  The  officer  must  be  aware  of  the  number  of  rifles  already 
+deployed. 
+
+3.  Officer(s) deploying rifle(s) will : 
+
+a.  Announce  intent  to  deploy  the  rifle  via  the  radio  and  receive  an 
+
+acknowledgment from dispatch; 
+
+b.  Whenever  possible,  deploy  the  rifle  using  a  two-officer  team 
+consisting  of  a  single  rifle  carrier  supported  by  a  cover  officer  to 
+ensure security of the scene; 
+
+c.  Advise  dispatch,  via  the  radio,  of  deployment  location  and  update 
+dispatch  and  others  assigned  to  the  event  whenever  deployment 
+location  changes,  thus  providing  situational  awareness  to  all 
+personnel on-scene of location of deployed rifle(s); 
+
+d.  Advise dispatch, via the radio, of whether or not deploying officer is 
+
+accompanied by a cover officer.   
+
+4.  Communications  will  re-broadcast  that  a  rifle  has  been  deployed  and 
+
+notify the area supervisor of the deployment. 
+
+ 
+All  firearms  will  be  used  only  in  accordance  with  policy  and  department 
+
+ 
+Approved Use: 
+
+training 
+ 
+
+Low Lethality Shotgun 
+
+ 
+
+1180 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+1.  The low lethality shotgun should only be used against persons who are 
+armed  with  a  weapon  that  could  cause  serious  injury  or  death  to 
+themselves  or  others,  or  when  a  subject  poses  an  imminent  threat  to 
+the  safety  of  the  officer  or  other  persons.  This  includes,  but  is  not 
+limited to: an edged weapon, club, pipe, bottle, brick, etc.   
+
+2.  Officers  are  cautioned  that  the  target  area  for  impact  munitions 
+substantially  differs  from  a  deadly  force  target  area.  Instead  of  aiming 
+for  center  mass  of  the  body,  the  low  lethality  shotgun  is  aimed  at 
+abdomen,  thighs  or  forearms.  The  head,  neck,  and  groin  should  be 
+avoided.  
+It may be used as an option to deadly force only when circumstances 
+allow  the  officer  involved  to  bring  an  incident  to  a  safe  conclusion 
+without unnecessary risk to the officers. 
+
+3. 
+
+Handgun/Shotgun (“00” Buck & Slug)/Rifle 
+
+1.  Officers are to fire their weapons only: 
+
+a.  To  stop  and  incapacitate  a  subject  from  completing  a 
+
+potentially deadly act.     
+
+b.  Protect  themselves  or  others  from  what  is  reasonably 
+believed  to  be  an  imminent  threat  of  death  or  serious 
+bodily injury.   
+
+c.  To prevent the escape of a fleeing felon who the officer 
+has  probable  cause  to  believe  has  committed  a  violent 
+felony  crime  and  is  an  imminent  threat  to  human  life  if 
+escape  should  occur  (See  NRS  171.1455  and  Tennessee 
+v. Garner, 471 U.S. 1(1985)).   
+
+2.  Destroying  Injured  or  Dangerous  Animals  -  Officers  may  destroy  an 
+
+In self-defense; 
+
+injured or dangerous animal under the following circumstances: 
+a. 
+b.  To prevent serious harm to the officer or others; or  
+c.  When  the  animal  is  so  badly  injured  as  to  require  humane  relief 
+
+from further suffering. 
+
+NOTE: A seriously wounded or injured animal may be destroyed only after 
+all  attempts  have  been  made  to  request  assistance  from  the  agency 
+(Humane  Society,  animal  control,  game  warden,  etc.)  responsible  for  the 
+disposal  of  animals.  The  destruction  of  vicious  animals  involves  the  same 
+rules set forth for self-defense and the defense and safety of others. (See 
+policy 5/109.08 for an exception regarding the Humane Disposal of Animals 
+at Resident Locations.)  Also, if the animal’s owner is present, the owner 
+will be allowed, at his option, to transport the animal to veterinary care. 
+
+ 
+
+ 
+
+ 
+Disapproved Use: 
+
+1181 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Low Lethality Shotgun 
+1. 
+
+circumstances  
+
+a. 
+
+b. 
+
+c. 
+
+a. 
+
+b. 
+
+c. 
+d. 
+
+The  low  lethality  shotgun  will  not  be  used  in  the  following 
+
+Against  persons  who  are  holding  a  firearm  unless  there  are 
+compelling reasons to do so which can be clearly articulated.   
+In  a  civil  unrest  situation  unless  authorized  by  a  lieutenant  or 
+above, and each application must have a specific targeted individual 
+who  presents  an  imminent  threat;  and  it  must  be  reasonably 
+assured  that  other  individuals  in  the  crowd  who  pose  no  threat  of 
+violence will not be struck by the munitions. 
+When  the  subject  is  visibly  pregnant,  unless  deadly  force  is  the 
+only other option. 
+
+2. 
+
+The low lethality shotgun should not be used in the following 
+circumstances unless there are compelling reasons to do so which can 
+be clearly articulated: 
+
+When  the  subject  is  at  the  extremes  of  age  (elderly  and  young 
+children) or physically disabled; 
+When a subject is in an elevated position where a fall is likely to 
+cause serious injury or death; 
+When subject is handcuffed or otherwise restrained; 
+As a breeching tool. 
+
+Handgun/Shotgun (“00” Buck & Slug)/Rifle 
+
+2.  Officers are not authorized to draw or display their firearms, except for 
+training at an approved firearms range, unless the circumstances create 
+reasonable  belief  that  it  may  be  necessary  to  use  the  firearm  in  the 
+performance of their duty.   
+
+As warning shots; 
+
+3.  Officers are not authorized to discharge their firearm: 
+a. 
+b. 
+c. 
+
+If it appears likely that an innocent person may be injured; 
+
+Either at or from a moving vehicle, unless it is absolutely necessary 
+to do so to protect against imminent threat to the life of the officer 
+or  others.  The  imminent  threat  must  be  by  means  other  than  the 
+vehicle, itself:  
+1)  Officers  will  attempt  to  move  out  of  the  path  of  an  oncoming 
+
+vehicle, if possible, rather than discharge their firearms; 
+
+2)  Officers will not intentionally place themselves in the path of an 
+oncoming  vehicle  and  attempt  to  disable  the  vehicle  by 
+discharging their firearms; 
+
+3)  Officers  will  not  discharge  their  firearms  at  a  fleeing  vehicle  (a 
+
+vehicle moving away from the officer) or its driver. 
+
+ 
+Tactical Considerations: 
+
+1182 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+ 
+
+ 
+
+Low Lethality Shotgun 
+
+1.  Officers  should  not  fire  the  low  lethality  shotgun  through  barriers,  such 
+as  glass  or  chain  link  fences,  because  the  bag  may  tear  and  lead 
+shot may be released. 
+
+Handgun/Shotgun (“00” Buck & Slug)/Rifle 
+1.  An officer’s decision to draw or exhibit a firearm should be based on the 
+tactical  situation  at  hand  and  the  officer’s  reasonable  belief  there  is  a 
+substantial risk that the situation will escalate to the point where deadly 
+force  may  be  justified.  Unnecessarily  drawing  or  exhibiting  a  firearm 
+may  limit  an  officer’s  alternatives  in  controlling  a  situation,  create 
+unnecessary  anxiety  on  the  part  of  citizens,  and  result  in  an 
+unwarranted or accidental discharge of the firearm.  
+
+2.  Officers  should  shoot  at  the  “center  mass”  for  maximum  stopping 
+
+effectiveness and minimal danger to innocent bystanders.  
+
+3.  Flashlights  mounted  to  firearms  will  be  used  only  for  the  purposes 
+authorized and intended and will not be used routinely in the place of 
+a hand-held flashlight. 
+
+ 
+
+Rifle 
+1. 
+
+It is the supervisor’s responsibility to ensure proper deployment of rifles 
+and address over-deployment. 
+
+2.  Area supervisor will: 
+
+a.  Proceed  immediately  to  the  incident  involving  the  rifle  deployment 
+
+and assume tactical control, when possible;   
+
+b.  Ensure that rifle deployment is appropriate for the incident;  
+c. 
+
+If rifle deployment is inappropriate for the incident, modify or cancel 
+deployment. 
+
+Additional Considerations: 
+
+Summon medical attention on all use of a firearm (Low Lethality/“00” Buck & 
+Slug) and/or Rifle, and/or any incident where a subject is injured and/or 
+complains of injury. 
+ 
+Notify communications of “Shots Fired!” not applicable for Low Lethality  
+ 
+Notify a supervisor when a firearm (Low Lethality/“00” Buck & Slug) and/or 
+Rifle have been used. 
+ 
+Any intentional use of a firearm (Low Lethality/“00” Buck & Slug) and/or Rifle 
+on a subject is a reportable Use of Force Report in Blue Team.    
+   
+
+1183 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Inform detention personnel a Low Lethality Shotgun has been used on the 
+subject and ensure they have been screened by the detention facility medical 
+staff. (When applicable) 
+ 
+Rifle Deployment  
+ 
+All rifle deployments are a reportable Use of Force Report in Blue Team. 
+Exceptions to Blue Team reporting are, rifle deployments as part of training or 
+a tactical drill exercise (i.e., MACTAC tests), SWAT personnel and Corrections 
+officers conducting a high risk transport. 
+ 
+When multiple officers deploy rifles during a single incident, the supervisor 
+should designate one deploying officer to complete the Rifle Deployment Report 
+in Blue Team, listing all officers that deployed a rifle as “involved officers” in 
+the report. (5/14, 9/14) 
+ 
+
+6/002.03    REPORTABLE USE OF FORCE  
+ 
+
+I.
+II.
+
+REPORTABLE FORCE INCIDENTS 
+INVESTIGATIONS AND REPORTING 
+
+I.
+
+REPORTABLE FORCE INCIDENTS 
+
+ 
+Reportable force incidents which require the completion of a Use of Force Report in 
+Blue Team include, but are not limited to:  
+
+1.  Empty Hand Tactics (Takedown with injury, Strikes, Kicks) 
+2.  Baton/Impact Weapons (Jabs, Strikes) 
+3.  OC Spray 
+4.  ECD (To include spark display) 
+5.  LVNR® (Level 1, 2 and 3) 
+6.  Canine (With bites)  
+7.  Use of Force with a vehicle: 
+
+a.  Blocking (With officer initiated contact) 
+b.  Stationary  Vehicle  Immobilization  Technique  (Pinching  -  With  contact 
+
+between vehicles) 
+
+c.  P.I.T. (Used or attempted) 
+d.  Ramming 
+
+8.  Use of Force with a Firearm 
+a.  Low Lethality Shotgun 
+b.  Handgun/Shotgun(“00” Buck & Slug)/Rifle 
+
+Deployment of Rifles (Excluding SWAT/SERT)   
+
+ 
+
+1184 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Note:  In  addition  to  the  Use  of  Force  Report  other  Blue  Team  reports  may  be 
+required depending on the force application. (Firearm Discharge, Rifle Deployment and 
+Vehicle Pursuit) 
+ 
+Supervisors  will  respond  without  necessary  delay  to  all  potential  reportable  uses  of 
+force.   
+ 
+
+II.
+
+INVESTIGATIONS AND REPORTING 
+
+ 
+A.  The department reviews or investigates all reportable use of force incidents to 
+determine  their  justification,  as  well  as  to  correct  any  identifiable  training 
+deficiencies.  Officers  involved  in  reportable  use  of  force  incidents  will 
+immediately notify their supervisor or, if unavailable, another on-duty supervisor, 
+and  complete  the  Use  of  Force  Report  in  Blue  Team  prior  to  the  end  of 
+shift (exceptions must be approved by supervisor). The report should distinguish 
+which  force  option  was  selected  and  why  it  was  objectively  reasonable.  
+Supervisors  will  respond  to  each  use  of  force  incident  in  which  reportable 
+force  is  used,  conduct  an  investigation  and  assist  with  the  completion  of  the 
+use of force report. (NOTE: Acting supervisors are not authorized to complete 
+this  investigation).  The  report  will  be  required  by  each  officer  involved  in  a 
+use of force incident when reportable force is used. All Use of Force Reports 
+in  Blue  Team  will  be  completely  coordinated  through  the  officer’s  chain  of 
+command  and  entered  into  IA  Pro  within  30  calendar  days  of  the  event.  
+Internal  Affairs  will  provide  a  monthly  report  to  the  appropriate  Deputy  Chief 
+listing all Use of Force Reports which have exceeded the 30-day limitation. 
+ 
+
+B.  A  Use  of  Force  Report  is  not  required  when  no  injury  and/or  complaint  of 
+
+injury occurs as a result of: 
+1. 
+
+Lock/Standing Search; 
+
+Low  Profile  Pat  Down/High  Profile  Pat  Down/Arm 
+
+Routine Handcuffing; 
+Felony Prone Handcuffing (Front and Rear); 
+Felony Prone Search Felony Kneeling; 
+Baton Escort Technique; 
+Takedown; 
+Blocking without contact. 
+
+C.  The  following  Use  of  Force  Options  requires  a  Use  of  Force  Report  be 
+
+completed by the involved officer.  
+1. 
+
+Any  use  of  force  which  is  required  to  overcome  subject 
+resistance  to  gain  compliance  that  results  in  death,  injury  or 
+complaint of injury, complaint of continuing pain; 
+
+Any  takedown  which  causes  injury  or  verbal  complaint  of 
+
+ 
+
+injury; 
+
+ 
+
+1185 
+
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+2. 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+Use of OC Spray; 
+Lateral Vascular Neck Restraint; 
+Use of an ECD or a Spark Demonstration; 
+Baton Takedowns, Strikes and Jabs; 
+Empty Hand Strikes, Punches, and Kicks; 
+Use of a Low Lethality Shotgun (five yards or greater); 
+A  citizen  or  person  arrested  complains  that  an  injury  has 
+
+been inflicted as the result of the use of force; or 
+
+PIT (used, attempted, or declared). 
+
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+
+10. 
+
+ 
+
+D.  CIRT will complete the use of force report when deadly force is used (i.e. 
+
+PIT over 40 MPH, or Low Lethality Shotgun less than five yards. 
+ 
+
+E.  The following incidents require a Firearm Discharge Report.  
+
+1.  Accidental  Discharge  of  a  firearm  during  a  law  enforcement 
+
+operation. 
+
+2.  A firearm is discharged resulting in death or serious bodily injury; 
+3.  A Non-Injury or Property Damage Intentional Discharge of a Firearm 
+Incident  (which  includes  an  intentional  discharge  at  anything  other 
+than a person, such as a dog) 
+
+4.  When  shots  are  fired  outside  the  firearm’s  range,  excluding  off-duty 
+situations  such  as  hunting  or  participating  in  competitive  shooting. 
+When  a  firearm  is  discharged  at  a  human  being  and/or  an  animal 
+in  self-defense  or  to  humanely  euthanize  an  animal  (excluding 
+resident areas), CIRT will complete the Firearm Discharge Report. 
+5.  When  a  resident  area  officer  discharges  a  firearm  at  an  animal 
+either  in  self-defense  or  to  humanely  euthanize  the  animal,  the 
+resident  officer  will  complete  the  Firearm  Discharge  Report.  (1/14, 
+9/14)■ 
+
+ 
+6/002.04  POST USE OF FORCE PROCEDURES 
+
+The  department  reviews  and/or  investigates  all  reportable  use  of  force  incidents  to 
+determine  their  justification,  as  well  as  to  correct  any  identifiable  training  deficiencies. 
+Officers  involved  in  reportable  use  of  force  or  alleged  use  of  force  incidents  will 
+immediately  notify  their  supervisor.  If  unavailable,  the  officer  will  notify  another  on-duty 
+supervisor,  and  complete  the  Use  of  Force  Report  in  Blue  Team  prior  to  the  end  of 
+shift. Supervisor will complete a Citizen Contact for unfounded alleged use of force. Any 
+exceptions  to  this  must  be  approved  by  the  supervisor.  The  report  should  include  a 
+detailed  description  on  the  level  of  force,  tool  and/or  tactic  used,  to  include  its 
+effectiveness or ineffectiveness. Each application of a reportable Use of Force Tool/Tactic 
+must be separately justified and documented.  
+ 
+III.
+
+REPORTABLE FORCE INCIDENTS 
+
+ 
+
+1186 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+ 
+Reportable force incidents which require the completion of a Use of Force Report 
+in Blue Team include, but are not limited to:  
+
+9.  Empty Hand Tactics (Takedown with injury, Strikes, Kicks) 
+10. Baton/Impact Weapons (Jabs, Strikes) 
+11. OC Spray 
+12. ECD  
+13. LVNR® (Level 1, 2 and 3) 
+14. K-9 (With bites)  
+15. Use of Force with a vehicle: 
+
+ 
+
+ 
+
+a.  Blocking (With intentional contact) 
+b.  Stationary  Vehicle  Immobilization  Technique  (Pinching  -  With  contact 
+
+between vehicles) 
+
+c.  P.I.T. (Used or attempted at speeds 40 MPH or below) 
+
+16. Low Lethality Shotgun-Discharge (5 yards or greater) 
+
+A  Use  of  Force  report  is  required  by  each  officer  involved  in  a  use  of  force 
+incident.  Any  civilian  employee  who  uses  force  (empty  hand,  OC  Spray  and/or 
+Firearm)  is  required  to  complete  a  Use  of  Force  Report  in  Blue  Team.   
+Additional Blue Team reports may be required depending on the force application. 
+(Firearm Discharge, Rifle Deployment (excluding SWAT/SERT) and Vehicle Pursuit) 
+Note:  In  incidents  where  deadly  force  is  used,  CIRT  will  complete  the 
+appropriate reports.  
+
+A Firearm Discharge Report is required: 
+
+1.  When shots are fired outside the firearm’s range, excluding off-duty 
+
+situations such as hunting or participating in competitive shooting. When a 
+firearm is discharged at a human being and/or an animal in self-defense 
+or to humanely euthanize an animal (excluding resident areas), CIRT will 
+complete the Firearm Discharge Report.  
+
+2.  When a resident area officer discharges a firearm at an animal either in 
+self-defense or to humanely euthanize the animal, the resident officer will 
+complete the Firearm Discharge Report.  
+
+A Use of Force Report is not required when no injury and/or complaint of injury 
+occurs as a result of: 
+
+Low  Profile  Pat  Down/High  Profile  Pat  Down/Arm 
+
+Lock/Standing Search; 
+
+Routine Handcuffing; 
+Felony Prone Handcuffing (Front and Rear); 
+Felony Prone Search Felony Kneeling; 
+Baton Escort Technique; 
+Takedown. 
+
+1. 
+
+2. 
+3. 
+4. 
+5. 
+6. 
+
+ 
+
+ 
+
+1187 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+IV.
+
+USE OF FORCE INVESTIGATION 
+
+ 
+
+III. 
+
+ 
+
+ 
+Supervisors  will  respond,  without  delay,  to  each  use  of  force  or  alleged  use  of 
+force  incident  in  which  reportable  force  is  used,  conduct  an  investigation  and 
+assist with the completion of the use of force report to include any Use of Force 
+Report  by  a  civilian  employee.  (NOTE:  Acting  supervisors  are  not  authorized  to 
+complete Use of Force investigations). 
+ 
+INVESTIGATIVE RESPONSIBILITIES: Use of Non-Deadly Force  
+
+A.  Non-Deadly  Force  requiring  a  Use  of  Force  report  but  not  resulting  in  death 
+or serious bodily injury will be investigated by the officer’s chain of command.  
+ 
+Note: Acting supervisors are not authorized to complete this investigation. 
+ 
+
+B.  All  reportable  Uses  of  Force  on  a  subject  regardless  of visible  injury  will  be 
+photographed  and  downloaded  into  Blue  Team.    If  CSI  responds  and 
+documents  the  injuries,  or  if  for  some  reason  the  photos  cannot  be 
+downloaded into Blue Team, articulate this in the report, to indicate where the 
+photos can be located.  
+
+ 
+
+1. 
+
+The Officer will: 
+
+a.  Request  that  Communications  notify  the  respective  immediate 
+
+supervisor when a reportable non-deadly use of force occurs; 
+
+b.  Complete  the  Use  of  Force  Report  in  Blue  Team  and  any  other 
+
+required reports connected to the incident; 
+
+c.  Forwards  the  Use  of  Force  Report  and  any  other  required  reports 
+to  the  investigating  supervisor  via  Blue  Team,  sending  a  copy  to 
+their immediate supervisor. 
+
+ 
+Additional Tool/Tactic Requirements: 
+ 
+
+ECD 
+
+(cid:120)  Handle the probes in the same manner as contaminated needles 
+and  sharps  in  accordance  with  department  bio-hazard  disposal 
+procedures  (see  5/110.10),  and  impound  all  probes,  wires  and 
+cartridges  as  evidence.  In  cases  of  deadly  force  or  in-custody 
+death CSI will impound the probes and fired cartridges; 
+
+(cid:120)  Provide the ECD to a supervisor for data and/or video download 
+
+prior to the end of shift.  
+
+Canine 
+
+(cid:120) 
+
+Injuries caused by the police service dog to persons who were 
+not  the  subject  of  the  search  will  be  documented  in  an 
+Officer’s Report, and will require a supervisor response. 
+
+ 
+
+1188 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+2.  A supervisor will: 
+
+ 
+
+1.  Ensure medical assistance has been requested when applicable; 
+2.  Respond  to  the  scene  without  unnecessary  delay,  if  unable  to 
+respond, request an alternate supervisor at the same level or higher 
+respond to the scene; 
+
+3.  Document  investigation  in  a  Citizen  Contact  (CC)  in  Blue  Team 
+
+when alleged use of force is determined to be unfounded;  
+4.  Ensure the level of force used is a use of non-deadly force; 
+5.  Notify  Communications  and  the  area  lieutenant  or  watch  commander 
+
+6. 
+
+to ensure proper notifications are made;  
+Interview the subject, officer(s), medical personnel and witnesses who 
+claim  to  have  firsthand  knowledge  of  the  incident.  Witness 
+statements should be documented on a voluntary statement.  
+
+7.  Ensure  photographs  are  taken  of  the  subject(s),  the  scene  and 
+officer(s)  involved  and  collect  any  evidence  related  to  the  Use  of 
+Force; 
+
+8.  Check the surrounding area for any video surveillance; 
+9.  Viewing of Third Party Video Prior to Giving Statements: 
+
+An  officer  shall  be  given  the  opportunity  to  review  third  party 
+surveillance video when the video depicts the officer’s actions during a 
+reportable  use  of  force  incident.    For the  purpose  of  this  policy,  third 
+party surveillance video is considered video recorded and made available 
+by  third  party  security  systems,  video  captured  from  cells  phones, 
+tablets,  etc.,  and/or  video  recorded  by  handheld  cameras  at  CCDC, 
+which we are in legal possession of and are able to legally view. 
+1.  The immediate supervisor (or investigating supervisor) will: 
+
+a.  Permit  the  officer  to  review  only  their  own  actions  as  depicted 
+by  the  third  party  surveillance  video.    If  multiple  officers  are 
+shown  on  the  third  party  surveillance  video  using  force,  it’s 
+necessary  that  each  officer  view  only  their  own  actions  -    not 
+the actions of the other officers - before doing his Use of Force 
+report; 
+
+b.  Ensure  the  third  party  video  is  impounded  as  evidence  and 
+
+noted in BlueTeam. 
+
+10. Review all applicable reports in Blue Team to ensure accuracy and 
+
+completeness.  
+a.  Document  how  a  use  of  force  has  been  determined  to  be 
+
+justified and in adherence to procedure,  
+
+b.  Document  any  training  deficiencies  identified  and  how  they  were 
+
+c.  Document if misconduct is identified and that an SOC has been 
+
+corrected, 
+
+filed.   
+
+11. When an ECD has been used: 
+
+1189 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+a.  Ensure  the  data  record  of  the  ECD  and/or  the  video  in  which  a 
+reportable use of force incident occurs has been uploaded into Blue 
+Team  prior  to  the  end  of  shift.  (X26  uploads  must be  attached  in 
+either a .pdf or .rtf format);  
+
+b.  Verify  the  probes,  wires  and  cartridges  are  properly  impounded  and 
+arrange  for  replacement  cartridges.  Accidental  discharges  will  not 
+require impounding of the probes, wires and cartridges unless there 
+has been an injury. 
+1)  Forward to the next supervisor in the involved officers’ chain.  
+
+Use of Force with a Vehicle 
+
+ 
+
+ 
+
+ 
+
+PIT-Traffic officers will respond to assist with the traffic investigation.  
+ 
+Note:  Request  CSI response to take photographs of the subject(s), the 
+scene  and  officer(s)  involved  and  collect  any  evidence  related  to  the 
+Use of Force; 
+ 
+Blocking- Blocking with contact of an unoccupied vehicle or a subject’s 
+vehicle unintentionally touches the patrol vehicle; the contact will be 
+reported as a traffic incident, LVMPD 42, Vehicle Incident Report. 
+
+Pinching- Stationary Vehicle Immobilization Technique (Pinching) is a 
+reportable Use of Force Report in Blue Team. In addition the contact 
+between the vehicles will be reported as a traffic incident, LVMPD 42, 
+Vehicle Incident Report. In the event of third-party property damage, the 
+responding traffic officer will complete the LVMPD 42, Vehicle Incident 
+Report.   
+ 
+Note:  Blocking,  Pinching  and  PIT  are  planned  enforcement  techniques;  an 
+accident  report  will  not  be  required.  In  the  event  of  third-party  property 
+damage, the responding traffic officer will complete the LVMPD 42, Vehicle 
+Incident Report.   
+ 
+1. 
+
+The Area Lieutenant/Watch Commander will: 
+
+a.  Respond  to  the  scene  when  significant  force  is  used.  If  unable 
+to  respond,  request  an  alternate  supervisor  at  the  same  level 
+respond to the scene; 
+
+b.  Ensure interviews, photographs and reports are being completed; 
+c.  Notify  Internal  Affairs  Section  Lieutenant  if  significant  force  is 
+
+used; 
+
+d.  Review  the  Use  of  Force  Report  in  Blue  Team  to  ensure 
+accuracy  and  completeness,  then  forward  to  the  Bureau 
+Commander.  
+
+ 
+
+1190 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+2. 
+
+The Bureau/Area Commander will: 
+
+a.  Complete  the  Use  of  Force  administrative  review  in  Blue  Team 
+
+ 
+
+ 
+
+and forward to IAB. 
+ 
+
+IV. 
+
+ 
+
+INVESTIGATIVE  RESPONSIBILITIES:  Use  of  Deadly  Force  or  Force  Involving  Serious 
+Bodily Injury  
+ 
+It  is  the  policy  of  this  department  to  conduct  a  fair,  impartial  and  thorough 
+investigation  of  all  uses  of  deadly  force  for  the  interest  of  the  officer,  the 
+department  and  the  community  alike.  The  following  procedures  shall  apply  to  all 
+deadly force investigations: 
+
+A. 
+
+Primary Responsibilities in a Deadly Force Investigation 
+
+1.  Violent  Crimes  section:  When  available,  detectives  from  the  Violent  Crimes 
+section  will  respond  immediately  to  the  scene,  contact  the  Incident 
+Commander for direction and provide assistance. 
+
+2.  Force Investigation Team (FIT):  
+
+a.  FIT Response Criteria: 
+
+1)  Any  use  of  deadly  force  as  described  in  LVMPD  –  Use  of  Force 
+
+policy 6/002.0; 
+
+2)  Officer Involved Shootings (fatal or non-fatal); 
+3)  PIT over 40 MHP; 
+4)  Ramming; 
+5)  Low Lethal Shotgun fired at under 5 yards 
+6) 
+7) 
+8)  Other Jurisdiction requests meeting FIT criteria. 
+
+In-custody death involving Patrol or Corrections officer(s); 
+In-custody death of an inmate housed at CCDC or medical facility; 
+
+b.  The  criminal  investigation  will  seek  to  determine  whether  the  use  of 
+deadly  force  was  legally  justified  under  criminal  law.  FIT  also  directs 
+the  investigation  against  a  suspect  who  either  committed  crimes  which 
+led  to  the  use  of  deadly  force  or  who  has  committed  crimes  against 
+an officer. The ranking FIT personnel at the scene shall be in overall 
+charge  of  police  activities  which  occur  at  the  crime  scene.  FIT 
+detectives  shall  arrest  the  suspect  on  applicable  charges.    If  the 
+involved officer declines to provide FIT with a voluntary statement, and 
+they  are  the  only  witness  to  the  incident,  the  officer  will  decide 
+whether to arrest the suspect.  If the involved officer decides to make 
+an arrest, the officer will be responsible for completing the TCR/DOA in 
+the  field.  The  supervisor  will  arrange  for  transporting  the  suspect. 
+Additionally,  the  involved  officer  will  dictate  an  arrest  report  before  the 
+end of the officer’s shift. 
+
+3.  Critical Incident Review Team (CIRT):  Conducts non-criminal, administrative 
+examinations of uses of deadly force or other high-risk police operations as 
+
+ 
+
+1191 
+
+B. 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+directed by the Sheriff. The purpose of this review is to improve individual 
+and  agency  performance  through  the  evaluation  of  decision  making,  tactics 
+used,  supervision  and  the  actual  use  of  force.  CIRT  will  then  present 
+conclusions to  the  Sheriff  that  may  identify  possible  training  needs  (for  the 
+individual,  squad, unit, section  or  department)  and/or  changes  to  policies 
+and practices.  
+
+4.  Crime Scene Investigations Section (CSI):  CSI responds to a deadly force 
+incident to complete crime scene documentation.  The ranking Crime Scene 
+Investigations  member  shall  be  in  charge  of  the  collection,  marking, 
+recording,  and  processing  of  evidentiary  material  at  the  crime  scene.  Prior 
+to  commencing  the  crime  scene  investigation,  the  FIT  Supervisor  and 
+ranking  CSI  Supervisor  shall  confer  to  determine  the  actions  to  be  taken 
+by  those  persons  assigned  to  the  scene,  including  which  officers, 
+detectives, and crime scene analysts shall be authorized to enter the crime 
+scene perimeter. 
+ 
+Involved/Witness Officer(s) 
+
+1.  When an officer intentionally discharges a firearm at a human being, uses 
+deadly  force,  has  an  unintentional  discharge  of  a  firearm  during  a  police 
+operation,  causes serious  bodily  injury  or  becomes  aware  of  an  in-custody 
+death, the officer will: 
+a.  Ensure life safety of others; 
+b.  Ensure the scene is safe and secure; 
+c.  Notify  both  Communications  (via  radio  if  on-duty)  and  a  supervisor 
+
+without delay;  
+1)  If needed, will request medical assistance and provide information on 
+
+injuries; 
+
+2)  Include suspect description and location. 
+
+2. 
+
+In addition, off-duty officers or plain-clothes personnel will:  
+a.  Be  aware  of  the  particular  danger  of  a  potential  police-on-police 
+
+confrontation when first-responding officers arrive to the scene; 
+
+b.  Make certain they are readily identifiable as officers; Off-duty officers or 
+plain-clothes  personnel  should  display  their  badges  and/or  identification 
+prominently and identify themselves frequently;  
+Inform  Communications  via  radio  (or  if  off-duty  and  no  radio  available, 
+they  should  call  9-1-1)  if  they  have  taken  action,  are  armed  or  are 
+wearing plainclothes; 
+
+c. 
+
+d.  When  confronted  by  first-responding  officers,  off-duty  officers  or  plain-
+
+clothes personnel should be aware of and obey first-responding officers’ 
+verbal commands. 
+
+3. 
+
+In  deadly  force  investigations, FIT  detectives  shall  be  briefed,  by  the  first-
+responding supervisor or supervisor in charge of the event, on the names 
+and locations of the Involved Officer and potential Witness Officers. 
+
+ 
+
+1192 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+a.  When there is concern that an officer is not a Witness Officer, but an 
+Involved  Officer,  the  ranking  FIT  supervisor  will  make  the  final 
+determination regarding the status of the officers(s).  
+
+ 
+
+4.  Officer statements: 
+
+a. 
+
+Involved  Officer:    An  officer  or supervisor, who participated  in, 
+directed or influenced the application of the use of force.  
+1) 
+
+Involved  Officers  may  provide  a  recorded  statement  to  FIT 
+investigators.    If  given,  involved  officer  statements  should  be  taken 
+at least 48 hours after the incident by FIT investigators. Note: The 
+48 hours may be waived by the involved Officer.   
+
+b.  Witness  Officer:  An  officer  or  supervisor  who  did  not participate  in  or 
+
+directly influence the application of the use of force. 
+1) 
+
+W
+
+itness  Officers  shall  provide  a  recorded  statement  to  FIT 
+investigators.   An  officer  who  refuses  to  provide  such  information 
+shall  be  deemed  to  be  in  violation  of  section  4/104.04  Obedience 
+and  Insubordination  and  4/104.14  Duty  to  Provide  Statements. 
+Witness  Officer  statements  will  be  taken  at  a  date,  time  and 
+location determined by FIT investigators. 
+
+C. 
+
+Incident Responsibilities 
+
+ 
+
+1.  Any officer or supervisor assigned, involved, or arrived on the scene of a 
+use  of  force  investigation shall  not  leave  until  released  by  the supervisor 
+in charge of the event.  
+
+2.  The  supervisor  first  on  scene  will  act  as  Incident  Commander  (per 
+5/213.06) until relieved by an area lieutenant or watch commander and will: 
+a.  Ensure medical attention is provided for those in need; 
+b.  Coordinate the search for outstanding suspects; 
+c.  Ensure the immediate crime scene is secured and protected; 
+d.  Oversee the identification and isolation of witnesses; 
+e.  Ensure  witness  officer(s)  and  involved  officer(s)  are  separated  and 
+
+placed in a secure and safe environment, with a witness monitor. 
+
+f.  Contact  Communications  and  advise  the  type  of  incident  and  request 
+
+that notifications be made; 
+
+g.  When  practical,  only  the  involved  officer  and  a  supervisor  should  be 
+present  during  the  Public  Safety  Statement  (PSS).   If  multiple  officers 
+are  involved,  the  PSS  should  be  done  separately  with  each  involved 
+officer,  by  the  same  supervisor.   The  questions  below  will  be  read 
+directly from the PSS card to the officer. A supervisor will write down 
+the officer’s response. The PSS will be documented and maintained by 
+the  supervisor  until  provided  to  a  FIT  detective.  No  unauthorized  card 
+or form will be used for the PSS documentation.  
+1)  Did you discharge your firearm? 
+
+ 
+
+1193 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+If so, in what direction? 
+
+a) 
+b)  Approximately where were you located when you fired? 
+c)  How many shots do you think you fired? 
+Is anyone injured? 
+a) 
+
+If so, where are they located? 
+
+2) 
+
+3)  Are there any outstanding suspects? 
+If so, what is their description? 
+
+a) 
+b)  What direction and mode of travel?   
+c)  How long have they been gone?   
+d)  What crime(s) have they committed?   
+e)  What type of weapon do they have? 
+Is it possible the suspect fired rounds at you?   
+a) 
+b)  How many shots do you think the suspect fired? 
+c)  Approximately where was the suspect located when they fired? 
+
+If so, what direction were the rounds fired from?  
+
+4) 
+
+5)  Do you know if any other officer(s) discharged their firearms? 
+
+If so, who are they? 
+
+a) 
+b)  Approximately where was the officers(s) located when they fired? 
+6)  Are  there  any  weapons  or  evidence  that  needs  to  be 
+
+secured/protected? 
+a) 
+
+If so, where are they located? 
+7)  Are you aware of any witnesses?  
+
+a) 
+
+If so, what is their location? 
+
+ 
+Note:  The  PSS  is  a  series  of  questions  to  obtain  information  to 
+determine  an  immediate  threat  to  public  safety.  The  PSS  must  be 
+taken  in  a  timely  manner  and  under  a  condition  which  has 
+demonstrated an immediate threat to the public. (An example would be 
+shots fired by an officer or a subject in the direction where the public 
+may  be  in  immediate  danger.)    The  supervisor  must  take  appropriate 
+action based on the information received from the PSS.  
+ 
+
+3.  The Watch Commander (and/or an area lieutenant) will:  
+
+a.  Respond immediately to the scene of the use of deadly force. 
+
+4.  The Incident Commander will: 
+
+a.  Designate a Command Post; 
+b.  Establish  the  outer  perimeter,  the  staging  area,  and  the  media  staging 
+
+area; 
+Identify and separate civilian witnesses; 
+Identify and separate officer witnesses; 
+
+c. 
+d. 
+e.  Assign  an  Officer  Witness  Monitor(s)  and  explain  their  duties  to  them, 
+
+which are: 
+1)  To ensure that involved officers and witness officers do not discuss 
+
+the incident being investigated. 
+
+1194 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+2) 
+
+3) 
+
+The  monitor  shall  allow  the  officer’s  attorney  and 
+
+association representative to communicate privately with the officer. 
+
+The monitor will not talk to the officer about the facts 
+
+and circumstances of the incident. 
+
+5. 
+
+Remain  with  the  officer  until  firearms  countdown  is 
+
+completed. 
+a.  Violent Crimes detail or on-scene Supervisor will:  
+b.  Respond immediately to begin a preliminary investigation; 
+c.  Ensure  the  Major  Incident  Log  has  been  assigned  and  is  being 
+
+completed.  
+
+d.  Assist  in  the  early  management  of  the  crime  scene,  the  identification 
+
+and separation of witnesses, and the canvass. 
+
+6.  Communications will: 
+
+a.  Assign at least one additional sergeant to the scene; 
+
+1)  If  sergeants  are  unavailable  for  the  particular  area  command  in 
+which  the  use  of  deadly  force  occurred,  the  dispatcher  will 
+assign  sergeants  from  other  area  commands  or  units  other  than 
+Patrol. 
+
+b.  Ensure the proper notifications are made immediately by utilizing the 
+
+Critical Incident/OIS Alert ID notification. 
+
+The  following  guidelines  for  notifications  are  to  be  made  by  Communications 
+dependent upon the type of incident: 
+1.  Use of Deadly Force or Force Involving Serious Bodily Injury      
+
+a.  The officer’s immediate supervision (sergeant, lieutenant, and captain);  
+b.  The watch commander (and area lieutenant); 
+c.   Violent Crimes Section; 
+d.  FIT; 
+e.  OIO Bureau Commander; 
+f.  CIRT; 
+g.  Crime Scene Investigations Section; 
+h.  Risk Management Section; 
+i.  PEAP; 
+j.  Respective collective bargaining unit. 
+
+ 
+
+2. 
+
+Unintentional Discharge or Accidental Discharge of a Firearm at anything 
+
+other than a person, or animal shoots:  
+a.  The officer’s immediate supervision (sergeant, lieutenant, and captain);  
+b.  The watch commander (and area lieutenant); 
+c.  The officer’s bureau commander; 
+d.  Crime Scene Investigations Section; 
+e.  CIRT; 
+
+1)  CIRT  will  investigate  any  unintentional  discharge  of  a  firearm  that 
+occurs  during  a  police  operation,  such  as  the  inadvertent  discharge 
+
+1195 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+of  a  shotgun  while  deploying  it  in  response  to  a  high-risk  call, 
+and/or when officer discharges firearm at an animal. 
+
+f.   Internal Affairs; 
+
+1) 
+
+IA  will  investigate  any  accidental  discharges  that  occur  not  as  the 
+result of a police operation, such as an unintentional discharge of a 
+shotgun while inspecting it at an area command parking lot. 
+
+g.  Risk Management Section, when injury or property damage result; 
+h.  PEAP; 
+i.  Respective collective bargaining unit. 
+
+3.  Use  of  Force  with  a  vehicle  incident  that  causes  death  or  serious  bodily 
+
+injury: (PIT over 40 MPH and Ramming) 
+a.  The officer’s immediate supervision (sergeant, lieutenant, and captain);   
+b.  The watch commander (and area lieutenant); 
+c.  CIRT; 
+d.  FIT; 
+e.  OIO Bureau Commander 
+f.  Traffic Bureau/Fatal Detail 
+g.  Risk Management Section; 
+h.  Crime Scene Investigations Section; 
+i.  PEAP; 
+j.  Respective collective bargaining unit. 
+
+4.  The Use of PIT at speeds below 40mph when contact is made: 
+
+a.  The officer’s immediate supervision (sergeant, lieutenant, and captain);    
+b.  The watch commander (and area lieutenant); 
+c.  An on-duty Traffic supervisor; 
+
+1)  If  any  questions  or  concerns  arise  from  this  PIT  investigation, 
+regarding  the  Use  of  Force  was  Deadly  or  Non-Deadly,  FIT 
+and/or the Traffic Section/Fatal Detail shall be notified. 
+
+ 
+D. 
+
+Initial Briefing 
+
+1.  The Incident Commander will: 
+
+a.  Designate a location for the initial briefing as to provide a secure place 
+where  operational  security  measures  can  be  met.  The  briefing  location 
+will  not  compromise  the  integrity  of  the  immediate  crime  scene. 
+Environmental factors and location of the media should be considered; 
+
+2.  Violent Crimes or on-scene supervisor will: 
+
+a.  Conduct the initial briefing;  
+b.  Only essential personnel will attend the briefing. Essential personnel are 
+
+identified as: 
+1)  The supervisor(s) who obtained the Public Safety Statement; 
+2) 
+3) 
+4) 
+5) 
+
+Involved officer’s supervision (sergeant, lieutenant, and captain); 
+FIT personnel; 
+Office of Internal Oversight Bureau Commander 
+CSI personnel; 
+
+ 
+
+1196 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+CIRT personnel; 
+Traffic Bureau/Fatal Detail. (When Applicable) 
+PIO 
+
+6) 
+7) 
+8) 
+All other personnel are deemed non-essential and will be excluded from 
+the  briefing.  FIT  Section  Lieutenant  or  designee  will  monitor  those  in 
+attendance for compliance.  
+
+c.  A sign in sheet will be completed by all personnel at the briefing. The 
+
+initial briefing should include the following: 
+1)  Location  of  involved  officer(s),  witness  officer(s)  and/or  civilian 
+
+witness(es); 
+
+2)  Location of the subject(s); 
+3)  Location of the scene(s); 
+4)  Location of evidence; 
+5)  Location of the Supervisor who took a PSS(when applicable) and ; 
+6)  Details of the incident. 
+
+d.  At  the  close  of  the  brief,  FIT  will  assumes  control  of  the  scene  and 
+
+investigation.  
+
+2.  The Office of Internal Oversight Bureau Commander or their designee will: 
+
+a.  Coordinate  with  the  Office  of  Public  Information  prior  to  any  media 
+
+release. 
+
+ 
+ E.   Scene Walkthrough  
+
+1.  The  purpose  of  the  scene  walkthrough with  an  officer  involved  is  to  help 
+investigators  develop  an  understanding  of  the  scene  and  identify  potential 
+physical evidence. The walkthrough is voluntary and it is not an interview. 
+Detailed narratives shall be avoided. If more than one officer is involved in 
+the  incident,  their  walkthroughs  will  be  conducted  independently  of  each 
+other.  Walkthroughs  will  be  conducted  by  FIT  personnel.  The  personnel 
+observing the walkthrough shall be limited to:  
+a. 
+b. 
+c. 
+d. 
+e. 
+
+The officer involved; 
+A representative of the officer or legal counsel; 
+FIT detectives; 
+FIT sergeant and/or lieutenant; 
+CSI Director and/or supervisor. 
+
+2.  Witness  officers  shall  provide  a  walkthrough  and  audio  recorded  statement 
+as needed and directed by FIT.  An officer who refuses to provide such 
+information  shall  be  deemed  to  be  in  violation  of  section  4/104.04 
+Obedience  and  Insubordination  and  4/104.14  Duty  to  Provide  Statements. 
+The personnel observing the walkthrough shall be limited to:  
+a. 
+b. 
+c. 
+d. 
+e. 
+
+The witness officer; 
+A representative of the officer or legal counsel; 
+FIT detectives; 
+FIT sergeant and/or lieutenant; 
+CSI Director and/or supervisor. 
+
+ 
+
+1197 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+3.  FIT  will  provide  a  briefing  and  scene  walkthrough  to  CIRT  after  their 
+determination  that  the  scene  is  completely  identified,  documented,  and 
+evidence has been secured. 
+
+4. 
+
+5. 
+
+CSI  personnel  will  collect,  preserve,  and  book  physical  evidence  within 
+the  identified  crime  scenes.  The  FIT  supervisor  is  responsible  for 
+determining  the  steps  taken  in  the  handling  of  any  potential  video 
+surveillance.  Such  video  surveillance  evidence  shall  be  seized  and  booked 
+in  accordance  with  LVMPD  Search  and  Seizure  Policy,  Section  4 
+(5/200.01). 
+
+No photographs of the crime scene shall be taken independent  of the 
+CSI  Section.    If  other  photographs,  audio  or  video  recordings  have  been 
+taken, such evidence will be reported to the FIT by any officer who has 
+such knowledge. 
+
+ 
+F. 
+
+Media Release 
+
+1.  Media inquiries shall be referred to the Office of Internal Oversight Bureau 
+Commander,  or  their  designee.  The  bureau  commander  will  provide  liaison 
+with the on-scene and follow-up media inquiries. At the close of the scene 
+investigation, the FIT lieutenant will prepare the written media release. The 
+Office  of  Public  Information  will  also  be  an  available  resource  in  deadly-
+force incidents. 
+
+2.  The  identity  of  officers  involved  in  deadly  force  incidents  will  not  be 
+released  to  the  public  or  media  for  48  hours.  The  Office  of  Public 
+Information  will  collect  media  coverage  of  deadly  force  incidents  and  will 
+provide  the  coverage  to  FIT  and  to  CIRT.  Such  coverage  may  be  a 
+resource for both the investigative and administrative review. 
+
+3.  FIT Lieutenant will be responsible to coordinate with the Sheriff/Undersheriff 
+and  the  PIO  to  construct  a  formal  media  release  to  the  general  public 
+after the 72 hour Executive Staff Brief. 
+ 
+Countdown of Firearms and Photographs of Officer Involved 
+
+G. 
+
+1.  The FIT Supervisor will: 
+
+firearms counted down; 
+
+a. 
+
+b. 
+
+c. 
+
+d. 
+
+Determine  which  officers  will  be  photographed  and  have  their 
+
+Ensure  the  involved  and  witness  officer(s)  relinquish  custody  of 
+
+their firearm(s) to the Crime Scene Investigations Section;  
+
+Provide  a  replacement  if  the  firearm  used  was  a  handgun  for 
+
+which there is a department-issued replacement available; 
+1)  No immediate replacement will be provided for any department-issued 
+or personally-owned long guns, such as an AR-15 rifle or shotgun.  
+Ensure  the  officer’s  equipment  is  photographed  in  place  (on  the 
+person)  prior  to  examination  to  show  the  location,  presence,  and 
+condition  of  any  tools  (firearm,  ECD,  baton,  flashlight,  etc.)  available 
+during the incident;   
+
+ 
+
+1198 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+e.  Direct  the  countdown  of  an  officer’s  firearm.  It  is  preferable  the 
+countdown  occurs  at  the  Force  Investigation  Team’s  office;  however, 
+circumstances may dictate another location is utilized.  
+1)  Prior to handling specialized weapons or an unfamiliar firearm, Crime 
+Scene  Investigations  personnel  will  permit  an  officer  who  is  familiar 
+with the firearm to unload the firearm, under supervision, to ensure 
+a safe countdown.  
+
+2.  CSI personnel will: 
+
+a.  Ensure,  in  an  officer-involved  shooting,  that  the  officer’s  firearm(s)  are 
+not modified, operated, loaded or unloaded in any fashion following the 
+shooting prior to countdown.  
+
+b.  Complete  the  documentation  of  the  officer’s  immediate  condition. 
+
+Standard documentation will include, but is not limited to: 
+(cid:120)  Photographs  of  at  least  four  full-length  views  of  the  officer  (front, 
+
+(cid:120) 
+(cid:120) 
+
+(cid:120) 
+
+back, right and left sides) in a standing position;  
+Items of evidence or injuries to show general location and condition; 
+Items  of  evidence  or  injuries  (with  and  without  scale)  so  they  can 
+be recognized and identified;  
+Items  or  areas  (patterned  injuries,  bloodstains,  bite  marks,  etc.) 
+where it is necessary to document class and individual characteristics 
+for future comparison, and at least one facial view. 
+ 
+
+1.  The involved officers have the same rights and privileges, regarding criminal 
+
+investigation interviews that all persons have. 
+
+2.  When  practical,  involved  officers  should  be  interviewed  last  to  ensure 
+investigators have as complete a picture as possible prior to the interview. 
+3.  FIT  will  conduct  a  voluntary  interview,  a  minimum  of  48  hours  after  the 
+incident (unless waived by the involved officer), with the officer whose use 
+of  force  resulted  in  death.  Since  the  interviews  are  voluntary,  involved 
+officers have the right to decline to be interviewed.  
+
+5. 
+
+4.  FIT will forward the investigative case file on all OIS’s to the DA’s office 
+for  review  regardless  of  a  voluntary  statement  provided  by  an  involved 
+officer.  
+If an involved officer refuses to provide a voluntary statement or decides to 
+wait  before  giving  one,  they  will  be  admonished  by  CIRT  not  to  discuss 
+the incident with any other officers involved in the incident. In those cases 
+where an involved officer declines to provide a timely interview, investigators 
+shall  document  their  efforts  to  obtain  the  interview,  including  when  the 
+request was made and to whom it was directed. A subsequent compelled 
+interview,  conducted  by  CIRT,  will  be  scheduled  at  a  later  date  and  in 
+compliance with the rights and obligations set out in NRS 289.  
+
+6.  All  statements  provided  to  FIT  will  be  transcribed  and  available  to  the 
+
+officer before providing a statement to CIRT.  
+
+H. 
+
+Force Investigation Team’s Interview Guidelines 
+
+ 
+
+1199 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+ 
+
+I. 
+
+Viewing of Third Party Video Prior to Giving Statements 
+
+Although  our  intent  is  always  to  preserve  the  sanctity  of  life  for  all  citizens, 
+there  may  come  a  time  when  an  officer  uses  deadly  force.    From  time-to-
+time, these events are captured on third party surveillance video which can be 
+used  to  further  the  post-use  of  deadly  force  investigation.    They  can  also 
+serve as a memory aid to officers before they provide voluntary statements for 
+the  criminal  investigation  to  the  Force  Investigation  Team  (FIT).      Therefore, 
+on  a  case-by-case  basis,  the  FIT  Supervisor  may  give  the  involved  officer(s) 
+(not  witness  officers)  the  option  to  view  their  actions  during  a  deadly  force 
+incident  when  captured  on  third  party  surveillance  video.  (Reference  policy 
+4/107.01 regarding Body Worn Cameras.) 
+
+ 
+
+The following procedure outlines the process: 
+1.  On a case-by-case basis, FIT Investigator(s) may: 
+
+a.  Ask  the  involved  officer  if  he  are  willing  to  provide  a  voluntary 
+statement  to  FIT  and  inform  him  that  third  party  surveillance  video 
+exists depicting their actions; 
+Inform the involved officer that he and his representative will be given 
+an opportunity to review the third party surveillance video;  
+
+b. 
+
+c.  Provide  the  officer  and  his  representative  an  opportunity  to  review  that 
+
+portion of the third party video that depicts the officer’s actions;  
+
+d.  Schedule and conduct the interview; and, 
+e.  Make  a  copy  of  the  third  party  video  surveillance  and  impound  it  as 
+
+evidence. 
+
+2.  The Force Investigation Team Investigator will not: 
+
+Make  and  distribute  copies  of  the  third  party  video  surveillance  to 
+the  involved  officer,  his  legal  counsel,  or  collective  bargaining 
+association  representative  at  any  time  before  or  after  the  statement 
+is taken.    
+ 
+
+1.  The Involved Officer’s Immediate Supervisor will: 
+
+a.  Complete  Notice  of  Relief  of  Duty  (LVMPD  117),  thus  placing  the 
+involved  officer  in  relief  of  duty  status  for  any  incident  involving  the 
+use of deadly force or wherein serious bodily injury results. Supervisors 
+will  place  other  officers  in  relief  of  duty  status  at  the  direction  of 
+PEAP. This will be done based   on all the facts and circumstances 
+known  to  the  PEAP  personnel  and  only  for  the  well-being  of  that 
+officer.  
+
+2.  The CIRT Supervisor will:  
+
+a.  Ensure  the  Firearms  Discharge  Report  and  CIRT  Case  in  IAPro  are 
+
+Reporting Procedures 
+
+completed for uses of deadly force.  
+
+1200 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+b.  Ensure  the  following  forms  are  completed  and  provided  to  the  FIT  to 
+be memorialized in the case file of a use of deadly force incident: 
+1)  Major Incident Log; 
+
+3.  The Officer of Internal Oversight Bureau Commander, or designee, will brief 
+the  Sheriff,  Undersheriff  and/or  Assistant  Sheriffs  upon  completion  of  the 
+initial briefing with the details of the incident.  
+
+4.  Upon  completion  of  the  preliminary  investigation  the  FIT  Lieutenant  or 
+designee  will  draft  an  email  detailing  the  sequence  of  events  and 
+information learned. The email will be sent to the following:  
+a.  Sheriff 
+b.  Undersheriff 
+c.  Assistant Sheriff(s) 
+d.  Office of General Counsel 
+e.  Deputy Chief of Involved Officer 
+f.  Patrol Area Captain and/or Involved Officer Bureau Commander  
+g.  OIO Bureau Commander  
+h.  Director of PIO 
+i.  CIRT Lieutenant  
+j.  OOTS Lieutenant  
+k.  OIO sergeant  
+l.  CIRT Sergeant 
+m.  CIRT Team executive support 
+n.   FIT LEST 
+
+J.
+
+Police Employee Assistance Program (PEAP) Involvement 
+
+1.  PEAP  personnel  respond  to  use  of  force  incidents  resulting  in  death, 
+serious  injury,  or  where  death  could  have  resulted  or  any  intentional 
+discharge of a firearm at a human being. PEAP arranges for psychological 
+counseling  of  involved  officers  by  a  qualified  psychologist  and  advises  the 
+appropriate chain of command of the officer’s readiness to return to duty. 
+2.  Upon  PEAP  personnel’s  arrival  to  the  scene  they  will  contact  the  FIT 
+supervisor.  After  conferring  with  the  FIT  supervisor,  PEAP  will  provide 
+assistance to the officers involved in the incident. 
+
+3.  PEAP  personnel  will  not  become  involved  in  the  investigative  process,  nor 
+will  personnel  discuss  any  details  of  the  incident  with  the  involved  officer 
+prior to the officer providing a statement to FIT or CIRT.  PEAP personnel 
+will  be  able  to  interact  with  involved  officers  and  can  explain  the 
+investigative  process  to  them  while the  officer  is  under  the  observation  of 
+the Officer Witness Monitor. 
+If  PEAP  personnel  believe  a  Critical  Incident  Stress  Debriefing  is 
+appropriate after a deadly force incident, PEAP will seek prior approval of 
+such a forum with the FIT lieutenant and the CIRT lieutenant. 
+
+4. 
+
+1201 
+
+ 
+
+ 
+
+ 
+
+Las Vegas Metropolitan Police Department 
+Partners with the Community 
+
+ 
+
+K.
+
+1. 
+
+Contact with Suspect or Person to Whom Force Was Applied 
+If  a  suspect  or  person  to  whom  force  was  applied  is  transported  for 
+emergency medical treatment, an officer shall accompany the subject to the 
+hospital.  This  will  guarantee  the  chain  of  evidence  is  preserved  and 
+memorialized  and  spontaneous  statements  can  be  documented.  The 
+escorting  officer  will  verify  that  medical  personnel  are  aware  the  subject’s 
+clothing and personal effects must be secured as evidence. 
+Interviews with a suspect or person involved in a use of deadly force will 
+be  video  or  audio  recorded.  If  a  suspect  has  been  transported  to  a 
+hospital,  a  FIT  detective  will  arrange  for  a  timely  interview  when  it 
+becomes  permissible.  Additional  evidence  from  the  suspect,  such  as  blood 
+or ballistic evidence will be collected at the hospital. 
+In circumstances such as an unintentional discharge or an inappropriate use 
+of  deadly  force,  if  no  reasonable  suspicion  or  probable  cause  exists  to 
+warrant an investigative detention, the subject is free to leave. Timely and 
+consensual  efforts  will  be  made  to  attempt  to  identify  the  subject  and 
+investigators  will  seek  the  subject’s  cooperation.  Subjects  will  be  told  their 
+cooperation is voluntary and such interaction will then be documented. 
+ 
+Executive Staff 72 Hour Briefing  
+
+1.  FIT will provide a briefing to Executive Staff on the details of the criminal 
+
+investigation related to the use of deadly force.  
+
+2.  The  date,  time  and  location  of  the  briefing  will  be  determined  by  the 
+
+Office of the Sheriff. 
+
+L.
+
+M.
+
+The Administrative and Tactical Review 
+
+1.  CIRT will brief the Organizational Development Bureau on preliminary review 
+
+of tactical, training, and administrative issues. 
+
+2.  During the criminal investigation conducted by FIT, they will provide copies 
+of reports to CIRT as they become available. The criminal investigation can 
+and  will  share  its  information  freely  with  the  administrative/tactical 
+examination,  but  CIRT  may  not  share  information  with  the  criminal 
+investigation that was compelled under “Garrity.”  
+
+2. 
+
+3. 
+
+ 
+
+Upon completion of the criminal investigation of non-fatal incidents, FIT Section 
+Lieutenant will notify CIRT. See the Critical Incident Review Team (5/109.04) and 
+the Critical Incident Review Process (5/109.02) policies for further information.   
+ 
+ADMINISTRATIVE REVIEW 
+
+IV.
+
+All  Use  of  Force  Reports  in  Blue  Team  will  be  completely  coordinated  through 
+the officer’s chain of command and entered into IA Pro within 30 calendar days 
+of  the  event.    Internal  Affairs  will  provide  a  monthly  report  to  the  appropriate 
+
+1202 
+
+ 
+
+ 
+
+

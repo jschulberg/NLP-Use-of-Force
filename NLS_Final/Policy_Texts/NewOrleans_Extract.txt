@@ -1,0 +1,1591 @@
+Policy
+
+300
+
+New Orleans Police Department
+Policy Manual
+
+Use of Force
+
+PURPOSE AND SCOPE
+
+300.1
+The purpose of this policy it to provide guidelines on the reasonable use of force. While
+there is no way to specify the exact amount or type of reasonable force to be applied in any
+situation, every member of this department is expected to use these guidelines to make
+such decisions in a professional, impartial and reasonable manner.
+
+300.1.1
+Definitions related to this policy include:
+
+DEFINITIONS
+
+Active resistance - A subject attempts to attack or does attack an officer; exhibits
+aggressive behavior (e.g., lunging toward the officer, striking the officer with hands, fists,
+kicks or any instrument that may be perceived as a weapon such as knife or stick); or
+exhibits defensive resistance (e.g., attempts to leave the scene, flee, hide from detection,
+or pull away from the officer's grasp). Verbal statements, bracing or tensing alone do not
+constitute active resistance.
+
+Anatomical Compliance Technique - The act of applying pressure to vulnerable areas,
+weak points or pressure points of the body. This technique is used to cause the immediate
+response by a subject who poses a threat.
+
+Apprehension - The arrest, capture or taking into custody of a person.
+
+Arrest - The taking of one person into custody by another. To constitute arrest there must
+be an actual restraint of the person. The restraint may be imposed by force or may result
+from the submission of the person arrested to the custody of the one arresting him. An
+arrest is a restraint of greater scope or duration than an investigatory stop or detention. An
+arrest is lawful when supported by probable cause.
+
+Canine apprehension - Any event involving canine deployment wherein the canine has a
+clear and well-documented role in the capture of a person. The mere presence of a canine
+at the scene of an arrest shall not count as a canine apprehension.
+
+Canine deployment - Any situation, except one involving an on-leash article search only,
+in which a canine is brought to the scene and used in an attempt to locate or apprehend a
+suspect, whether or not a suspect actually is located or apprehended.
+
+Critical firearm discharge - A discharge of a firearm by an NOPD officer, including
+discharges where no person or animal is struck. Range and training firings, destruction of
+animals, and off-duty hunting discharges where no person is struck are not critical firearms
+discharges.
+
+Deadly force - Force reasonably anticipated and intended to create a substantial likelihood
+of causing death or very serious injury.
+
+Electronic Control Weapon (E.C.W.) - A weapon designed primarily to discharge electrical
+charges into a subject that will cause involuntary muscle contractions and overrides the
+subject's voluntary motor responses
+
+Use of Force - 90
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+New Orleans Police Department
+Policy Manual
+
+Use of Force
+
+E.C.W. application - The contact and delivery of electrical impulse to a subject with an
+E.C.W.
+
+Force statement - A written statement documenting a use of force which shall include the
+following:
+
+A detailed account of the incident from the officer's perspective
+
+The reason for the initial police presence
+
+A specific description of the acts that led to the use of force
+
+The level of resistance encountered
+
+A description of every type of force used
+
+Force Investigation Team (FIT) - The NOPD unit tasked with conducting investigations of
+serious uses of force; uses of force indicating apparent criminal conduct by an officer; uses
+of force by NOPD personnel of a rank higher than sergeant; and uses of force reassigned to
+FIT by the Superintendent, the Superintendent's designee, or PIB. Fit shall also investigate
+all instances where an individual has died while in, or as an apparent result of being in the
+custody of NOPD.
+
+In-custody death - An incident where an individual died while in, or as an apparent result
+of being in, the custody of NOPD.
+
+Lethal force - The use of force likely to cause death or serious physical injury, (e.g., the
+use of a firearm, neck hold or strike to the head, neck or throat with a hard object).
+
+Neck hold - Any of the following types of holds:
+
+Arm-bar control hold, a hold that inhibits breathing by compression of the airway in
+the neck
+
+Carotid restraint hold, a hold that inhibits blood flow by compression of the blood
+vessels in the neck
+
+Lateral vascular neck constraint
+
+A hold with a knee or other object to the back of a prone subject's neck.
+
+A neck hold shall be considered lethal force.
+
+Passive resistance - Behavior that is unresponsive to police verbal communication or
+direction (e.g., ignoring or disregarding police attempts at verbal communication or control;
+going limp; or failing to physically respond or move) and verbal resistance (e.g., verbally
+rejecting police verbal communication or direction; telling the officer that he or she will not
+comply with police direction, to leave alone, or not bother him or her). Bracing, tensing,
+linking arms, or verbally signaling an intention to avoid or prevent being taken into custody
+constitutes passive resistance.
+
+Public Integrity Bureau (PIB) - The NOPD unit charged with conducting internal and
+administrative investigations of NOPD officers and employees.
+
+Reasonable force - Force that is objectively reasonable under the circumstances and the
+minimum amount of force necessary to effect an arrest or protect the officer or other person.
+
+Reportable use of force - Any force above hand control or escort techniques applied
+for the purposes of handcuffing, or escort techniques that are not used as pressure point
+
+Use of Force - 91
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Policy Manual
+
+Use of Force
+
+compliance techniques, do not result in injury or complaint of injury and are not used to
+overcome resistance.
+
+Serious physical injury - Physical injury that creates a substantial risk of death; causes
+death or serious and protracted disfigurement; or causes impairment of the function of any
+bodily organ or limb.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Serious use of force - Includes the following:
+
+All uses of lethal force by an NOPD officer
+
+All critical firearm discharges by an NOPD officer
+
+All uses of force by an NOPD officer resulting in serious physical injury or requiring
+hospitalization
+
+All neck holds
+
+All canine bites
+
+All uses of force by an NOPD officer resulting in a loss of consciousness
+
+More than two applications of an E.C.W. on an individual during a single interaction,
+regardless of the mode or duration of the application, and whether the applications
+are by the same or different officers, or E.C.W. application for longer than 15 seconds,
+whether continuous or consecutive
+
+Any strike, blow, kick, E.C.W. application or similar use of force against a handcuffed
+subject
+
+Supervisor - A sworn NOPD employee at the rank of sergeant or above (or anyone acting
+in those capacities) and non-sworn NOPD personnel with oversight responsibility for other
+officers.
+
+Use of force - Physical effort to compel compliance by an unwilling subject above
+un-resisted handcuffing, including pointing a firearm at a person.
+
+Use of force indicating apparent criminal conduct by an officer - Force that a
+reasonable and trained supervisor would conclude could result in criminal charges due
+to the apparent circumstances of the use of force, such as the level of the force used
+as compared to the resistance encountered, or discrepancies in the use of force as
+described by the officer and the use of force as evidenced by any resulting injuries, witness
+statements, or other evidence.
+
+Use of force report - A written report documenting a supervisor's investigation of a use of
+force.
+
+Use of force statement - Officer's written report documenting his/her use of force.
+
+POLICY
+
+300.2
+The use of force by law enforcement personnel is a matter of critical concern, both to
+the public and to the law enforcement community. Officers are involved on a daily basis
+in numerous and varied interactions and, when warranted, may use reasonable force in
+carrying out their duties.
+
+Officers must have an understanding of, and true appreciation for, their authority and
+limitations. This is especially true with respect to overcoming resistance while engaged in
+the performance of law enforcement duties.
+
+Use of Force - 92
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Policy Manual
+
+Use of Force
+
+The Department recognizes and respects the value of all human life and dignity without
+prejudice to anyone. Vesting officers with the authority to use reasonable force and to
+protect the public welfare requires monitoring, evaluation and a careful balancing of all
+interests.
+
+Officers must meet training, and certification requirements to be permitted to carry and use
+authorized weapons.
+
+Officers shall not use or possess Oleoresin capsicum spray while on-duty, including officers
+working secondary employment.
+
+As part of the documentation of its activities, the SWAT team shall produce Use of Force
+reports.
+
+DUTY TO INTERCEDE AND REPORT
+
+300.3
+Any officer present and observing another officer using force that is clearly beyond that
+which is objectively reasonable under the circumstances shall, when in a position to
+do so, intercede to prevent the use of unreasonable force. An officer who observes
+another employee use any use of force incident shall promptly report these observations
+to a supervisor, and officers observing a level 2, 3 or 4 use of force shall write a Force
+Statement before the end of shift, which shall be included in the Use of Force Report.
+
+300.4 USE OF FORCE
+Officers shall use only that amount of force that reasonably appears necessary given the
+facts and circumstances perceived by the officer at the time of the event to accomplish a
+legitimate law enforcement purpose.
+
+The "reasonableness" of force will be judged from the perspective of a reasonable officer on
+the scene at the time of the incident. Any evaluation of reasonableness must allow for the
+fact that officers are often forced to make split-second decisions about the amount of force
+that is necessary in a particular situation, with limited information and in circumstances that
+are tense, uncertain and rapidly evolving.
+
+Given that no policy can realistically predict every possible situation an officer might
+encounter, officers are entrusted to use well-reasoned discretion in determining the
+appropriate use of force in each incident.
+
+It is also recognized that circumstances may arise in which officers reasonably believe that
+it would be impractical or ineffective to use any of the tools, weapons or methods provided
+by the Department. Officers may find it more effective or reasonable to improvise their
+response to rapidly unfolding conditions that they are confronting. In such circumstances,
+the use of any improvised device or method must nonetheless be reasonable and utilized
+only to the degree reasonably necessary to accomplish a legitimate law enforcement
+purpose.
+
+While the ultimate objective of every law enforcement encounter is to avoid or minimize
+injury, nothing in this policy requires an officer to retreat or be exposed to possible physical
+injury before applying reasonable force.
+
+USE OF FORCE TO EFFECT AN ARREST
+
+300.4.1
+An officer making a lawful arrest may use reasonable force to effect the arrest and detention,
+and to overcome any resistance or threatened resistance of the person being arrested or
+detained (C. Cr. P. 220).
+
+Use of Force - 93
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Policy Manual
+
+Use of Force
+
+FACTORS USED TO DETERMINE THE REASONABLENESS OF FORCE
+
+300.4.2
+When determining whether to use force and evaluating whether an officer has used
+reasonable force, a number of factors should be taken into consideration, as time and
+circumstances permit. These factors include, but are not limited to:
+
+(a) Whether the subject poses a threat to himself, offices or others and the immediacy
+
+and severity of the threat.
+
+(b)
+
+The conduct of the individual being confronted as reasonably perceived by the officer
+at the time.
+
+(c) Officer/subject factors (age, size, relative strength, skill level, injuries sustained, level
+
+of exhaustion or fatigue, the number of officers versus subjects).
+
+(d)
+
+The effects of drugs or alcohol.
+
+(e) Subject's mental state or capacity.
+
+(f)
+
+(g)
+
+(h)
+
+(i)
+
+(j)
+
+(k)
+
+Proximity of weapons or dangerous improvised devices.
+
+The degree to which the subject has been effectively restrained and his/her ability to
+resist despite being restrained.
+
+The availability of other options and their possible effectiveness.
+
+Seriousness of the suspected offense or reason for contact with the individual.
+
+Training and experience of the officer.
+
+Potential for injury to the subject, officers, suspects and others.
+
+(l) Whether the person appears to be resisting, attempting to evade arrest by flight or is
+
+attacking the officer.
+
+(m) The risk of escape.
+
+(n)
+
+The apparent need for immediate control of the subject or a prompt resolution of the
+situation.
+
+(o) Whether the conduct of the individual being confronted no longer reasonably appears
+
+to pose an imminent threat to the officer or others.
+
+(p) Any other exigent circumstances.
+
+ANATOMICAL COMPLIANCE TECHNIQUES
+
+300.4.3
+Anatomical compliance techniques may be effective in controlling a physically or actively
+resisting individual. Officers may only apply those anatomical compliance techniques for
+which they have successfully completed department-approved training.
+
+Officers utilizing any anatomical compliance technique should consider:
+
+(a)
+
+The degree to which the application of the technique may be controlled given the level
+of resistance.
+
+(b) Whether the person can comply with the direction or orders of the officer.
+
+(c) Whether the person has been given sufficient opportunity to comply.
+
+The application of any anatomical compliance technique shall be discontinued once the
+officer determines that compliance has been achieved.
+
+DEADLY FORCE APPLICATIONS
+
+300.5
+An officer may use deadly force to protect him/herself or others from what he/she reasonably
+believes would be an imminent threat of death or serious bodily injury.
+
+Use of Force - 94
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Policy Manual
+
+Use of Force
+
+SHOOTING AT OR FROM MOVING VEHICLES
+
+300.5.1
+Shots fired at or from a moving vehicle are rarely effective. Officers shall not discharge a
+firearm from a moving vehicle or at a moving vehicle unless the occupants of the vehicle are
+using deadly force, other than the vehicle itself, against the officer or another person, and
+such action is necessary for self defense or to protect the other person; shall not intentionally
+place themselves in the path of, or reach inside, a moving vehicle; and, where possible,
+shall attempt to move out of the path of a moving vehicle before discharging their weapon.
+Officers should not shoot at any part of a vehicle in an attempt to disable the vehicle.
+
+300.6
+
+ADDITIONAL USE OF FORCE CONSIDERATIONS
+
+300.6.1 WARNING AND OTHER SHOTS
+Warning shots or shots fired for the purpose of summoning aid are prohibited.
+
+DANGEROUS ANIMALS
+
+300.6.2
+Officers are authorized to use firearms to stop an animal in circumstances where the animal
+reasonably appears to pose an imminent threat to human safety and alternative methods
+are not reasonably available or would likely be ineffective.
+
+In circumstances in which officers have sufficient advance notice that a potentially
+dangerous animal may be encountered, officers should develop reasonable contingency
+plans for dealing with the animal (e.g., fire extinguisher, TASER device, animal control
+officer). Nothing in this policy shall prohibit any officer from shooting a dangerous animal
+if circumstances reasonably dictate that a contingency plan has failed or becomes
+impractical.
+
+REPORTING THE USE OF FORCE
+
+300.7
+Any use of force by a member of this department shall be documented promptly, completely
+and accurately in an appropriate report, depending on the nature of the incident. The
+officer should articulate the factors perceived and why he/she believed the use of force
+was reasonable under the circumstances. To collect data for purposes of training, resource
+allocation, analysis and related purposes, the Department may require the completion of
+additional report forms, as specified in department policy, procedure or law.
+
+Use of force reports, including force statements, shall be maintained centrally by PIB.
+
+REPORT OF FIREARM DISCHARGE
+
+300.7.1
+Except during training or recreational use, any member who discharges a firearm
+intentionally or unintentionally, on- or off-duty, shall notify the dispatcher and his/her
+supervisor immediately or as soon as circumstances permit.
+If the discharge is a level-4
+use of force, the Force Investigation Team shall be notified via the Command Desk and
+additional officer statements and reports shall be made in accordance with the Force
+Investigation Team/Officer-Involved Shooting Policy.
+
+NOTIFICATION TO SUPERVISORS
+
+300.7.2
+Officers who use or observe force shall notify their supervisors immediately following any
+use of force incident or upon receipt of an allegation of unreasonable or unreported use of
+force by any officer. Officers who use or observe force and fail to report it shall be subject
+to disciplinary action, up to and including termination.
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+Use of Force - 95
+
+New Orleans Police Department
+Policy Manual
+
+Use of Force
+
+300.8 MEDICAL ATTENTION
+Medical assistance shall be obtained for any person who exhibits signs of physical distress,
+who has sustained visible injury, expresses a complaint of injury or continuing pain, or who
+was rendered unconscious. Any individual exhibiting signs of physical distress after an
+encounter should be continuously monitored until he/she can be medically assessed.
+
+Based upon the officer's initial assessment of the nature and extent of the subject's injuries,
+medical assistance may consist of examination by emergency medical personnel.
+If any
+such individual refuses medical attention, such a refusal should be fully documented by
+medical personnel and attached to related reports. If a recording is made of the contact or
+an interview with the individual, any refusal should be included in the recording, if possible.
+
+Officers shall ensure any person providing medical care or receiving custody of a person
+following any use of force is informed that the person was subjected to force. This
+notification shall
+include a description of the force and any other circumstances the
+officer reasonably believes would be potential safety or medical risks to the subject (e.g.,
+prolonged struggle, extreme agitation, impaired respiration).
+
+Persons who exhibit extreme agitation, violent irrational behavior accompanied by profuse
+sweating, extraordinary strength beyond their physical characteristics and imperviousness
+to pain (sometimes called  excited delirium ), or who require a protracted physical encounter
+with multiple officers to be brought under control, may be at an increased risk of sudden
+death. Calls involving these persons should be considered medical emergencies. Officers
+who reasonably suspect a medical emergency should request medical assistance as soon
+as practicable and have medical personnel stage away if appropriate.
+
+SUPERVISOR RESPONSIBILITIES
+
+300.9
+A supervisor shall respond to an incident in which there has been a reported application of
+force. The supervisor shall:
+
+(a) Obtain the basic facts from the involved officer. Absent an allegation of misconduct
+or excessive force, this will be considered a routine contact in the normal course of
+duties.
+
+(b) Ensure that any injured parties are examined and treated.
+
+(c) When possible, separately obtain a recorded interview with the subject upon whom
+force was applied. If this interview is conducted without the person having voluntarily
+waived his/her Miranda rights, the following shall apply:
+
+1.
+
+2.
+
+3.
+
+The content of the interview should not be summarized or included in any related
+criminal charges.
+
+The fact that a recorded interview was conducted should be documented in a
+property or other report.
+
+The recording of the interview should be distinctly marked for retention until all
+potential for civil litigation has expired.
+
+(d) Once any initial medical assessment has been completed or first aid has been
+rendered, ensure that photographs have been taken of any areas involving visible
+injury or complaint of pain, as well as overall photographs of uninjured areas. These
+photographs should also be retained until all potential civil litigation has expired.
+
+Identify and interview any witnesses not already included in related reports.
+
+(e)
+
+(f)
+
+Review and approve all related reports.
+
+Use of Force - 96
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Policy Manual
+
+Use of Force
+
+(g) Evaluate the circumstances surrounding the incident and initiate an administrative
+investigation if there is a question of policy non-compliance or if for any reason further
+investigation may be appropriate.
+
+Supervisors shall be responsible for notifying Command Desk of all use of force occurrences
+as soon as possible.
+
+PLATOON COMMANDER RESPONSIBILITY
+
+300.9.1
+The Platoon Commander shall review each use of force by any personnel within his/her
+command and forward the review as appropriate.
+
+300.10 GENERAL
+Annually, the NOPD will analyze the year's use of force data and document its findings in
+a public report which includes:
+
+(a)
+
+Force related outcome data
+
+(b) Determination of significant trends
+
+(c)
+
+Identification of deficiencies
+
+(d) Recommendations to correct deficiencies
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+Use of Force - 97
+
+New Orleans Police Department
+Procedure Manual
+
+PR300
+
+Use of Force
+
+PR300.1 USE OF FORCE PRINCIPLES
+Use of force by NOPD officers, regardless of the type of force or weapon used, shall abide
+by the following requirements:
+
+(a) Officers shall use advisements, warnings, and verbal persuasion, when possible,
+
+before resorting to force.
+
+(b)
+
+Force shall be de-escalated immediately as resistance decreases.
+
+(c) When feasible based on the circumstances, officers will use disengagement; area
+containment; surveillance; waiting out a subject; summoning reinforcements; and/or
+calling in specialized units, in order to reduce the need for force and increase officer
+and civilian safety.
+
+(d) Officers shall allow individuals time to submit to arrest before force is used wherever
+
+possible.
+
+(e) Officers shall not use neck holds, except where lethal force is authorized.
+
+(f)
+
+Officers shall not use head strikes with a hard object, except where lethal force is
+authorized.
+
+(g) Officers shall not use force against persons in handcuffs, except as objectively
+reasonable to prevent imminent bodily harm to the officer or another person or
+persons, or as objectively reasonable, where physical removal
+is necessary to
+overcome passive resistance.
+
+(h) Officers shall not use force above un-resisted handcuffing to overcome passive
+resistance, except that physical removal is permitted as necessary and objectively
+reasonable.
+
+(i)
+
+(j)
+
+(k)
+
+(l)
+
+Un-holstering a firearm and pointing it at a person constitutes a use of force, and
+shall accordingly be done only as objectively reasonable to accomplish a lawful police
+objective.
+
+Officers shall not use force to attempt to effect compliance with a command that is
+unlawful. Any use of force by an officer to subdue an individual resisting arrest or
+detention is unreasonable when the initial arrest or detention of the individual was
+unlawful.
+
+Immediately following a use of force, officers and upon arrival, a supervisor shall
+inspect and observe subjects for injury or complaints of pain resulting from the use
+of force, and immediately obtain any necessary medical care. This may require an
+officer to provide emergency first aid until professional medical care providers are on
+the scene.
+
+Officers shall not draw or exhibit a firearm unless the circumstances surrounding the
+incident create a reasonable belief that a situation may escalate to the point where
+lethal force would be authorized.
+
+PR300.2 GENERAL INFORMATION
+The decision to resort to force to accomplish a lawful police objective must be reasonable.
+Officers shall use advisements, warnings, and verbal persuasion, when possible, before
+resorting to force.
+
+Use of Force - 29
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+The degree of force used must be reasonable, and necessary, and in a manner that avoids
+unnecessary injury to officers and civilians. The officer may only use enough force to
+overcome the amount of resistance or aggression met. When such resistance or aggression
+is reduced, the officer must correspondingly and immediately reduce the degree of force
+he/she is applying, or the use of force is NOT legal.
+
+force will subject officers to discipline, possible criminal
+The unreasonable use of
+prosecution, and/or civil liability. Officers who use or observe force and fail to report it shall
+be subject to disciplinary action, up to and including termination.
+
+There are a number of non-lethal skills and equipment which are authorized for use when
+necessary to accomplish valid police objectives.
+
+(a) Verbal communication and/or persuasion are a basic defensive tactic.
+
+(b) Bodily force, including hands, fists, and feet may be used in a variety of situations
+depending upon the individual officer's skill, and the circumstances. If injuries result
+from the use of bodily force, the arresting officer shall handle the injured subject in
+accordance with current departmental regulations and the supervisor shall submit a
+Resisting Arrest Report along with an incident report through the chain of command.
+
+(c)
+
+The baton is an intermediate level of force. The side handle baton or expandable
+baton is capable of causing serious injury. The officer must complete Departmental
+training before using the side handle baton or expandable baton. If injuries result from
+the use of the baton, the arresting officer shall handle the injured subject in accordance
+with current department regulations and the supervisor shall submit a Resisting Arrest
+Report along with an incident report through the chain of command.
+
+In all instances where physical force is used to control an individual and the individual is
+injured or complains of injury, the supervisor shall complete a use of force report covering
+the circumstances surrounding the incident. A copy of the report shall be forwarded to the
+Public Integrity Bureau within twenty-four (24) hours of its approval by a supervisor.
+
+Unnecessarily or prematurely drawing or exhibiting a firearm constitutes a use of force and
+it limits an officer's alternative's in controlling a situation, creates unnecessary anxiety on
+the part of the citizens, and may result in an unwarranted or accidental discharge of the
+firearm. Officers shall not draw or exhibit a firearm unless the circumstances surrounding
+the incident create a reasonable belief that it may be necessary to use the firearm.
+
+An officer shall exercise extreme caution with respect to use of deadly force. In all cases,
+only the minimum degree of force which is necessary shall be used, and every other
+available alternative shall, if feasible, shall be exhausted before deadly force is applied if
+feasible.
+
+INSTRUCTIONS - GENERAL
+
+PR300.3
+Officers who use or observe force shall notify their supervisors immediately following any
+use of force incident or upon receipt of an allegation of unreasonable or unreported use of
+force by any officer. Officers who use or observe force and fail to report it shall be subject
+to disciplinary action, up to and including termination.
+
+Personnel may delay compliance with the provisions of this policy/procedure if the scene
+is unstable, there is community unrest, or other conditions make immediate compliance
+impracticable. The protection of Department personnel, the public, and the maintenance of
+public safety shall remain the priority. The approving supervisor shall ensure the reason for
+
+Use of Force - 30
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+the delay is documented in the Use of Force Report. Such compliance delays are subject
+to review by the Use of Force Review Board.
+
+GENERAL INSTRUCTIONS - SUPERVISOR
+
+PR300.3.1
+When notified of a Level 3, or 2 use of force, the supervisor shall respond to the scene and
+conduct the appropriate force investigation.
+
+When notified of an allegation of a use of force and the member denies using force, the
+supervisor shall respond to the scene and conduct a preliminary investigation into the use
+of force allegation.
+
+Supervisors shall be held accountable for the timely, accurate, and thorough documentation
+of all use of force incidents.
+
+Supervisors shall
+make recommendations for corrective action when appropriate, and document
+recommendations in the Use of Force Report.
+
+identify Departmental or individual
+
+training and tactical
+
+issues and
+the
+
+Supervisors shall ensure the provisions of all policies are properly applied.
+
+PR300.3.2
+USE OF FORCE INVESTIGATION - WHEN NOT NEEDED
+A use of force investigation need not be conducted when a subject has incurred an injury
+requiring no more than basic first-aid and the injury did not occur as a result of a member's
+use of force and there is no allegation of force by the subject.
+
+USE OF FORCE - MISCONDUCT
+
+PR300.3.3
+If any force investigation indicates administrative misconduct, the supervisor shall conduct,
+at a minimum, a Level 3 force investigation and additionally initiate an internal investigation.
+Document the date PIB was notified in the Use of Force Report.
+
+If any force investigation indicates criminal misconduct, the supervisor shall suspend the
+investigation immediately and notify PIB. The FIT will take over the investigation.
+
+USE OF FORCE - MEDICAL
+
+PR300.3.4
+Personnel shall request medical service without delay when a subject has visible injuries or
+the subject complains of injury.
+
+USE OF FORCE - REPORTS
+
+PR300.3.5
+Reports shall not contain "boilerplate" or "pat" language (e.g., "furtive movement" or "fighting
+stance," etc.) without descriptive or explanatory details of the action."
+
+In the event multiple members are involved in a single incident, regardless of the varying
+levels of force used by an individual officer involved, the reporting member or supervisor
+shall prepare only one Use of Force Report listing all involved personnel. When multiple
+levels of force are used, the highest level of investigation shall be conducted.
+
+PR300.3.6
+Injured or killed animals shall be handled and/or disposed of appropriately.
+
+ANIMALS
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+Use of Force - 31
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+LEVELS OF FORCE
+
+PR300.4
+Force options are grouped in the following four (4) force levels for reporting and investigating
+purposes only:
+
+LEVEL 1
+
+PR300.4.1
+Level-1 uses of force include pointing a firearm at a person and hand control or escort
+techniques (e.g., elbow grip, wrist grip, or shoulder grip) applied as pressure point
+compliance techniques or that result in injury or complaint of injury.
+
+Note: Hand control or escort techniques applied for the purposes of handcuffing or escorts
+that are not used as pressure point compliance techniques, do not result in injury or
+complaint of injury, and are not used to overcome resistance, are not reportable uses of
+force.
+
+- uses of force include use of an ECW (including where an ECW is fired at a person but
+misses); use of an impact weapon to strike a person but where no contact is made; use of
+a baton for non-striking purposes (e.g., prying limbs, moving or controlling a person); and
+weaponless defense techniques (e.g., elbow strikes, kicks, leg sweeps, and takedowns).
+
+PR300.4.2
+Level-2
+
+LEVEL 2
+
+PR300.4.3
+Level-3
+
+LEVEL 3
+
+- uses of force include any strike to the head (except for a strike with an impact weapon);
+use of impact weapons where contact is made (except to the head), regardless of injury; or
+the destruction of an animal.
+
+LEVEL 4
+
+PR300.4.4
+Level-4 - uses of force include all serious uses of force, and shall be investigated by NOPD's
+Force Investigation Team.
+
+Serious use of force:
+
+all uses of lethal force by an NOPD officer;
+
+all critical firearm discharges by an NOPD officer;
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+all neck holds;
+
+all canine bites;
+
+all uses of force by an NOPD officer resulting in serious physical injury or requiring
+hospitalization;
+
+all uses of force by an NOPD officer resulting in a loss of consciousness;
+
+(g) more than two applications of an ECW on an individual during a single interaction,
+regardless of the mode or duration of the application, and whether the applications
+are by the same or different officers, or ECW application for longer than 15 seconds,
+whether continuous or consecutive; and
+
+(h)
+
+any strike, blow, kick, ECW application, or similar use of force against a handcuffed
+subject.
+
+Use of Force - 32
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+All level-4 uses of force (serious use of force), uses of force indicating apparent criminal
+conduct by an officer, uses of force by NOPD personnel of a rank higher than sergeant, or
+uses of force reassigned to the FIT by the Superintendent or his designee or PIB shall be
+investigated by the FIT. Supervisors shall notify the FIT via the Command Desk.
+
+PR300.5
+LEVEL 1 USE OF FORCE INCIDENTS
+Level 1 Use of Force incidents are self-reported incidents.
+
+PR300.5.1
+Department personnel who use a Level 1 use of force shall:
+
+RESPONSIBILITIES OF PERSONNEL - LEVEL 1
+
+(a) Notify and brief their supervisor immediately or as soon as practical. If the immediate
+
+supervisor is unavailable, another field supervisor shall be notified.
+
+(b) Complete a Use of Force Report.
+
+(c)
+
+The member who uses force shall write a Force Statement before the end of shift,
+which shall be included in the Use of Force Report. The Force Statement shall include:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+A detailed account of the incident from the officer's perspective;
+
+The reason for the initial police presence
+
+A specific description of the acts that led to the use of force;
+
+The level of resistance encountered
+
+A description of every type of force used.
+
+(d) Complete the original Use of Force Report and,
+
+the appropriate
+Offense Report and ancillary documents to provide his/her immediate supervisor or,
+if unavailable, to an on-duty supervisor for review prior to the end of tour of duty.
+
+if applicable,
+
+SUPERVISOR RESPONSIBILITIES FOR LEVEL 1
+
+PR300.5.2
+When contacted by involved personnel, supervisors shall review the general circumstances
+of the incident with the involved personnel as necessary, and ensure the facts are consistent
+with the reporting level.
+
+The direct supervisor of the officer using a Level 1 use of force shall review and approve in
+writing the Level 1 use of force before the end of the shift during which the Level 1 force is
+used. Supervisors shall elevate and investigate any use of force that appears to have been
+inappropriately categorized as a Level 1 use of force.
+
+Level 1 incidents do not require witness identification.
+
+PR300.6
+
+LEVEL 2, 3 AND 4 USE OF FORCE INCIDENTS
+
+RESPONSIBILITIES OF OFFICERS USING OR OBSERVING A LEVEL 2,
+
+PR300.6.1
+LEVEL 3 OR LEVEL 4 USE OF FORCE
+All officers using a Level 1 through 4 use of force, and officers observing a Level 2, Level 3,
+or Level 4 use of force, shall write a Force Statement before the end of shift, which shall
+be included in the Use of Force Report.
+
+The officer's Force Statement shall include:
+
+(a)
+
+a detailed account of the incident from the officer's perspective;
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+Use of Force - 33
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+the reason for the initial police presence;
+
+a specific description of the acts that led to the use of force;
+
+the level of resistance encountered; and
+
+a description of every type of force used.
+
+Officers' Force Statements shall completely and accurately describe the force used or
+observed. The use of force reporting policy shall explicitly prohibit the use of conclusive
+statements without supporting detail, including "boilerplate" or "pat" language (e.g., "furtive
+movement" or "fighting stance") in all statements and reports documenting use of force.
+
+Officers shall be subject to disciplinary action for material omissions or inaccuracies in their
+Force Statements.
+
+Officers who use or observe force shall notify their supervisors immediately following any
+use of force incident or upon receipt of an allegation of unreasonable or unreported use of
+force by any officer.
+
+SUPERVISORS RESPONSIBILITIES - LEVEL 2, LEVEL 3 OR LEVEL 4
+
+PR300.6.2
+The direct supervisor of the officer(s) using force, upon notification of a Level 2, Level 3, or
+Level 4 use of force incident or allegation of excessive force, shall respond to the location
+of occurrence. The direct supervisor of the officer(s) involved in the reportable use of force
+incident shall investigate all uses of force, with the exception of:
+
+those incidents involving a serious use of force (Level 4 uses of force);
+
+uses of force indicating apparent criminal conduct by an officer, as defined in this
+Agreement;
+
+a use of force incident by NOPD personnel of a rank higher than the supervisor
+assigned to investigate the incident; or
+
+a use of force investigation reassigned to FIT by the Superintendent or his designee
+or PIB.
+
+A supervisor who was involved in a reportable incident, including by participating in or
+ordering the force being investigated, shall not investigate the incident or review the Force
+Statements for approval.
+
+For all Level 2 and Level 3 uses of force, the investigating supervisor shall:
+
+respond to the scene, examine the subject of the force for injury, interview the subject
+for complaints of pain after advising the subject of his/her rights, and ensure that the
+subject receives medical attention from an appropriate medical provider;
+
+notify immediately of the use of force and obtain a use of force tracking number;
+
+identify and collect all relevant evidence and evaluate that evidence to determine
+whether the use of force:
+
+1.
+
+2.
+
+was consistent with NOPD policy and/or
+
+raises any policy, training, tactical, or equipment concerns;
+
+ensure that all evidence to establish material facts related to the use of force, including
+audio and video records, photographs, and other documentation of injuries or the
+absence of injuries is collected;
+
+Use of Force - 34
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+(e)
+
+(f)
+
+(g)
+
+ensure that a canvass for, and interview of, civilian witnesses is conducted.
+In
+addition, civilian witnesses should be encouraged to provide and sign a written
+statement in their own words;
+ensure that all officers witnessing a use of force incident by another officer provide a
+Force Statement. Officers involved in a use of force incident shall be separated until
+interviewed. Group interviews shall be prohibited. Supervisors shall ensure that all
+Use of Force Reports identify all officers who were involved in the incident, witnessed
+the incident, or were on the scene when it occurred. Supervisors shall not ask officers
+or other witnesses leading questions that improperly suggest legal justifications for the
+officers' conduct, where such questions are contrary to appropriate law enforcement
+techniques. Investigating supervisors shall record all interviews with civilian witnesses
+and all follow-up interviews with officers, and shall record all interviews with subjects,
+after advising them of their rights and that they seek to question them only about the
+use of force. The recording requirements set out in Custodial Interrogations do not
+apply to subject interviews regarding the use of force. review all Force Statements
+and ensure that all reports include the information required by this Agreement and
+NOPD policy; and
+consider all relevant evidence, including circumstantial, direct, and physical evidence,
+as appropriate, and make credibility determinations, if feasible. Supervisors will make
+all reasonable efforts to resolve material inconsistencies between the officer, subject,
+and witness statements, as well as inconsistencies between the level of force claimed
+by the officer and the subject's injuries. NOPD will train all of its supervisors on the
+factors to consider when evaluating credibility, incorporating credibility instructions
+provided to jurors. Where a reasonable and trained supervisor would determine
+that there may have been misconduct, the supervisor shall immediately notify FIT to
+respond to the scene.
+
+Each supervisor shall provide a written gist to the Division Commander by the end of the shift
+documenting the supervisor's preliminary determination of the appropriateness of the use
+of force, including whether the force was reasonable and within policy; whether the injuries
+appear proportionate to the use of force described; and summaries of subject, witness, and
+officer statements.
+
+Each supervisor shall complete and document a use of force supervisory investigation using
+a supervisor's Use of Force Report within 72 hours of learning of the use of force. Any
+extension to this 72-hour deadline must be authorized by a Division Commander. This
+Report shall include:
+
+(a)
+
+(b)
+
+(c)
+(d)
+
+the supervisor's narrative description of the incident, including a precise description
+of the evidence that either justifies or fails to justify the officer's conduct based on the
+supervisor's independent review of the facts and circumstances of the incident;
+documentation of all evidence that was gathered, including names, phone numbers,
+and addresses of witnesses to the incident. In situations in which there are no known
+witnesses, the report shall specifically state this fact. In situations in which witnesses
+were present but circumstances prevented the author of the report from determining
+the identification, phone number or address of those witnesses, the report shall state
+the reasons why. The report should also include all available identifying information
+for anyone who refuses to provide a statement;
+the names of all other NOPD employees witnessing the use of force;
+the investigating supervisor's evaluation of the use of force, based on the supervisor's
+review of the evidence gathered, including a determination of whether the officer's
+actions appear to be within NOPD policy and consistent with state and federal law; and
+
+Use of Force - 35
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+an assessment of the incident for tactical and training implications, including whether
+the use of force may have been avoided through the use of de-escalation techniques
+or lesser force options, and;
+
+(e)
+
+documentation of any non-disciplinary corrective action taken.
+
+Upon completion of the supervisor's Use of Force Report, the investigating supervisor
+shall forward the report through their chain of command to Division Commander, who shall
+review the report to ensure that it is complete and that the findings are supported using the
+preponderance of the evidence standard. The Division Commander shall order additional
+investigation when it appears that there is additional relevant evidence that may assist in
+resolving inconsistencies or improve the reliability or credibility of the findings.
+
+Where the findings of the Use of Force Report are not supported by a preponderance of
+the evidence, the investigating supervisor's chain of command shall document the reasons
+for this determination and shall include this documentation as an addendum to the original
+investigation.
+the investigating
+supervisor regarding the inadequately supported determination and of any investigative
+deficiencies that led to it. The Division Commander shall be responsible for the accuracy
+and completeness of Use of Force Reports prepared by supervisors under their command.
+
+The investigating supervisor's superior shall counsel
+
+Where an investigating supervisor repeatedly conducts deficient
+the
+supervisor shall receive the appropriate corrective action, including training, demotion,
+and/or removal from a supervisory position in accordance with performance evaluation
+procedures and/or Civil Service Rules.
+
+investigations,
+
+Whenever an investigating supervisor, reviewing supervisor, or Division Commander finds
+evidence of a use of force indicating apparent criminal conduct by an officer, he or she shall
+suspend the force investigation immediately and notify PIB. PIB shall immediately notify
+FIT, which will take over the investigation.
+
+When the Division Commander finds that the investigation is complete and the findings are
+supported by the evidence, the investigation file shall be forwarded to PIB. PIB shall review
+the investigation to ensure that it is complete and that the findings are supported by the
+evidence.
+
+At the discretion of the Superintendent, his designee, or PIB, a use of force investigation
+may be assigned or re-assigned for investigation to FIT or to another supervisor, whether
+within or outside of the District in which the incident occurred, or may be returned to the Unit
+for further investigation or analysis. This assignment or re-assignment shall be explained
+in writing.
+
+Where, after investigation, a use of force is found to be out of policy, the Superintendent
+shall direct and ensure appropriate discipline. Where the use of force indicates policy,
+the Superintendent shall ensure also that
+training,
+necessary training is delivered and that policy,
+tactical, or equipment concerns are
+resolved.
+
+tactical, or equipment concerns,
+
+RESPONSIBILITIES OF UNINVOLVED PERSONNEL WHO DID
+
+PR300.7
+NOT WITNESS THE USE OF FORCE, WHEN DIRECTED BY A SUPERVISOR
+The responsibilities of uninvolved personnel who did not witness the use of force, when
+directed by a supervisor shall:
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+Use of Force - 36
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+(a) Conduct a reasonable effort to identify and obtain statement from other witnesses
+in the proximity of the use of force incident, commensurate with the availability of
+resources and the conditions of the event.
+
+(b) Witnesses to a use of force shall be identified to the extent that it is reasonable and
+listed in an Incident Report. Statements shall be taken from outside agency personnel
+or private person witnesses, when practical. The following criteria shall be used when
+listing witnesses:
+
+1.
+
+Outside Agency Personnel Outside agency personnel at the scene of a use of
+force incident, whether they witnessed the use of force or not, shall be identified
+as follows:
+
+2.
+
+Private Person Witnesses Private persons at the scene of a use of force
+incident, whether they witnessed the use of force or not, shall be identified,
+when possible, as follows:
+
+(a) Name;
+
+(b) Rank/Title;
+
+(c)
+
+Badge or employee number; and
+
+(d) Department affiliation.
+
+(a) Name;
+
+(b) Sex, Race, DOB;
+
+(c) Contact number(s); and
+
+(d) Home address.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+Document in the appropriate report why witness information was not obtained
+in situations where it was unsafe or impractical to obtain, (e.g., hostile crowd,
+insufficient police resources) or the witness refused to remain at the scene, or
+is uncooperative.
+
+Members shall not detain or delay a witness who refuses to remain at the
+scene; nonetheless, the witness' physical description, license plate, comments,
+or other identifiers shall be obtained when available and documented in the
+appropriate report.
+
+Members shall summon a supervisor to the scene in the event a witness refuses
+to give a statement or provide identification information.
+
+Complete a Supplemental Statement without discussing the details of the
+incident with other personnel on scene. Group reporting is prohibited.
+
+Personnel on scene at the time of the use of force incident, but not involved in or
+a witness to the use of force, shall be separately interviewed by the investigating
+supervisor, prior to clearing from the incident. Any relevant information revealed
+in the interview shall be included in the member's Supplemental Statement.
+
+PLATOON COMMANDER OR COMMANDER OF THE INCIDENT SCENE
+
+PR300.7.1
+RESPONSIBILITIES
+The platoon commander or commander of the incident scene shall:
+
+(a) Respond to the scene and take Incident Command responsibilities when advised the
+incident involves significant department resources or is likely to generate unusual
+public interest.
+
+Use of Force - 37
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+(c)
+
+(b) Monitor and ensure the use of force investigation is conducted in a thorough,
+
+methodical, and efficient manner.
+Ensure the following notifications are made as soon as possible unless conditions at
+the scene make such notification impractical:
+1.
+2.
+3.
+4.
+5.
+
+Deputy Superintendent of the Public Integrity Bureau;
+Police Commander of the Public Integrity Bureau;
+Commander of the Force Investigative Team;
+Superintendent of Police;
+Orleans Parish District Attorney's Office Standby Team for force incidents
+resulting in death or injury likely to result in death;
+Office of the City Attorney (OCA);
+Office of Inspector General (OIG);
+City Administrator;
+Field Operations Bureau (FOB) and Investigation and Support Bureau (ISB)
+Deputy Superintendents; and
+10. District/Division Commander.
+
+6.
+7.
+8.
+9.
+
+PR300.8
+LEVEL 4 FORCE OR IN-CUSTODY DEATH INCIDENT
+Force Investigative Team shall proceed concurrent with an administrative investigation by
+the Public Integrity Bureau.
+
+Level 4 force incidents shall be investigated by NOPD's Force Investigation Team.
+
+If the case may proceed criminally, or where NOPD requests a criminal prosecution,
+any compelled interview of the subject officers shall be delayed. No other part of the
+investigation shall be held in abeyance unless specifically authorized by the Superintendent
+in consultation with the agency conducting the criminal investigation.
+
+PUBLIC INTEGRITY BUREAU FORCE INVESTIGATIVE TEAM (FIT)
+
+PR300.8.1
+Once the Supervisor of the FIT is notified via the Command Desk or a member's Supervisor
+of a level-4 use of force incident or an in custody death, the FIT Supervisor will notify the
+members of the squad and respond as outlined in policy/procedure 310 - Force Investigative
+Team/Officer Involved Shooting.
+
+DISTRICT ATTORNEY'S (DA) STANDBY TEAM
+
+PR300.8.2
+The District Attorney Office and the City Attorney's Office have the authority to conduct their
+own independent investigations. They will be available to assist and advise the investigating
+officers on all criminal law issues as they relate to the investigation.
+
+PR300.9
+
+LEVEL 4 FORCE INCIDENTS INVOLVING AN OUTSIDE AGENCY
+
+LEVEL 4 FORCE INCIDENTS OCCURRING OUTSIDE THE CITY OF
+
+PR300.9.1
+NEW ORLEANS
+Upon notification, the platoon commander shall:
+
+(a) Send an on-duty supervisor to the jurisdiction in which the incident occurred unless
+the distance makes it impractical. The supervisor shall remain with the member(s)
+during the investigation by the outside agency;
+
+Use of Force - 38
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+(b) Notify the Public Integrity Bureau Deputy Superintendent who shall determine if Public
+Integrity Bureau Force Investigative Team investigators are to be called-out; and
+
+(c) Notify the Public Integrity Bureau Police Commander who shall determine if the Public
+
+Integrity Bureau Administrative investigators are to be called-out.
+
+The law enforcement agency, which has jurisdiction where the incident occurred, shall
+investigation responsibility. The Public
+have incident command and primary criminal
+Integrity Bureau Force Investigative Team shall only assume primary criminal investigation
+responsibility upon the request of the outside agency.
+
+Public Integrity Bureau Force Investigative Team investigators shall request to attend the
+interview of NOPD personnel, unless the distance involved makes this impractical.
+
+Public Integrity Bureau Administrative investigators shall request to monitor the interview of
+NOPD personnel, unless the distance involved makes this impractical.
+
+LEVEL 4 FORCE INCIDENTS INVOLVING OUTSIDE AGENCY
+
+PR300.9.2
+PERSONNEL WITHIN THE CITY OF NEW ORLEANS
+the criminal
+The Public Integrity Bureau Force Investigative Team shall conduct
+investigation for level-4 use of force incidents and in custody deaths. The outside agency
+may assist at the discretion of the Public Integrity Bureau Deputy Superintendent.
+
+PR300.10
+All reviewers shall:
+
+COMMAND REVIEW AND ENDORSEMENT
+
+(a) Review the Incident Report and the Use of Force Report and evaluate these reports for
+completeness, accuracy, and quality and ensure reports do not contain "Boilerplate"
+or "Pat" language without descriptive or explanatory details of the action. Return any
+reports that are incomplete or inadequate and ensure corrections are made;
+
+(b) Order further investigation or additional investigative resources when necessary;
+
+(c)
+
+Evaluate and document whether the use of force was in compliance with Departmental
+policy, and determine whether any training and tactical issues need further review,
+when appropriate; and
+
+(d) Review the Incident Report and Use of Force Report and forward as appropriate.
+
+PR300.10.1
+The reviewing supervisor shall:
+
+LEVEL 1 FORCE REVIEW RESPONSIBILITIES
+
+(a) Conduct a thorough review of all documents to ensure completeness, accuracy, and
+
+quality.
+
+Incomplete or
+clarification.
+
+(b)
+
+(c)
+
+inadequate reports shall be returned for additional details or
+
+Ensure the Use of Force Report contains the appropriate, corresponding Item
+Number.
+
+(d) Upon approval, sign the appropriate Level 1 Reviewer box on the Use of Force Report
+
+1.
+
+2.
+
+Ensure the Use of Force Report contains the original Use of Force Report with
+attached supplemental statements
+
+A copy of the appropriate report (e.g., Incident Report or field interview card)
+
+Use of Force - 39
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+New Orleans Police Department
+Procedure Manual
+
+Use of Force
+
+3.
+
+Upon approval, sign the appropriate Level 1 Reviewer box on the Use of Force
+Report
+
+PR300.10.2
+The Public Integrity Bureau Force Investigative Team (FIT) supervisor shall:
+
+LEVEL 4 FORCE REVIEW RESPONSIBILITIES
+
+(a) Ensure the investigation is conducted and assigned to a Public Integrity FIT
+
+investigator who shall prepare an Incident Report.
+
+(b) Review and forward the Incident Report to the Police Commander of the Public
+
+Integrity Bureau.
+
+The Public Integrity Bureau Police Commander shall:
+
+(a) Ensure Public Integrity Bureau Administrative investigators have conducted a
+complete use of force investigation, independent of the criminal investigation, and
+prepared a Use of Force or In-Custody Death Report in accordance with PIB Policy
+and Procedure
+
+(b) Review and forward the Incident Report and the Use of Force Report to the Deputy
+
+Superintendent of the Public Integrity Bureau.
+
+(c)
+
+Provide an oral report to the Superintendent of Police within 24 hours of the incident.
+
+PR300.11 OFFICER'S BILL OF RIGHTS
+Nothing in this procedure shall preclude a member of the police department from taking
+reasonable action(s) to ensure officer safety or the public's safety.
+
+All members shall be afforded all substantive and procedural rights and remedies as
+provided by law, including without limitation those laws granted by the Officers' Bill of
+Rights.
+
+The Superintendent of Police, after consulting with members of the Command Staff and
+Public Integrity Bureau shall determine if the member(s) should be returned to their regular
+assignment, but only after completion of any mandatory debriefing by the department's
+psychologist, and any recommended retraining.
+
+Any determination by the Superintendent not
+to return an officer(s) to their regular
+assignment and to continue their reassignment is administrative only and in no way shall
+be considered punitive
+
+TRAINING
+PR300.12
+Commanders,
+investigators, and supervisors shall complete a Department approved
+training course regarding the Departmental Use of Force Policy and reporting and
+investigating use of force incidents prior to conducting any use of force investigation.
+The training course shall include provisions of the NOPD Operations Manual Chapters
+related to RECEIVING AND PROCESSING COMPLAINTS AGAINST DEPARTMENT
+PERSONNEL OR PROCEDURES and CRIMINAL INVESTIGATIONS INVOLVING
+ACTIVE LAW ENFORCEMENT OR A MEMBER OF THE DEPARTMENT.
+
+Adopted: 2013/06/23 © 1995-2013 Lexipol, LLC
+
+Use of Force - 40
+
+

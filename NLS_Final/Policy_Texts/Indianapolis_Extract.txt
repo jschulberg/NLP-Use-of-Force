@@ -1,0 +1,912 @@
+Indianapolis Metropolitan 
+Police Department 
+
+ 
+
+ 
+
+GENERAL ORDER 
+
+1.30 
+ 
+
+ 
+
+ 
+ 
+
+USE OF FORCE  
+ 
+
+POLICY 
+ 
+This policy provides Indianapolis Metropolitan Police Department (IMPD) officers with guidelines for the 
+reasonable use of force.  The department considers the use of force in most instances to be defensive in 
+nature and to be used only when necessary and justified to accomplish lawful objectives.   All officers shall 
+exercise good judgment at all times when the use of force is necessary.   
+ 
+ 
+PURPOSE AND SCOPE 
+ 
+The use of force by law enforcement is a matter of critical concern for the public.  Although it is recognized 
+that some individuals will not comply with the law or submit to lawful control unless compelled to do so by 
+the use of force, the amount and type of force used shall be reasonable in all situations.    
+ 
+While there is no way to specify the exact amount or type of reasonable force to be applied in all situations, 
+each officer is expected to make such decisions in a professional and impartial manner.  It is the policy of 
+the department that officers shall use only that amount of force that is reasonable, given the facts and 
+circumstances known by the officer at the time of the event. 
+ 
+While  it  is  the  ultimate  objective  of  every  law  enforcement  encounter  to  minimize  injury  to  everyone 
+involved, nothing in this policy requires an officer to sustain physical injury before applying reasonable 
+force.  
+ 
+IMPD officers are approved to carry a department-authorized firearm and other authorized weapons in 
+accordance with their assigned duties.  Officers shall adhere to all department policies, procedures, rules, 
+regulations and directives regarding the carrying, use and care of those firearms and weapons.  Officers 
+shall at all times handle and carry any firearm/weapon with due consideration for others and themselves 
+(refer to G.O. 1.31 Officer Involved Shootings, G.O. 1.32 Firearms Review Board, G.O. 1.33 Electronic 
+Control Devices and G.O. 1.34 Control Devices for additional information).   
+ 
+Officers are required to immediately report all violations of department policies, procedures, rules and 
+regulations and directives regarding the use of force by another officer to a supervisor.  
+ 
+ 
+LEGAL ISSUES  
+ 
+This policy recognizes that the use of force by law enforcement requires constant evaluation.  Even at the 
+lowest level, the use of force is a serious responsibility and subject to legal scrutiny by the courts. The 
+reasonableness inquiry in an excessive force case is an objective one.  The issue in question is whether 
+the officer’s actions are objectively reasonable in light of the facts and circumstances at that moment in 
+time, without regard to any underlying intent or motivation.  
+ 
+Officers shall be aware of the possibility that a person’s lack of compliance may not always be a deliberate 
+attempt to resist.  Notwithstanding the added limitations of time constraints and other factors during rapidly 
+evolving  circumstances,  officers  should  balance  all  available  information  with  the  known  facts  of  the 
+incident when deciding the most appropriate option for a safe resolution.  
+ 
+
+ 
+WILLIAM D. LORAH 
+
+CHIEF OF POLICE 
+ 
+
+ 
+Supersedes IMPD General Orders 
+1.3 and 1.14, Effective 2007  
+
+ 
+Effective:  JULY 6, 2012 
+
+Page 1 of 8 
+
+ 
+
+1.30 
+
+USE OF FORCE 
+GENERAL ORDER 
+
+ 
+ 
+STATE STATUTES  
+ 
+IC 35-41-3-2 states in part: Use of force to protect person or property; 
+ 
+(a) A person is justified in using reasonable force against another person to protect the person or a third 
+person from what the person reasonably believes to be the imminent use of unlawful force.  However a 
+person:  (1)  is  justified  in  using  deadly  force;  and  (2)  does  not  have  a  duty  to  retreat;  if  the  person 
+reasonably believes that that force is necessary to prevent serious bodily injury to the person or a third 
+person or the commission of a forcible felony.  No person in this state shall be placed in legal jeopardy of 
+any kind whatsoever for protecting the person or a third person by reasonable means necessary. 
+ 
+IC 35-41-3-3 states in part: Use of force relating to arrest or escape; 
+ 
+(b)  A law enforcement officer is justified in using reasonable force if the officer reasonably believes that the 
+force is necessary to affect a lawful arrest.  However an officer is justified in using deadly force only if the 
+officer:  (1)  Has  probable  cause  to  believe  that  that  deadly  force  is  necessary:  (A)  To  prevent  the 
+commission of a forcible felony; or (B) To effect an arrest of a person who the officer has probable cause to 
+believe poses a threat of serious bodily injury to the officer or a third person; and (2) Has given a warning, if 
+feasible, to the person against whom the deadly force is to be used. (c) A law enforcement officer making 
+an arrest under an invalid warrant is justified in using force as if the warrant was valid, unless the officer 
+knows that the warrant is invalid. (d) A law enforcement officer who has an arrested person in custody is 
+justified in using the same force to prevent the escape of the arrested person from custody that the officer 
+would be justified in using if the officer was arresting that person.  However, an officer is justified in using 
+deadly force only if the officer: (1) Has probable cause to believe that deadly force is necessary to prevent 
+the escape from custody of a person who the officer has probable cause to believe poses a threat of 
+serious bodily injury to the officer or third person; and (2) Has given a warning, if feasible, to the person 
+against whom the deadly force is to be used. 
+ 
+IC 35-41-1-7 states: Deadly Force; Force that creates a substantial risk of serious bodily injury. 
+ 
+IC 35-41-1-25 states: Serious Bodily Injury; means bodily injury that creates a substantial risk of death or 
+that causes: (1) serious permanent disfigurement; (2) unconsciousness; (3) extreme pain; (4) permanent or 
+protracted loss or impairment of the function of a bodily member or organ; or (5) loss of a fetus.  
+ 
+IC 35-41-1-11 states: Forcible Felony; A felony that involves the use or threat of force against a human 
+being, or in which there is imminent danger of bodily injury to a human being. 
+ 
+ 
+I.    Factors Used to Determine the Reasonableness of Force 
+ 
+ 
+
+A.  When determining whether or not to apply any level of force or when evaluating whether an officer 
+has used reasonable force, there are a number of factors to be considered.  An officer’s use of force 
+is  individually  assessed  by  the  standards  set  by  the  Fourth  Amendment  to  the  United  States 
+Constitution and by the subsequent affected case decisions.   
+
+ 
+
+ 
+ 
+
+See Graham v Connor, 490 U.S. 386 (1989).  
+The U. S. Supreme Court applied the reasonableness test of the Fourth Amendment to use of force 
+inquiries.  Specifically, the test to determine the reasonableness of the force occurs by balancing 
+the government’s interest in making the seizure against the nature and quality of the intrusion.  The 
+nature and quality of the intrusion represents the amount or type of force the officer used.  Applying 
+the test requires careful attention to the facts and circumstances known to the officer at the time the 
+force was used, Id at 396. 
+ 
+ 
+
+Page 2 of 8 
+
+JULY 6, 2012 
+
+WILLIAM D. LORAH – Chief of Police 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+USE OF FORCE 
+GENERAL ORDER 
+
+1.30 
+
+To apply the test, the Graham decision states in part, “The reasonableness of a particular use of 
+force must be judged from the perspective of a reasonable officer on the scene, rather than with the 
+20/20 vision of hindsight.  The calculus of reasonableness must embody allowance for the fact that 
+police officers are often forced to make split-second judgments – in circumstances that are tense, 
+uncertain  and  rapidly  evolving  –  about  the  amount  of  force  that  is  necessary  in  a  particular 
+situation.”   
+
+The force must be reasonable under the circumstances known to the officer at the time the force 
+was used.  Therefore, the department and subsequently the courts examine all uses of force from 
+an objective standard rather than a subjective standard.  Those factors may include, but are not 
+limited to:  
+
+1.  The severity of the crime; 
+
+2.  Whether the suspect posed an immediate threat to the safety of the officer(s) or others; 
+
+3.  Whether the suspect was actively resisting arrest or attempting to evade arrest by flight; 
+
+4.  The conduct of the individual being confronted (as reasonably perceived by the officer at the 
+
+time); 
+
+5.  Officer versus suspect/subject factors (age, size, relative strength, skill level, injury/exhaustion 
+
+and number of officers vs. subjects);  
+
+6.  Whether the suspect was under the influence of drugs/alcohol (mental capacity); 
+
+7.  The degree to which the subject was effectively restrained and his/her ability to resist despite 
+
+being restrained; 
+
+8.  Information known about the subject to include; history of violence, criminal background, special 
+
+tactical training and/or martial arts training; 
+ 
+
+ 
+9.  Proximity of weapons; 
+
+10. The risk of escape; 
+
+11. Time  and  circumstances  permitting,  the  availability  of  other  options  (what  resources  were 
+
+reasonably available to the officer under the circumstances); 
+
+13.  Other exigent circumstances. 
+
+12.  Training and experience of the officer; and 
+
+ 
+ 
+ 
+ 
+ 
+B.  It is recognized however, that circumstances may arise in which officers reasonably believe that it 
+would be impractical or ineffective to use any of the standard tools, weapons or methods provided 
+by the department.  Officers may find it necessary, more effective or practical to improvise their 
+response to rapidly unfolding conditions they are confronting.  In such circumstances, the use of 
+any improvised device or method must nonetheless be objectively reasonable and utilized only to 
+the degree reasonably necessary to accomplish a legitimate law enforcement purpose.  
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+WILLIAM D. LORAH – Chief of Police 
+ 
+
+JULY 6, 2012 
+
+Page 3 of 8 
+
+1.30 
+
+USE OF FORCE 
+GENERAL ORDER 
+
+ 
+ 
+II.  Less Lethal Force Options 
+ 
+ 
+
+A.  Less lethal force options may be used when, in the officer’s opinion, persuasive speech or physical 
+contact controls are insufficient, unsafe or impractical to control or stop an aggressive act or forcible 
+resistance. These  options  are  not  intended to  substitute for the  use  of  deadly  force  when it  is 
+reasonable and necessary.  There is neither a requirement nor an expectation that officers attempt 
+to use or exhaust less lethal options in situations requiring the use of deadly force.  
+
+B.  Generally, less lethal force options should not be used on people who are properly handcuffed or 
+secured for transportation.  However in situations where an officer is physically threatened with 
+forcible resistance by a handcuffed subject, and there are no other reasonable force alternatives, 
+control devices pursuant to G.O. 1.34 may be used to assist in gaining control of the individual. 
+
+ 
+  C.  Any less lethal option may be utilized against aggressive animals.  
+ 
+  D.  The department authorizes the use of the following less lethal weapons to include but not limited to 
+o-chlorobenzylindenemalononitrile/oleoresincapsicum (CS/OC) spray, PepperBall® deployment 
+systems, extended range impact devices in twelve gauge shotgun, 37 and 40 mm launchers for the 
+delivery of kinetic energy impact projectiles and electronic control devices.  
+
+ 
+III. Deadly Force Applications 
+ 
+ 
+
+A.  While  the  use  of  a  firearm  is  expressly  considered  deadly  force,  other  force  might  also  be 
+considered deadly force if the force applied will create a substantial likelihood of causing death or 
+serious bodily injury (refer to G.O. 1.31 Officer Involved Shootings and G.O. 1.32 Firearms Review 
+Board for additional information regarding the shooting policy and related investigative procedures). 
+
+B.  Department-authorized firearms use 
+
+Firearms  shall  be  used  and  maintained  only  as  documented  in  training  provided  by  the 
+department’s  Firearms  Training  Section  (refer  to  General  Order  1.8  Firearms  for  information 
+regarding the acquisition, use, and documentation of training in the use of firearms).  
+
+1.  Nothing in this directive precludes an officer from un-holstering a firearm in a dangerous or life-
+threatening situation, such as serving a high-risk warrant, building search, felony vehicle stop or 
+other situations where the presentation of a firearm is a reasonable use of force. 
+
+2.  Officers  are  authorized  to  carry  only  those  firearms  and  ammunition  types  specifically 
+designated by the Firearms Training Section and approved by the chief of police.  This includes 
+the on-duty firearm, as well as any back-up or off-duty firearms for use in an official capacity.  
+
+3.  Officers shall demonstrate proficiency with any firearm that will be used in an official capacity 
+before  that  weapon  may  be  carried  and  comply  with  all  training  requirements  for  specific 
+firearms, as directed by the department. 
+
+4.  Use of any other unauthorized firearm or non-approved accessories or ammunition in an official 
+
+ 
+
+ 
+
+ 
+
+ 
+
+capacity is prohibited.  
+
+ 
+  C.  Discharges from department-authorized firearms   
+ 
+ 
+
+ 
+
+1.  All  discharges from  department-authorized  firearms,  on-duty  or  off-duty, except for  training 
+and/or qualification purposes, shall be immediately reported to an on-duty supervisor by the 
+involved officer in the most expedient method possible. The on-duty supervisor shall make 
+appropriate notification to his/her district commander or designee and respond to the scene of 
+the incident and conduct an investigation. 
+
+Page 4 of 8 
+
+JULY 6, 2012 
+
+WILLIAM D. LORAH – Chief of Police 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+USE OF FORCE 
+GENERAL ORDER 
+
+1.30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.  The use of any department-owned firearm for sport/recreational use, or by anyone other than 
+the assigned officer unless approved by the officer’s commander via chain of command, is 
+prohibited. 
+
+3.  The involved officer shall complete an initial police report and provide it to the assigned field 
+supervisor responsible for the investigation prior to the end of shift if on-duty and if off-duty, as 
+directed by the field supervisor. 
+
+4.  All  discharges of  a  department-authorized  firearm  shall  be  investigated  to  determine  if the 
+shooting is within the law and department policy.  The responsible supervisor will prepare a 
+Firearms Investigation Report (Other than Animal) or a Destruction of Animal (Firearm 
+Report).  The summary section shall be completed in detail in lieu of completing a Supervisory 
+Special Report.  
+
+a.  The Firearms Investigation Report, with one copy of the involved officer’s initial police report 
+
+will be forwarded through the chain of command to the chief of police. 
+
+b.  The chief of police will assign the case to his/her Executive Staff designee for compilation, 
+review and filing and the case will be forwarded to the Firearms Review Board for their 
+recommendation  to  the  chief  of  police  (refer  to  G.O.  1.32  Firearms  Review  Board  for 
+additional information regarding the administrative review process). 
+
+5.  If an uninvolved department member has knowledge of an unreported shooting incident they 
+
+shall report the known facts to a supervisor. 
+
+6.  Moving vehicles 
+
+Unless it reasonably appears that it would endanger officers or the public, officers are expected 
+to move out of the path of any approaching vehicle, however, 
+
+a.  This is not intended to restrict an officer’s right to use deadly force directed at the operator 
+of a vehicle when it is reasonably perceived that the vehicle is being used as a weapon 
+against the officer or others.  
+
+b.  Officers may use deadly force to stop a fleeing suspect when the officer has probable cause 
+to believe that  the  suspect  has committed,  or  intends to commit,  a felony  involving  the 
+infliction or threat of serious bodily injury and the officer reasonably believes that there is an 
+imminent  or  future  potential  risk  of  serious  bodily  injury  to  others  if  the  suspect  is  not 
+immediately apprehended.  Under such circumstances, a verbal warning should precede the 
+use of deadly force when feasible.  
+
+ 
+
+ 
+
+c.  Officers  shall  not  discharge  a  firearm  from  a  moving  vehicle,  except  in  exigent 
+
+circumstances and in the immediate defense of life. 
+
+NOTE 
+
+This policy, in regards to discharging a firearm at or from a moving vehicle, 
+may not cover every situation that may arise.  In all situations, officers are 
+expected to act with professional maturity, exercising sound judgment.  Any 
+deviation from the provisions of this policy shall be examined on a case-by-
+case  basis.    The  involved  officer  must  be  able  to  clearly  articulate  the 
+reasons for the use of deadly force. 
+
+ 
+
+ 
+
+ 
+
+WILLIAM D. LORAH – Chief of Police 
+ 
+
+JULY 6, 2012 
+
+Page 5 of 8 
+
+1.30 
+
+USE OF FORCE 
+GENERAL ORDER 
+
+ 
+
+7.  Warning shots  
+
+Generally, warning shots are prohibited and may not be discharged.  However, in exceptional 
+circumstances, and where a warning shot(s) might reasonably be expected to avoid the need to 
+use deadly force, the warning shot(s) shall be directed in a manner that minimizes the risk of 
+injury to innocent persons, ricochet dangers and property damage.  
+
+ 
+  D.  Firearms discharges causing injury or death  
+ 
+ 
+
+ 
+
+1.  The Homicide Section will investigate and properly document all officer discharges resulting in 
+
+an attempt to injure, an actual injury or death to a person.  
+
+2.  The Professional Standards Division/ Internal Affairs Section will conduct a parallel investigation 
+which will remain separate and independent of the homicide investigation.   The Internal Affairs 
+Section commander will be responsible for overseeing the internal investigation and reporting 
+the results through the Professional Standards Division commander to the chief of police.  Refer 
+to G.O. 1.31- Officer Involved Shootings for information regarding the investigative procedure. 
+
+ 
+IV. Notification and Documentation of the Use of Force 
+ 
+ 
+
+A.  An officer shall notify a supervisor via Communications as soon as practical following a use of force 
+
+incident as specifically outlined in this general order and as described below:  
+
+1.  Force applied through the use of deadly or non-deadly weapons. 
+
+2.  Discharge of an authorized firearm for other than training purposes. 
+
+3.  Force  applied  resulting  in,  or  alleged  to  have  resulted  in,  serious  bodily  injury,  injury  or 
+
+complaint of pain of another person. 
+
+B.  An officer shall promptly document any use of force described above as follows:  
+
+1.  The officer will obtain a case number from Communications and write an initial police report. 
+
+2.  The officer’s initial police report will describe the contributing factors leading up to and ultimately 
+requiring the use of force in the “Narrative” section, as well as in the “Probable Cause” section if 
+an arrest resulted. 
+
+3.  The officer will include a description of the force used and describe any resulting injuries to the 
+
+arrestee, the officer and/or any involved citizens. 
+
+4.  The officer will be responsible for having photos taken of all injuries and will document the 
+
+information in the initial police report. 
+
+ 
+
+ 
+  C.  The officer’s supervisor shall respond to the scene and complete a Supervisory Special Report 
+
+documenting the use of force as outlined in this general order.    
+
+1.  The supervisor’s report narrative will include the required documentation for the involved officer.  
+
+2.  The supervisor’s Supervisory Special Report will be forwarded to the affected division chief 
+within 72 hours of the incident, along with copies of all related paperwork. Refer to G.O. 1.33 
+Electronic Control Devices, G. O. 1.34 Control Devices and G.O. 4.2 Canine Response for the 
+corresponding Supervisory Special Report requirements. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 6 of 8 
+
+JULY 6, 2012 
+
+WILLIAM D. LORAH – Chief of Police 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+USE OF FORCE 
+GENERAL ORDER 
+
+1.30 
+
+ 
+ 
+ 
+V. Medical Attention for Injuries Sustained Using Force  
+ 
+ 
+
+A.  Other than specifically addressed above, or as stated in General Orders 1.33 and 1.34, medical 
+assistance shall be obtained for any person who has sustained visible injury, expressed a complaint 
+of injury, continuing pain or serious bodily injury.  Based upon the officer’s initial assessment of the 
+nature and extent of the subject’s injuries, medical assistance may consist of examination by IMPD 
+personnel, firefighters, paramedics, hospital staff or medical staff at the APC or jail.  If any such 
+individual refuses medical attention, such refusal shall be fully documented in related reports and 
+whenever practical, should be witnessed by another officer and/or medical personnel.  If an audio 
+recording is made of the contact or an interview with the individual, any refusal should be included if 
+possible. 
+
+B.  Persons who exhibit any combination of the following factors may be at an increased risk of sudden 
+
+death and should be examined by qualified medical personnel as soon as possible: 
+
+3.  Profuse sweating; 
+4.  Extraordinary strength beyond physical characteristics; 
+5.  Unusual high tolerance to pain; and/or 
+6.  Require a protracted physical encounter with multiple officers to bring under control. 
+
+ 
+ 
+
+1.  Extreme agitation; 
+2.  Violent irrational behavior; 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+VI.  Supervisor Responsibility 
+ 
+ 
+
+A.  Other than as specifically addressed above, when a supervisor responds to an incident in which 
+
+there has been a reported application of force, the supervisor is expected to: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.  Obtain the basic facts from the involved officer(s); 
+
+2.  Ensure that any injured parties are examined and treated; 
+
+a.  Photos of IMPD K-9 bites shall be taken after treatment by an authorized medical provider.   
+
+3.  Separately interview the subject(s) upon whom the force was applied; 
+
+4.  Ensure photographs have been taken of any areas involving visible injury.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  C.  Should the supervisor determine that any application of force was not within policy, the supervisor 
+
+B.  In the event the supervisor believes the incident may give rise to potential civil litigation, a separate
+  memorandum form shall be completed and routed to the district commander via chain of command. 
+
+6.  Review, complete and submit all related reports through the chain of command. 
+
+b.  Photos and other documentation shall include the location and number of bites. 
+
+5.  Identify and interview any witnesses not already included in related reports; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+shall initiate a separate internal administrative investigation. 
+
+WILLIAM D. LORAH – Chief of Police 
+ 
+
+JULY 6, 2012 
+
+Page 7 of 8 
+
+1.30 
+
+USE OF FORCE 
+GENERAL ORDER 
+
+ 
+ 
+VII. Annual Analysis   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Report; 
+
+A.  The department will maintain records for use of force incidents involving: 
+
+1.  Discharges of firearms; or 
+ 
+2.  Any force alleged to have resulted in serious bodily injury of another; or 
+ 
+3.  Any force through the use of deadly or non-deadly weapons; 
+
+4.  Any use of force where injury occurred and the injury was documented by a Supervisory Special 
+
+5.  Records for use of force incidents will be maintained by the Professional Standards Division. 
+ 
+
+ 
+ 
+B.  The  Professional  Standards  Division  will  be  responsible  for  conducting  a  documented  annual 
+analysis of the above reports by reviewing the incidents in an effort to reveal patterns or trends that 
+could indicate training needs, equipment upgrades and/or policy modifications.  
+
+ 
+  C.  The  resulting  report  from  the  annual  analysis  shall  be  forwarded  to  the  Training  Division 
+
+commander or designee, for evaluation and implementation. 
+
+NOTE 
+
+Any deviation from the provisions of this policy shall be examined on a case by 
+case basis.  The involved officer must be able to clearly articulate the reasons for 
+the use of force. 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Page 8 of 8 
+
+ 
+
+JULY 6, 2012 
+
+WILLIAM D. LORAH – Chief of Police 
+
+
